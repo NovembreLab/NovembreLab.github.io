@@ -4,7 +4,7 @@
 
 We can serve the website locally by using the following steps:
 
-1. Make sure you have `gem` and `bundler` installed by following the [first directions on this page](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) after you clone the repository
+1. Make sure you have `gem` and `bundler` installed by following the ["Install Jekyll from bundler"](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) instructions after you clone the repository
 
 2. Run `bundle install` in the directory with the jekyll site
 
