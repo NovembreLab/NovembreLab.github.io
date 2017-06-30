@@ -1,0 +1,9 @@
+- name: John Novembre
+  photo: john-novembre.jpg
+  info: Associate Professor
+  blurb: "I am an Associate Professor in the Department of Human Genetics at the University of Chicago. My main research goal is to tackle statistical and analytical problems that will enable discoveries about evolutionary processes and the nature of disease variation. I earned my undergrad degree in biochemistry at the Colorado College, studied for my PhD at UC-Berkeley under Montgomery Slatkin, and was a postdoc at Chicago with Matthew Stephens.  Previous to my post here, I was faculty in the Ecology and Evolution Department at UCLA."
+
+- name: Ben Peter
+  photo: ben-peter.jpg
+  info: Postdoctoral Fellow
+  blurb: "Ben Peter is a Swiss NSF postdoctoral fellow and former PhD student at the Department of Integrative Biology at the University of California-Berkeley under Monty Slatkin and Rasmus Nielsen. Ben has been working extensively on spatial expansion models and will continue to work on spatial population genetic problems in the lab."
