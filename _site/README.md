@@ -14,6 +14,7 @@ We can serve the website locally by using the following steps:
 
 5. Edit away and see the changes you make locally before you commit!
 
+
 ## Directory Structure
 
  * `_pages/` - contains all of the individual pages that make up the site (a lot of these are created using a mix of markdown and html)
@@ -36,6 +37,7 @@ Every time a is commit pushed to the master branch, the website will be deployed
   * Fill in current personnel (and lab alumni )
   * Fill in publications list
   * Fill in research page
+  * Clean up 
   * Port over news from wordpress website for (2016-2017)
   * Create page for software
   * Change photos on home page to reflect relevant lab material
