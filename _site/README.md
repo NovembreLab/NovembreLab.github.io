@@ -21,7 +21,7 @@ We can serve the website locally by using the following steps:
  * `_data/` - contains many `*.yml` files that are used when updates occur in terms of lab news or personnel
   - `news.yml` - yaml file with current news
   - `publist.yml` - yaml file containing list of publications in reverse chronological order
-  - `team_members.yml`  - contains information about all current personnel 
+  - `team_members.yml`  - contains information about all current personnel
 
  * `images/` - holds all of the images that are used on the site.
  * `_includes/` - defines html files for headers and footers for every page
