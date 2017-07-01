@@ -1,105 +1,207 @@
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: https://arxiv.org/abs/1705.08796
-    display:  arXiv:1705.08796 (2017)
-  highlight: 0
-  news2:
 
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+- title: Karp- Accurate and fast taxonomic classification using pseudoalignment
+  authors: Mark Reppell, John Novembre
   link:
-    url: https://arxiv.org/abs/1704.06805
-    display: arXiv:1704.06805 (2017)
-  highlight: 1
+    url: https://doi.org/10.1101/097949
+    display: bioRxiv (2017)
 
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
+- title: Population history of the Sardinian people inferred from whole-genome sequencing
+  authors: Charleston W.K. Chiang, Joseph H. Marcus, Carlo Sidore, Hussein Al-Asadi, Magdalena Zoledziewska, Maristella Pitzalis, Fabio Busonero, Andrea Maschio, Giorgio Pistis, Maristella Steri, Andrea Angius, Kirk E. Lohmueller, Goncalo R Abecasis, David Schlessinger, Francesco Cucca, John Novembre
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 1
+    url: https://doi.org/10.1101/092148
+    display: bioRxiv
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Pub_M2PG.png
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
+# Estimating Time to the Common Ancestor for a Beneficial Allele.
+# Smith J, Coop G, Stephens M, Novembre J.
+# bioRxiv doi: http://dx.doi.org/10.1101/071241
+#
+# Visualizing the Geography of Genetic Variants.
+# Marcus JH, Novembre J. (2016)
+# Bioinformatics (in press). PMID:27742697
+#
+# Pritchard, Stephens, and Donnelly on Population Structure.
+# Novembre J. (2016)
+# Genetics 204:391-393.  PMID:27729489
+#
+# Recent advances in the study of fine-scale population structure in humans.
+# Novembre J, Peter B. (2016).
+# Current Opinion in Genetics and Development 41:98-105. PMID:27662060
+#
+# Demographically-Based Evaluation of Genomic Regions under Selection in Domestic Dogs.
+# Freedman AH, Schweizer RM, Ortega-Del Vecchyo D, Han E, Davis BW, Gronau I, Silva PM, Galaverni M, Fan Z, Marx P, Lorente-Galdos B, Ramirez O, Hormozdiari F, Alkan C, Vilà C, Squire K, Geffen E, Kusak J, Boyko AR, Parker HG, Lee C, Tadigotla V, Siepel A, Bustamante CD, Harkins TT, Nelson SF, Marques-Bonet T, Ostrander EA, Wayne RK, Novembre J. (2016)
+# PLoS Genetics 12:e1005851.PMID:26943675
+#
+# Conflations of short IBD blocks can bias inferred length of IBD.
+# Chiang CWK, Ralph P, Novembre J. (2016)
+# G3 doi: 10.1534/g3.116.027581. PMID:26935417
+#
+# Technical Report: Assessment of the genetic analysis of Rasmussen et al. (2015).
+# Novembre J, Witonsky D, Di Rienzo A. (2016)
+# Report provided to the U.S. Army Corps of Engineers, St. Louis District and available from: http://cdm16021.contentdm.oclc.org/cdm/ref/collection/p16021coll11/id/950.
+#
+# Visualizing spatial population structure with estimated effective migration surfaces.
+# Petkova D, Novembre J, Stephens M. (2016)
+# Nature Genetics 48:94-100. PMID:26642242
+#
+# Height-reducing variants and selection for short stature on the island of Sardinia. Zoledziewska M*, Sidore C*, Chiang CWK*, Sanna S, Mulas A, Steri M, Busonero F, Marcus JH, Marongiu M, Maschio A, Ortega Del Vecchyo D, Floris M, Meloni A, Delitala A, Concas MP, Murgia F, Biino G, Vaccargiu S, Nagaraja R, Lohmueller KE, UK10K consortium, Timpson NJ, Soranzo N, Tachmazidou I Dedoussis G, Zeggini E, The Understanding Society Scientific Group, Uzzau S, Jones C, Lyons R, Angius A, Abecasis GR*, Novembre J*, Schlessinger D*, Cucca F*. (2015)
+# Nature Genetics 47:1352-6. [with Sidore et al, featured in News & Views] PMID:26366551
+#
+# Human Evolution: ancient DNA steps into the language debate.
+# Novembre J. (2015).
+# Nature (New and Views) 11:164-165. PMID:26062506
+#
+# Power analysis of artificial selection experiments using efficient whole genome simulation of quantitative traits
+# Kessner D, Novembre J. (2015)
+# Genetics 199:991-1005. doi: 10.1534/genetics.115.175075. Epub 2015 Feb 10. PMID: 25672748
+#
+# Fast and accurate site frequency spectrum estimation from low coverage sequence data
+# Han E, Sinsheimer JS, Novembre J. (2015)
+# Bioinformatics 31:720-7. doi: 10.1093/bioinformatics/btu725. Epub 2014 Oct 30. PMID: 25359894
+#
+# Spatial localization of recent ancestors for admixed individuals
+# Yang WY, Platt A, Chiang CW, Eskin E, Novembre J, Pasaniuc B. (2014)
+# G3 (Bethesda) 4:2505-18. doi: 10.1534/g3.114.014274. PMID: 25371484
+#
+# Demographic events and evolutionary forces shaping European genetic diversity.
+# Veeramah KR, Novembre J. (2014)
+# Cold Spring Harb Perspect Biol 6(9):a008516. doi:10.1101/cshperspect.a008516. PMID:25059709
+#
+# Variations on a Common STRUCTURE: New Algorithms for a Valuable Model
+# Novembre, J. (2014)
+# Genetics 197:809-811. PMID: 25024035
+#
+# Derived immune and ancestral pigmentation alleles in a 7,000-year-old Mesolithic European
+# Olalde I, Allentoft ME, Sánchez-Quinto F, Santpere G, Chiang CW, Degiorgio M, Prado-Martinez J, Rodríguez JA, Rasmussen S, Quilez J, Ramírez O, Marigorta UM, Fernández-Callejo M, Prada ME, Encinas JM, Nielsen R, Netea MG, Novembre J, Sturm RA, Sabeti P, Marquès-Bonet T, Navarro A, Willerslev E, Lalueza-Fox C. (2014)
+# Nature PMID: 24463515
+#
+# Genome sequencing highlights the dynamic early history of dogs
+# Freedman AH, Gronau I, Schweizer RM, Ortega-Del Vecchyo D, Han E, Silva PM, Galaverni M, Fan Z, Marx P, Lorente-Galdos B, Beale H, Ramirez O, Hormozdiari F, Alkan C, Vilà C, Squire K, Geffen E, Kusak J, Boyko AR, Parker HG, Lee C, Tadigotla V, Siepel A, Bustamante CD, Harkins TT, Nelson SF, Ostrander EA, Marques-Bonet T, Wayne RK, Novembre J. (2014)
+# PLoS Genet 10:e1004016 PMID: 24453982
+#
+# Analysis of rare variant population structure in Europeans explains differential stratification of gene-based tests
+# Zawistowski M, Reppell M, Wegmann D, St Jean PL, Ehm MG, Nelson MR, Novembre J, Zöllner S. (2014)
+# Eur J Hum Genet  [Epub ahead of print]. PMID: 24398795
+#
+# forqs: forward-in-time simulation of recombination, quantitative traits and selection.
+# Kessner D, Novembre J. (2013)
+# Bioinformatics 2013 Dec 28. [Epub ahead of print] PMID:24336146
+#
+# Characterizing bias in population genetic inferences from low coverage sequencing data
+# Han E, Sinsheimer JS, Novembre J.  (2013)
+# Molecular Biology and Evolution. PMID:24288159 (Epub ahead of print)
+#
+# Novel statistical methods for integrating genetic and stable isotope data to infer individual-level migratory connectivity
+# Rundel CW, Wunder MB, Alvarado AH, Ruegg KC, Harrigan R, Schuh A, Kelly JF, Siegel RB, Desante DF, Smith TB, Novembre J. (2013)
+# Molecular Ecology 22(16):4163-76. PMID:23906339 (Full Text) (News and Views)
+#
+# Maximum Likelihood Estimation of Frequencies of Known Haplotypes from Pooled Sequence Data.
+# Kessner D, Turner TL, Novembre J.  (2013)
+# Molecular Biology and Evolution 30:1145-58 PMID:23364324 (Full Text)
+#
+# An abundance of rare functional variants in 202 drug target genes sequenced in 14,002 people.
+# Nelson MR*, Wegmann D*, Ehm MG, Kessner D, St Jean P, Verzilli C, Shen J, Tang Z, Bacanu SA, Fraser D, Warren L, Aponte J, Zawistowski M, Liu X, Zhang H, Zhang Y, Li J, Li Y, Li L, Woollard P, Topp S, Hall MD, Nangle K, Wang J, Abecasis G, Cardon LR, Zöllner S, Whittaker JC, Chissoe SL, Novembre J*, Mooser V*.  (2012)
+# Science 337:100-4 PMID:22604722
+#
+# A model-based approach for analysis of spatial structure in genetic data.
+# Yang WY, Novembre J, Eskin E, Halperin E. (2012)
+# Nature Genetics 44(6):725-31 PMID:22610118 (Full Text)
+#
+# Genetic variation in the Sorbs of eastern Germany in the context of broader European genetic diversity.
+# Veeramah KR, Tönjes A, Kovacs P, Gross A, Wegmann D, Geary P, Gasperikova D, Klimes I, Scholz M, Novembre J, Stumvoll M. (2011)
+# European Journal of Human Genetics : EJHG 19(9):995-1001 PMID:21559053 (Full Text)
+#
+# Perspectives on human population structure at the cusp of the sequencing era.
+# Novembre J, Ramachandran S. (2011)
+# Annual Review of Genomics and Human Genetics 12:245-74 PMID:21801023
+#
+# Recombination rates in admixed individuals identified by ancestry-based inference.
+# Wegmann D, Kessner DE, Veeramah KR, Mathias RA, Nicolae DL, Yanek LR, Sun YV, Torgerson DG, Rafaels N, Mosley T, Becker LC, Ruczinski I, Beaty TH, Kardia SL, Meyers DA, Barnes KC, Becker DM, Freimer NB, Novembre J (2011)
+# Nature Genetics 43:847-53 PMID:21775992
+#
+# A genome-wide perspective on the evolutionary history of enigmatic wolf-like canids.
+# vonHoldt BM, Pollinger JP, Earl DA, Knowles JC, Boyko AR, Parker H, Geffen E, Pilot M, Jedrzejewski W, Jedrzejewska B, Sidorovich V, Greco C, Randi E, Musiani M, Kays R, Bustamante CD, Ostrander EA, Novembre J, Wayne RK. (2011)
+# Genome Research 21:1294-305 PMID:21566151 (Full Text)
+#
+# Principal component analysis under population genetic models of range expansion and admixture.
+# François O, Currat M, Ray N, Han E, Excoffier L, Novembre J (2010)
+# Molecular Biology and Evolution 27:1257-68 PMID:20097660
+#
+# Genome-wide SNP and haplotype analyses reveal a rich history underlying dog domestication.
+# Vonholdt BM, Pollinger JP, Lohmueller KE, Han E, Parker HG, Quignon P, Degenhardt JD, Boyko AR, Earl DA, Auton A, Reynolds A, Bryc K, Brisbin A, Knowles JC, Mosher DS, Spady TC, Elkahloun A, Geffen E, Pilot M, Jedrzejewski W, Greco C, Randi E, Bannasch D, Wilton A, Shearman J, Musiani M, Cargill M, Jones PG, Qian Z, Huang W, Ding ZL, Zhang YP, Bustamante CD, Ostrander EA, Novembre J, Wayne RK (Apr 2010)
+# Nature 464:898-902 PMID:20237475 (Full Text)
+#
+# Likelihood-based inference in isolation-by-distance models using the spatial distribution of low-frequency alleles.
+# Novembre J, Slatkin M (2009)
+# Evolution: International Journal of Organic Evolution 63:2914-25 PMID:19624728
+#
+# Spatial patterns of variation due to natural selection in humans.
+# Novembre J, Di Rienzo A (2009)
+# Nature Reviews Genetics 10:745-55 PMID:19823195
+#
+# Fast model-based estimation of ancestry in unrelated individuals.
+# Alexander DH, Novembre J, Lange K (2009)
+# Genome Research 19:1655-64 PMID:19648217 (Full Text)
+#
+# The role of geography in human adaptation.
+# Coop G, Pickrell JK, Novembre J, Kudaravalli S, Li J, Absher D, Myers RM, Cavalli-Sforza LL, Feldman MW, Pritchard JK (Jun 2009)
+# PLoS Genetics 5:e1000500 PMID:19503611 (Full Text)
+#
+# Signals of recent positive selection in a worldwide sample of human populations.
+# Pickrell JK, Coop G, Novembre J, Kudaravalli S, Li JZ, Absher D, Srinivasan BS, Barsh GS, Myers RM, Feldman MW, Pritchard JK (2009)
+# Genome Research 19:826-37 PMID:19307593 (Full Text)
+#
+# Global distribution of genomic diversity underscores rich complex history of continental human populations.
+# Auton A, Bryc K, Boyko AR, Lohmueller KE, Novembre J, Reynolds A, Indap A, Wright MH, Degenhardt JD, Gutenkunst RN, King KS, Nelson MR, Bustamante CD (2009)
+# Genome Research 19:795-803 PMID:19218534 (Full Text)
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
+- title: Genes mirror geography within Europe.
+  authors: Novembre J, Johnson T, Bryc K, Kutalik Z, Boyko AR, Auton A, Indap A, King KS, Bergmann S, Nelson MR, Stephens M, Bustamante CD
+  url:
+    link:
+    display: Nature (2008)
 
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+- title: The Population Reference Sample, POPRES -  a resource for population, disease, and pharmacological genetics research.
+  authors: Nelson MR, Bryc K, King KS, Indap A, Boyko AR, Novembre J, Briley LP, Maruyama Y, Waterworth DM, Waeber G, Vollenweider P, Oksenberg JR, Hauser SL, Stirnadel HA, Kooner JS, Chambers JC, Jones B, Mooser V, Bustamante CD, Roses AD, Burns DK, Ehm MG, Lai EH
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
+    url:
+    display: American Journal of Human Genetics (2008)
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+- title: Interpreting principal component analyses of spatial population genetic variation.
+  authors: Novembre J, Stephens M
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+    url:
+    display: Nature Genetics (2008)
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+- title : Ascertainment bias in spatially structured populations - A case study in the eastern fence lizard
+  authors:  Rosenblum EB, Novembre J
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+    url:
+    display: The Journal of Heredity (2007)
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
+- title: The geographic spread of the CCR5 Delta32 HIV-resistance allele.
+  authors: Novembre J, Galvani AP, Slatkin
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+    url: http://www.ncbi.nlm.nih.gov/pubmed/16216086
+    display: PLoS Biology (2005)
+
+- title: Finding haplotype block boundaries by using the minimum-description-length principle.
+  authors:
+    Anderson EC, <i>Novembre J</i>
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/12858289
+    display: American Journal of Human Genetics (2003)
+
+
+- title: Accounting for background nucleotide composition when measuring codon usage bias.
+  authors:
+    <i>Novembre J</i>
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/12140252
+    display: Molecular Biology and Evolution (2002)
+
+- title: SIMCOAL- a general coalescent program for the simulation of molecular data in interconnected populations with arbitrary demography.
+  authors:
+    Excoffier L, Novembre J, Schneider S
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/11218093
+    display: The Journal of heredity (2000)

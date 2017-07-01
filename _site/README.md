@@ -28,16 +28,17 @@ We can serve the website locally by using the following steps:
 
 ## Deploying changes to the website
 
-Every time a is commit pushed to the master branch, the website will be deployed to `NovembreLab.github.io`.
+Every time a is commit pushed to the master branch, the website will be deployed to `novembrelab.github.io`.
 
 ## TODO Items
 
-  * Fill in current personnel (and lab alumni )
+  * Fill in current personnel (for lab website)
   * Fill in publications list
-  * Fill in research page
-  * Clean up
+  * Fill in research page (images too)
+  * Create page for software with links to software and data
   * Port over news from wordpress website for (2016-2017)
   * Create page for software
+  * Change favicon.ico
   * Change photos on home page to reflect relevant lab material
   * Clean up code in team and news listings
 

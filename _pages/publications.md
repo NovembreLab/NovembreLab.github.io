@@ -6,9 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
-
 
 {% for publi in site.data.publist %}
 

@@ -12,15 +12,40 @@ Our goal is to develop widely used statistical methods for intelligently extract
 
 ## Population Genetics Methods and Theory
 
+  * Methods for studying and visualizing population structure
+
+  * Haplotype-based methods for inference in population genetics
+
+  * The impact of population structure on genome-wide association studies and methods to correct for the effects of population structure
+
+  * Inference of the relative strength of selection and dispersal based on the geographic spread of advantageous alleles
+
+  ![]({{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg){: style="width: 300px; float: right; border: 10px"}
 
 
 ## Human Population Genetics
 
+ * Patterns of population structure in human populations especially within world regions and finer spatial-scales
 
+ * The impact of recent demographic processes, particularly rapid recent growth, on human genetics
+
+ * The interaction of selection and demographic history in human evolutionary history
+
+ * Correcting for population structure in human genome-wide association studies
+
+ * Personalized genomics: Inference of detailed individual ancestry from genetic data
+
+ * The insights that can be gained from studies of human ancient DNA
 
 ## Canid Population Genetics
 
+In collaboration with Bob Wayne and the larger CanMap project:
 
+ * The genetic basis of adaptive evolution during early dog domestication from grey wolves
+
+ * The demographic history of early dog domestication
+
+ * Population structure and signatures of selection among arctic wolf ecotypes (e.g. tundra vs. taiga forms)
 
 
 # Training Goals
