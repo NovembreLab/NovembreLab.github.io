@@ -11,7 +11,6 @@ Our research group uses computational tools to study genetic diversity in natura
 From a disciplinary perspective, most of the ideas we use are from theoretical population genetics, statistical genetics, and computational statistics.  Much of our work is invigorated by addressing data from emerging genotyping and sequencing technologies applied to large or particularly interesting population samples.
 
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
