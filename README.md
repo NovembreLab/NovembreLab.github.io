@@ -34,6 +34,7 @@ Every time a is commit pushed to the master branch, the website will be deployed
 
   * Fill in current personnel (for lab website)
   * Fill in publications list
+  * Organize publications by date
   * Fill in research page (images too)
   * Create page for software with links to software and data
   * Port over news from wordpress website for (2016-2017)
