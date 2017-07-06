@@ -10,6 +10,8 @@ permalink: /research/
 
 Our goal is to develop widely used statistical methods for intelligently extracting information from large-scale genomic data with the aim to improve understanding of: (1) basic genomic biology, (2) the biology of heritable disease traits, (3) the genetic basis of evolutionary processes, and (4) the history and evolution of various species, especially humans.
 
+  ![]({{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg){: style="width: 300px; float: right; border: 10px"}
+
 ## Population Genetics Methods and Theory
 
   * Methods for studying and visualizing population structure
@@ -20,8 +22,7 @@ Our goal is to develop widely used statistical methods for intelligently extract
 
   * Inference of the relative strength of selection and dispersal based on the geographic spread of advantageous alleles
 
-  ![]({{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg){: style="width: 300px; float: right; border: 10px"}
-
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: left; border: 10px"}
 
 ## Human Population Genetics
 
@@ -36,6 +37,8 @@ Our goal is to develop widely used statistical methods for intelligently extract
  * Personalized genomics: Inference of detailed individual ancestry from genetic data
 
  * The insights that can be gained from studies of human ancient DNA
+
+
 
 ## Canid Population Genetics
 
