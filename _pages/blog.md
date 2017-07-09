@@ -6,6 +6,5 @@ sitemap: false
 permalink: /blog
 ---
 
-# Posts
 
-<!-- TODO : create a loop here through blog posts from _posts directory -->
+<!-- TODO : need to iterate through the posts here -->

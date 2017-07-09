@@ -1,11 +1,6 @@
-- date: 18. June
+- date: June 18th 2017
   headline: "New Website!"
+  blurb: "We now have a new website that uses the jekyll framework and is editable via github"
 
-- date: 17. June
-  headline: "Filler1!"
-
-- date: 16. June
-  headline: "Filler2!"
-
-- date: 15. June
-  headline: "Filler3!"
+- date: June 17th 2017
+  headline: "Test"
