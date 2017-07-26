@@ -9,7 +9,7 @@
   blurb: "<a href=\"http://bpeter.org/\">Ben Peter</a> is a Swiss NSF postdoctoral fellow and former PhD student at the Department of Integrative Biology at the University of California-Berkeley under Monty Slatkin and Rasmus Nielsen. Ben has been working extensively on spatial expansion models and will continue to work on spatial population genetic problems in the lab."
 
 - name: Daniel Rice
-  photo: bio-photo.jpg
+  photo: dan_rice.jpg
   info: Postdoctoral Fellow
   blurb: "<a href=\"https://sites.google.com/site/danielpaulrice/\">Daniel Rice</a> is a postdoctoral fellow in the Chicago Fellows Program.  He previously completed a PhD in the Department of Organismic and Evolutionary Biology at Harvard University where he studied with Michael Desai.  He has worked on problems arising in the analysis of experimental evolution data as well as core issues in theoretical population genetics, such as evolution of the distribution of fitness effects and signatures of multi-merger coalescence."
 
@@ -29,8 +29,8 @@
   blurb: "Evan is an NSF Graduate Research Fellow and PhD student in the Ecology and Evolution program. He has broad interests in evolutionary genetics and has worked in the past on long range LD in humans and sequential coalescent models for chromosome inversions.  He has been working on applications of diffusion theory to understand the interaction of selection and demography in recent human history."
 
 - name: Joe Marcus
-  photo: bio-photo.jpg
-  info: joe_marcus.png
+  photo: joe_marcus.png
+  info: PhD student
   blurb: "Joe is an NSF Graduate Research Fellow and PhD student in the Department of Human Genetics.  He first worked for the lab as an intern and programmer.  He worked extensively on the <a href=\"http://popgen.uchicago.edu/ggv/\">Geography of Genetic Variants Browser</a> as well as our collaboration with the SardiNIA/Progenia project.  He also has interests in the analysis of ancient DNA, quantitative trait variation, and cell-free DNA."
 
 - name: Joel Smith

@@ -6,29 +6,27 @@ sitemap: false
 permalink: /software.html
 ---
 
-# Software / Data
-
 ## Software
 
 Many of our projects are available via the [Novembre Lab Github Page](https://github.com/NovembreLab). Here are some of our software projects:
 
 * [Geography of Genetic Variants Browser](http://popgen.uchicago.edu/ggv/): A web-based tool for visualizing the geographic distribution of variants in several published datasets.
 
-* [forqs](https://bitbucket.org/dkessner/forqs) (Forward-in-time simulation of Recombination, Quantitative traits, and Selection): A flexible forward-in-time simulator, developed by PhD student Darren Kessner.
+* [ADMIXTURE](http://www.genetics.ucla.edu/software/admixture/):  Software for ancestry inference developed by former UCLA PhD student David Alexander.
 
-* [isoscatR](https://github.com/rundel/isoscatR): An R-package for spatial assignment using genetic and isotopic data, developed by former PhD student Colin Rundel, and based in part on the SCAT software from Matthew Stephens.
+* [forqs](https://bitbucket.org/dkessner/forqs) (Forward-in-time simulation of Recombination, Quantitative traits, and Selection): A flexible forward-in-time simulator, developed by PhD student Darren Kessner.
 
 * [harp](https://bitbucket.org/dkessner/harp) (Haplotype Analysis of Reads in Pools): Maximum likelihood estimation of frequencies of known haplotypes from pooled sequence data, developed by PhD student Darren Kessner.
 
 * [RASPberry](https://bitbucket.org/phaentu/raspberry/) (Recombination via Ancestry Switch Probabilities): Software for recombination rate inference using ancestry switch points in admixed individuals, developed by former postdoc Daniel Wegmann.
 
-* [ADMIXTURE](http://www.genetics.ucla.edu/software/admixture/):  Software for ancestry inference developed by former UCLA PhD student David Alexander.
+* [ENCprime](https://github.com/jnovembre/ENCprime): A program that calculates a codon usage bias summary statistic, Nc’. It is based on the effective number of codons statistic Nc (or ENC) developed by Frank Wright, but improves upon it by accounting for background nucleotide composition.  
+
+* [isoscatR](https://github.com/rundel/isoscatR): An R-package for spatial assignment using genetic and isotopic data, developed by former PhD student Colin Rundel, and based in part on the SCAT software from Matthew Stephens.
 
 * [MDBlocks](http://ib.berkeley.edu/labs/slatkin/eriq/software/mdb_web/): A program written with Eric Anderson (when we were both at Berkeley) that partitions a chromosomal segment into haplotype blocks using biallelic, phased haplotype data.
 
-* [ENCprime](https://github.com/jnovembre/ENCprime): A program that calculates a codon usage bias summary statistic, Nc’. It is based on the effective number of codons statistic Nc (or ENC) developed by Frank Wright, but improves upon it by accounting for background nucleotide composition.  Developed by John Novembre as a PhD student.
-
-* [SIMCOAL](http://cmpg.unibe.ch/software/simcoal/): A program that uses a coalescent framework to simulate the evolution of multiple haploid populations with complex demographies . Developed by Laurent Excoffier and Stefan Schnieder with some contributions from myself. NOTE: A new version, [SIMCOAL2](http://cmpg.unibe.ch/software/simcoal2/), is now available.
+* [SIMCOAL](http://cmpg.unibe.ch/software/simcoal/): A program that uses a coalescent framework to simulate the evolution of multiple haploid populations with complex demographies . Developed by Laurent Excoffier and Stefan Schnieder with some contributions from JN. NOTE: A new version, [SIMCOAL2](http://cmpg.unibe.ch/software/simcoal2/), is now available.
 
 
 ## Data Resources
