@@ -14,26 +14,26 @@
   blurb: "<a href=\"https://sites.google.com/site/danielpaulrice/\">Daniel Rice</a> is a postdoctoral fellow in the Chicago Fellows Program.  He previously completed a PhD in the Department of Organismic and Evolutionary Biology at Harvard University where he studied with Michael Desai.  He has worked on problems arising in the analysis of experimental evolution data as well as core issues in theoretical population genetics, such as evolution of the distribution of fitness effects and signatures of multi-merger coalescence."
 
 - name: Hussein Al-Asadi
-  photo: bio-photo.jpg
+  photo: hussein.png
   info: PhD Student
   blurb: "Hussein is a graduate student in the Committee of Evolutionary Biology and is interested in using Bayesian Statistics and coalescent theory to study population structure. He did his undergraduate work at the University of Michigan in Ann Arbor where he majored in mathematics. He is an NSF Graduate Research Fellow and is co-advised by Matthew Stephens. When not in the lab or playing with his two daughters, Hussein likes to fish and backpack."
 
 - name: Arjun Biddanda
-  photo: bio-photo.jpg
+  photo: arjun.jpg
   info: PhD Student
   blurb: "<a href=\"https://aabiddanda.github.io/\">Arjun</a> is a PhD student in the Department of Human Genetics and is interested in the analysis of haplotypic data to understand demography, recombination, selection, and trait architecture. He previously worked on the population history of the Bene Israel and Cochin Jews as an undergraduate at Cornell University as well as on methods for X-based GWAS."
 
 - name: Evan Koch
-  photo: bio-photo.jpg
+  photo: evan_koch.png
   info: PhD Student
   blurb: "Evan is an NSF Graduate Research Fellow and PhD student in the Ecology and Evolution program. He has broad interests in evolutionary genetics and has worked in the past on long range LD in humans and sequential coalescent models for chromosome inversions.  He has been working on applications of diffusion theory to understand the interaction of selection and demography in recent human history."
 
 - name: Joe Marcus
   photo: bio-photo.jpg
-  info: PhD Student
+  info: joe_marcus.png
   blurb: "Joe is an NSF Graduate Research Fellow and PhD student in the Department of Human Genetics.  He first worked for the lab as an intern and programmer.  He worked extensively on the <a href=\"http://popgen.uchicago.edu/ggv/\">Geography of Genetic Variants Browser</a> as well as our collaboration with the SardiNIA/Progenia project.  He also has interests in the analysis of ancient DNA, quantitative trait variation, and cell-free DNA."
 
 - name: Joel Smith
-  photo: bio-photo.jpg
+  photo: joel_smith.jpg
   info: PhD Student
   blurb: "Joel is a NSF Graduate Research Fellow and PhD student in the Dept of Ecology and Evolution and is interested in tools to dissect variation linked to alleles under positive selection. He’s generally interested in the interaction and effect of selection, recombination and population structure on linked variation."
