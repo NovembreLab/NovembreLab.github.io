@@ -26,6 +26,14 @@ We can serve the website locally by using the following steps:
  * `images/` - holds all of the images that are used on the site.
  * `_includes/` - defines html files for headers and footers for every page
 
+## Writing a Blog Post
+
+All of the posts are held in the `_posts/` directory. There are a couple of example posts in there, please be sure to follow the same format.
+
+Posts are written in markdown and have a file naming convention of `[date]-[title].md` (for examples see the `_posts`) directory.
+
+Each post also includes yaml topmatter that specifies the layout, title, date, and keywords of the post.
+
 ## Deploying changes to the website
 
 Every time a is commit pushed to the master branch, the website will be deployed to `novembrelab.github.io`.
