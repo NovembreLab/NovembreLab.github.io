@@ -6,7 +6,17 @@ sitemap: false
 permalink: /publications/
 ---
 
+
+![]({{ site.url }}{{ site.baseurl }}/images/banner.jpg){: style="width: 1000px; float: right; border: 10px"}
+
+
 # Publications
+
+
+Selected publications shown.  For a full listing see [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=novembre+j+%5Bau%5D") or [Google Scholar](http://scholar.google.com/citations?user=wIib4t0AAAAJ).
+
+Italics indicate current/former lab members.  * indicates authors contributed equally.
+
 
 <!-- ## Preprints -->
 

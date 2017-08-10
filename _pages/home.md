@@ -6,15 +6,20 @@ sitemap: false
 permalink: /
 ---
 
-   ![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: right; border: 10px"}
 
-## Introduction
+## Novembre Lab
+
+#### Research and Training in Population Genetic Methods, Theory, and Application
+
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: right; border: 10px"}
 
 Our research group uses computational tools to study genetic diversity in natural populations.  Our goal is to develop widely used statistical methods for intelligently extracting information from large-scale genomic data with the aim to improve understanding of: (1) basic genomic biology, (2) the biology of heritable disease traits, (3) the genetic basis of evolutionary processes, and (4) the history and evolution of various species, especially humans.
 
 From a disciplinary perspective, most of the ideas we use are from theoretical population genetics, statistical genetics, and computational statistics.  Much of our work is invigorated by addressing data from emerging genotyping and sequencing technologies applied to large or particularly interesting population samples.
 
+![]({{ site.url }}{{ site.baseurl }}/images/slider/pcgradients.png){: style="width: 300px; float: right; border: 10px"}
 
+<!---
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -34,6 +39,7 @@ From a disciplinary perspective, most of the ideas we use are from theoretical p
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg" alt="Slide 2" />
         </div> -->
 
+<!---
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -44,10 +50,10 @@ From a disciplinary perspective, most of the ideas we use are from theoretical p
     <span class="sr-only">Next</span>
   </a>
 </div>
+-->
 
 ## Research
 
-Our goal is to develop widely used statistical methods for intelligently extracting information from large-scale genomic data with the aim to improve understanding of: (1) basic genomic biology, (2) the biology of heritable disease traits, (3) the genetic basis of evolutionary processes, and (4) the history and evolution of various species, especially humans.
 
 
 ### Population Genetics Methods and Theory
@@ -87,6 +93,9 @@ Much of our work focuses on human genetic data, motivated in equal parts by an i
 
 
 ### Broader Evolutionary Genetics and Molecular Evolution
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/wolf_print.jpg){: style="width: 200px; float: right; border: 10px"}
+
 
 With the help of great collaborators, we have worked on several additional questions in evolutionary genetics and molecular evolution:
 
