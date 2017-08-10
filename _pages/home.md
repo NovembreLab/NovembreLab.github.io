@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-   ![]({{ site.url }}{{ site.baseurl }}/images/teampic/genetic-variant-browser.jpg){: style="width: 300px; float: right; border: 10px"}
+   ![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: right; border: 10px"}
 
 ## Introduction
 
@@ -49,9 +49,11 @@ From a disciplinary perspective, most of the ideas we use are from theoretical p
 
 Our goal is to develop widely used statistical methods for intelligently extracting information from large-scale genomic data with the aim to improve understanding of: (1) basic genomic biology, (2) the biology of heritable disease traits, (3) the genetic basis of evolutionary processes, and (4) the history and evolution of various species, especially humans.
 
-  ![]({{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg){: style="width: 300px; float: right; border: 10px"}
 
 ### Population Genetics Methods and Theory
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: right; border: 10px"}
+
 
 Our core projects address the following broad problems:
 
@@ -61,9 +63,11 @@ Our core projects address the following broad problems:
 
   * The impact of recent demographic processes, particularly rapid recent growth
 
-   ![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: right; border: 10px"}
 
 ### Human Population Genetics
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg){: style="width: 300px; float: right; border: 10px"}
+
 
 Much of our work focuses on human genetic data, motivated in equal parts by an inherent curiosity, by the biomedical importance, and by the relevance for a broader understanding of evolution in all organisms. Our projects address:
 
@@ -92,7 +96,7 @@ With the help of great collaborators, we have worked on several additional quest
  * *Evolve-and-resequence studies*: With Tom Turner (UCSB), we have developed methods and simulations for understanding evolve-and-resequence studies in Drosophila.  
  * *Codon usage bias*: With Dennis Wall and Josh Herbeck (when we were all back at UC-Berkeley), we produced a method for measuring for codon usage bias while accounting for background nucleotide composition.
 
-## Training 
+## Training
 
 Beyond our research goals, we have the following training and outreach aims:
 
