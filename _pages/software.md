@@ -8,13 +8,13 @@ permalink: /software.html
 
 ## Software
 
-*Many of our projects are available via the [Novembre Lab Github Page](https://github.com/NovembreLab). Here are some of our software projects*:
+Many of our projects are available via the [Novembre Lab Github Page](https://github.com/NovembreLab). Here are some of our software projects:
 
 {% for soft in site.data.software %}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/softpic/{{ soft.photo }}" class="img-responsive" width="10%" height="10%" style="float: left; padding-right: 20px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/softpic/{{ soft.photo }}"  width="120px" height="100px" style="float: left; padding-right: 20px" />
   <h4><a href="{{soft.url}}" target="_blank">{{ soft.name }}</a></h4>
   <p>{{soft.desc}}</p>
 </div>  
