@@ -26,25 +26,29 @@ We can serve the website locally by using the following steps:
  * `images/` - holds all of the images that are used on the site.
  * `_includes/` - defines html files for headers and footers for every page
 
+## Writing a Blog Post
+
+All of the posts are held in the `_posts/` directory. There are a couple of example posts in there, please be sure to follow the same format.
+
+Posts are written in markdown and have a file naming convention of `[date]-[title].md` (for examples see the `_posts`) directory.
+
+Each post also includes yaml topmatter that specifies the layout, title, date, and keywords of the post.
+
 ## Deploying changes to the website
 
 Every time a is commit pushed to the master branch, the website will be deployed to `novembrelab.github.io`.
 
-## TODO Items
+## Current TODO Items
 
-  * Fill in current personnel (for lab website)
-  * Fill in publications list
-  * Organize publications by date
-  * Fill in research page (images too)
-  * Create page for software with links to software and data
-  * Port over news from wordpress website for (2016-2017)
-  * Create page for software
-  * Change favicon.ico
+  * Get issue and other information for publications
+  * Fill in research page (w/ images)
+  * Port over news from wordpress website (2016-2017)
+  * Port over blog posts from wordpress (longer posts)
+  * Change favicon.ico to something representative of the lab
   * Change photos on home page to reflect relevant lab material
-  * Clean up code in team and news listings
 
 ## About the Website
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. Please feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
 
-Go to *aboutwebsite.md*  to learn how to copy and modify this page for your purpose. The website is based on that of the [Allan Lab @ Leiden University](http://www.allanlab.org/)
+Go to *aboutwebsite.md*  to learn how to copy and modify this page for your purpose. The website is based on the [Allan Lab @ Leiden University](http://www.allanlab.org/).

@@ -1,7 +1,7 @@
 ---
-title: "Home"
+title: "News"
 layout: textlay
-excerpt: "Novembre Lab at UChicago"
+excerpt: "Novembre Lab - News"
 sitemap: false
 permalink: /allnews.html
 ---
