@@ -1,0 +1,930 @@
+- id: Alexander2009ij
+  type: article-journal
+  author:
+  - family: Alexander
+    given: David H
+  - family: Novembre
+    given: John
+  - family: Lange
+    given: Kenneth
+  issued:
+  - year: '2009'
+    month: '9'
+  title: '[Fast model-based estimation of ancestry in unrelated individuals]{.nocase}'
+  container-title: Genome Res
+  page: '1655-64'
+  volume: '19'
+  issue: '9'
+  abstract: Population stratification has long been recognized as a confounding factor
+    in genetic association studies. Estimated ancestries, derived from multi-locus
+    genotype data, can be used to perform a statistical correction for population
+    stratification. One popular technique for estimation of ancestry is the model-based
+    approach embodied by the widely applied program structure. Another approach, implemented
+    in the program EIGENSTRAT, relies on Principal Component Analysis rather than
+    model-based estimation and does not directly deliver admixture fractions. EIGENSTRAT
+    has gained in popularity in part owing to its remarkable speed in comparison to
+    structure. We present a new algorithm and a program, ADMIXTURE, for model-based
+    estimation of ancestry in unrelated individuals. ADMIXTURE adopts the likelihood
+    model embedded in structure. However, ADMIXTURE runs considerably faster, solving
+    problems in minutes that take structure hours. In many of our experiments, we
+    have found that ADMIXTURE is almost as fast as EIGENSTRAT. The runtime improvements
+    of ADMIXTURE rely on a fast block relaxation scheme using sequential quadratic
+    programming for block updates, coupled with a novel quasi-Newton acceleration
+    of convergence. Our algorithm also runs faster and with greater accuracy than
+    the implementation of an Expectation-Maximization (EM) algorithm incorporated
+    in the program FRAPPE. Our simulations show that ADMIXTURE’s maximum likelihood
+    estimates of the underlying admixture coefficients and ancestral allele frequencies
+    are as accurate as structure’s Bayesian estimates. On real-world data sets, ADMIXTURE’s
+    estimates are directly comparable to those from structure and EIGENSTRAT. Taken
+    together, our results show that ADMIXTURE’s computational speed opens up the possibility
+    of using a much larger set of markers in model-based ancestry estimation and that
+    its estimates are suitable for use in correcting for population stratification
+    in association studies.
+  DOI: 10.1101/gr.094052.109
+  PMID: '19648217'
+
+- id: auton2009
+  type: article-journal
+  author:
+  - family: Auton
+    given: A.
+  - family: Bryc
+    given: K.
+  - family: Boyko
+    given: A.R.
+  - family: Lohmueller
+    given: K.E.
+  - family: Novembre
+    given: J.
+  - family: Reynolds
+    given: A.
+  - family: Indap
+    given: A.
+  - family: Wright
+    given: M.H.
+  - family: Degenhardt
+    given: J.D.
+  - family: Gutenkunst
+    given: R.N.
+  - family: King
+    given: K.S.
+  - family: Nelson
+    given: M.R.
+  - family: Bustamante
+    given: C.D.
+  issued:
+  - year: '2009'
+  title: Global distribution of genomic diversity underscores rich complex history
+    of continental human populations
+  container-title: Genome Research
+  publisher: Cold Spring Harbor Lab
+  page: '795-803'
+  volume: '19'
+  issue: '5'
+  ISSN: '1088-9051'
+
+- id: Boyko2010
+  type: article-journal
+  author:
+  - family: Boyko
+    given: A. R.
+  - family: Quignon
+    given: P.
+  - family: Li
+    given: L.
+  - family: Schoenebeck
+    given: J. J.
+  - family: Degenhardt
+    given: J. D.
+  - family: Lohmueller
+    given: K. E.
+  - family: Zhao
+    given: K.
+  - family: Brisbin
+    given: A.
+  - family: Parker
+    given: H. G.
+  - family: vonHoldt
+    given: B. M.
+  - family: Cargill
+    given: M.
+  - family: Auton
+    given: A.
+  - family: Reynolds
+    given: A.
+  - family: Elkahloun
+    given: A. G.
+  - family: Castelhano
+    given: M.
+  - family: Mosher
+    given: D. S.
+  - family: Sutter
+    given: N. B.
+  - family: Johnson
+    given: G. S.
+  - family: Novembre
+    given: J.
+  - family: Hubisz
+    given: M. J.
+  - family: Siepel
+    given: A.
+  - family: Wayne
+    given: R. K.
+  - family: Bustamante
+    given: C. D.
+  - family: Ostrander
+    given: E. A.
+  issued:
+  - year: '2010'
+  title: '[A simple genetic architecture underlies morphological variation in dogs]{.nocase}'
+  container-title: PLoS Biol.
+  page: 'e1000451'
+  volume: '8'
+  issue: '8'
+
+- id: Coop2009dz
+  type: article-journal
+  author:
+  - family: Coop
+    given: Graham
+  - family: Pickrell
+    given: Joseph K
+  - family: Novembre
+    given: John
+  - family: Kudaravalli
+    given: Sridhar
+  - family: Li
+    given: Jun
+  - family: Absher
+    given: Devin
+  - family: Myers
+    given: Richard M
+  - family: Cavalli-Sforza
+    given: Luigi Luca
+  - family: Feldman
+    given: Marcus W
+  - family: Pritchard
+    given: Jonathan K
+  issued:
+  - year: '2009'
+  title: '[The role of geography in human adaptation.]{.nocase}'
+  container-title: PLoS Genet
+  publisher-place: Department of Human Genetics, University of Chicago, Chicago, IL,
+    USA. gmcoop@ucdavis.edu
+  page: 'e1000500'
+  volume: '5'
+  issue: '6'
+  abstract: Various observations argue for a role of adaptation in recent human evolution,
+    including results from genome-wide studies and analyses of selection signals at
+    candidate genes. Here, we use genome-wide SNP data from the HapMap and CEPH-Human
+    Genome Diversity Panel samples to study the geographic distributions of putatively
+    selected alleles at a range of geographic scales. We find that the average allele
+    frequency divergence is highly predictive of the most extreme F(ST) values across
+    the whole genome. On a broad scale, the geographic distribution of putatively
+    selected alleles almost invariably conforms to population clusters identified
+    using randomly chosen genetic markers. Given this structure, there are surprisingly
+    few fixed or nearly fixed differences between human populations. Among the nearly
+    fixed differences that do exist, nearly all are due to fixation events that occurred
+    outside of Africa, and most appear in East Asia. These patterns suggest that selection
+    is often weak enough that neutral processes – especially population history, migration,
+    and drift – exert powerful influences over the fate and geographic distribution
+    of selected alleles.
+  DOI: 10.1371/journal.pgen.1000500
+  PMID: '19503611'
+
+- id: Destro-Bisol:2010dz
+  type: article-journal
+  author:
+  - family: Destro-Bisol
+    given: Giovanni
+  - family: Jobling
+    given: Mark A
+  - family: Rocha
+    given: Jorge
+  - family: Novembre
+    given: John
+  - family: Richards
+    given: Martin B
+  - family: Mulligan
+    given: Connie
+  - family: Batini
+    given: Chiara
+  - family: Manni
+    given: Franz
+  issued:
+  - year: '2010'
+  title: '[Molecular anthropology in the genomic era]{.nocase}'
+  container-title: J Anthropol Sci
+  page: '93-112'
+  volume: '88'
+  abstract: 'Molecular Anthropology is a relatively young field of research. In
+    fact, less than 50 years have passed since the symposium “Classification and Human
+    Evolution” (1962, Burg Wartenstein, Austria), where the term was formally introduced
+    by Emil Zuckerkandl. In this time, Molecular Anthropology has developed both methodologically
+    and theoretically and extended its applications, so covering key aspects of human
+    evolution such as the reconstruction of the history of human populations and peopling
+    processes, the characterization of DNA in extinct humans and the role of adaptive
+    processes in shaping the genetic diversity of our species. In the current scientific
+    panorama, molecular anthropologists have to face a double challenge. As members
+    of the anthropological community, we are strongly committed to the integration
+    of biological findings and other lines of evidence (e.g. linguistic and archaeological),
+    while keeping in line with methodological innovations which are moving the approach
+    from the genetic to the genomic level. In this framework, the meeting “DNA Polymorphisms
+    in Human Populations: Molecular Anthropology in the Genomic Era” (Rome, December
+    3-5, 2009) offered an opportunity for discussion among scholars from different
+    disciplines, while paying attention to the impact of recent methodological innovations.
+    Here we present an overview of the meeting and discuss perspectives and prospects
+    of Molecular Anthropology in the genomic era.'
+  PMID: '20834052'
+
+- id: Francois:2010fh
+  type: article-journal
+  author:
+  - family: François
+    given: Olivier
+  - family: Currat
+    given: Mathias
+  - family: Ray
+    given: Nicolas
+  - family: Han
+    given: Eunjung
+  - family: Excoffier
+    given: Laurent
+  - family: Novembre
+    given: John
+  issued:
+  - year: '2010'
+    month: '6'
+  title: '[Principal component analysis under population genetic models of range
+    expansion and admixture]{.nocase}'
+  container-title: Mol Biol Evol
+  page: '1257-68'
+  volume: '27'
+  issue: '6'
+  abstract: In a series of highly influential publications, Cavalli-Sforza and colleagues
+    used principal component (PC) analysis to produce maps depicting how human genetic
+    diversity varies across geographic space. Within Europe, the first axis of variation
+    (PC1) was interpreted as evidence for the demic diffusion model of agriculture,
+    in which farmers expanded from the Near East approximately 10,000 years ago and
+    replaced the resident hunter-gatherer populations with little or no interbreeding.
+    These interpretations of the PC maps have been recently questioned as the original
+    results can be reproduced under models of spatially covarying allele frequencies
+    without any expansion. Here, we study PC maps for data simulated under models
+    of range expansion and admixture. Our simulations include a spatially realistic
+    model of Neolithic farmer expansion and assume various levels of interbreeding
+    between farmer and resident hunter-gatherer populations. An important result is
+    that under a broad range of conditions, the gradients in PC1 maps are oriented
+    along a direction perpendicular to the axis of the expansion, rather than along
+    the same axis as the expansion. We propose that this surprising pattern is an
+    outcome of the “allele surfing” phenomenon, which creates sectors of high allele-frequency
+    differentiation that align perpendicular to the direction of the expansion.
+  DOI: 10.1093/molbev/msq010
+  PMID: '20097660'
+
+- id: Han2014
+  type: article-journal
+  author:
+  - family: Han
+    given: E.
+  - family: Sinsheimer
+    given: J. S.
+  - family: Novembre
+    given: J.
+  issued:
+  - year: '2014'
+    month: '3'
+  title: '[Characterizing bias in population genetic inferences from low-coverage
+    sequencing data]{.nocase}'
+  container-title: Mol. Biol. Evol.
+  page: '723-735'
+  volume: '31'
+  issue: '3'
+
+- id: Nelson2012
+  type: article-journal
+  author:
+  - family: Nelson
+    given: M. R.
+  - family: Wegmann
+    given: D.
+  - family: Ehm
+    given: M. G.
+  - family: Kessner
+    given: D.
+  - family: St Jean
+    given: P.
+  - family: Verzilli
+    given: C.
+  - family: Shen
+    given: J.
+  - family: Tang
+    given: Z.
+  - family: Bacanu
+    given: S. A.
+  - family: Fraser
+    given: D.
+  - family: Warren
+    given: L.
+  - family: Aponte
+    given: J.
+  - family: Zawistowski
+    given: M.
+  - family: Liu
+    given: X.
+  - family: Zhang
+    given: H.
+  - family: Zhang
+    given: Y.
+  - family: Li
+    given: J.
+  - family: Li
+    given: Y.
+  - family: Li
+    given: L.
+  - family: Woollard
+    given: P.
+  - family: Topp
+    given: S.
+  - family: Hall
+    given: M. D.
+  - family: Nangle
+    given: K.
+  - family: Wang
+    given: J.
+  - family: Abecasis
+    given: G.
+  - family: Cardon
+    given: L. R.
+  - family: Zollner
+    given: S.
+  - family: Whittaker
+    given: J. C.
+  - family: Chissoe
+    given: S. L.
+  - family: Novembre
+    given: J.
+  - family: Mooser
+    given: V.
+  issued:
+  - year: '2012'
+    month: '7'
+  title: '[An abundance of rare functional variants in 202 drug target genes sequenced
+    in 14,002 people]{.nocase}'
+  container-title: Science
+  page: '100-104'
+  volume: '337'
+  issue: '6090'
+
+- id: Nelson:2008p2415
+  type: article-journal
+  author:
+  - family: Nelson
+    given: Matthew R
+  - family: Bryc
+    given: Katarzyna
+  - family: King
+    given: Karen S
+  - family: Indap
+    given: Amit
+  - family: Boyko
+    given: Adam R
+  - family: Novembre
+    given: John
+  - family: Briley
+    given: Linda P
+  - family: Maruyama
+    given: Yuka
+  - family: Waterworth
+    given: Dawn M
+  - family: Waeber
+    given: Gérard
+  - family: Vollenweider
+    given: Peter
+  - family: Oksenberg
+    given: Jorge R
+  - family: Hauser
+    given: Stephen L
+  - family: Stirnadel
+    given: Heide A
+  - family: Kooner
+    given: Jaspal S
+  - family: Chambers
+    given: John C
+  - family: Jones
+    given: Brendan
+  - family: Mooser
+    given: Vincent
+  - family: Bustamante
+    given: Carlos D
+  - family: Roses
+    given: Allen D
+  - family: Burns
+    given: Daniel K
+  - family: Ehm
+    given: Margaret G
+  - family: Lai
+    given: Eric H
+  issued:
+  - year: '2008'
+    month: '9'
+  title: '[The Population Reference Sample, POPRES: a resource for population, disease,
+    and pharmacological genetics research]{.nocase}'
+  container-title: Am J Hum Genet
+  page: '347-58'
+  volume: '83'
+  issue: '3'
+  abstract: Technological and scientific advances, stemming in large part from the
+    Human Genome and HapMap projects, have made large-scale, genome-wide investigations
+    feasible and cost effective. These advances have the potential to dramatically
+    impact drug discovery and development by identifying genetic factors that contribute
+    to variation in disease risk as well as drug pharmacokinetics, treatment efficacy,
+    and adverse drug reactions. In spite of the technological advancements, successful
+    application in biomedical research would be limited without access to suitable
+    sample collections. To facilitate exploratory genetics research, we have assembled
+    a DNA resource from a large number of subjects participating in multiple studies
+    throughout the world. This growing resource was initially genotyped with a commercially
+    available genome-wide 500,000 single-nucleotide polymorphism panel. This project
+    includes nearly 6,000 subjects of African-American, East Asian, South Asian, Mexican,
+    and European origin. Seven informative axes of variation identified via principal-component
+    analysis (PCA) of these data confirm the overall integrity of the data and highlight
+    important features of the genetic structure of diverse populations. The potential
+    value of such extensively genotyped collections is illustrated by selection of
+    genetically matched population controls in a genome-wide analysis of abacavir-associated
+    hypersensitivity reaction. We find that matching based on country of origin, identity-by-state
+    distance, and multidimensional PCA do similarly well to control the type I error
+    rate. The genotype and demographic data from this reference sample are freely
+    available through the NCBI database of Genotypes and Phenotypes (dbGaP).
+  keyword: 'Drug Hypersensitivity, Pharmacogenetics, Population Groups, Case-Control
+    Studies, Male, Polymorphism: Single Nucleotide, European Continental Ancestry
+    Group, Databases: Genetic, Dideoxynucleosides, Genome: Human, Genetics: Population,
+    Humans, Genotype, Female'
+  DOI: 10.1016/j.ajhg.2008.08.005
+  PMID: '18760391'
+
+- id: Novembre:2008ek
+  type: article-journal
+  author:
+  - family: Novembre
+    given: J.
+  - family: Stephens
+    given: M.
+  issued:
+  - year: '2008'
+  title: Interpreting principal component analyses of spatial population genetic variation
+  container-title: Nature Genetics
+  page: '646-649'
+  volume: '40'
+  issue: '5'
+
+- id: Novembre:2008kx
+  type: article-journal
+  author:
+  - family: Novembre
+    given: John
+  - family: Johnson
+    given: Toby
+  - family: Bryc
+    given: Katarzyna
+  - family: Kutalik
+    given: Zoltán
+  - family: Boyko
+    given: Adam R
+  - family: Auton
+    given: Adam
+  - family: Indap
+    given: Amit
+  - family: King
+    given: Karen S
+  - family: Bergmann
+    given: Sven
+  - family: Nelson
+    given: Matthew R
+  - family: Stephens
+    given: Matthew
+  - family: Bustamante
+    given: Carlos D
+  issued:
+  - year: '2008'
+    month: '11'
+  title: '[Genes mirror geography within Europe]{.nocase}'
+  container-title: Nature
+  page: '98-101'
+  volume: '456'
+  issue: '7218'
+  abstract: Understanding the genetic structure of human populations is of fundamental
+    interest to medical, forensic and anthropological sciences. Advances in high-throughput
+    genotyping technology have markedly improved our understanding of global patterns
+    of human genetic variation and suggest the potential to use large samples to uncover
+    variation among closely spaced populations. Here we characterize genetic variation
+    in a sample of 3,000 European individuals genotyped at over half a million variable
+    DNA sites in the human genome. Despite low average levels of genetic differentiation
+    among Europeans, we find a close correspondence between genetic and geographic
+    distances; indeed, a geographical map of Europe arises naturally as an efficient
+    two-dimensional summary of genetic variation in Europeans. The results emphasize
+    that when mapping the genetic basis of a disease phenotype, spurious associations
+    can arise if genetic structure is not properly accounted for. In addition, the
+    results are relevant to the prospects of genetic ancestry testing; an individual’s
+    DNA can be used to infer their geographic origin with surprising accuracy-often
+    to within a few hundred kilometres.
+  DOI: 10.1038/nature07331
+  PMID: '18758442'
+
+- id: Novembre2006prep
+  type: article-journal
+  author:
+  - family: Novembre
+    given: John
+  - family: Slatkin
+    given: M.
+  issued:
+  - year: '2006'
+  title: '[Inference in the continuous isolation-by-distance model: Using low-frequency
+    alleles to estimate scaled dispersal distance]{.nocase}'
+  container-title: In preparation
+
+- id: Novembre2008hb
+  type: article-journal
+  author:
+  - family: Novembre
+    given: John
+  - family: Stephens
+    given: Matthew
+  issued:
+  - year: '2008'
+  title: '[Interpreting principal component analyses of spatial population genetic
+    variation.]{.nocase}'
+  container-title: Nat Genet
+  publisher-place: Department of Human Genetics, University of Chicago, 920 E. 58th
+    Street, CLSC 5th floor, Chicago, Illinois 60637, USA.
+  page: '646-649'
+  volume: '40'
+  issue: '5'
+  abstract: Nearly 30 years ago, Cavalli-Sforza et al. pioneered the use of principal
+    component analysis (PCA) in population genetics and used PCA to produce maps summarizing
+    human genetic variation across continental regions. They interpreted gradient
+    and wave patterns in these maps as signatures of specific migration events. These
+    interpretations have been controversial, but influential, and the use of PCA has
+    become widespread in analysis of population genetics data. However, the behavior
+    of PCA for genetic data showing continuous spatial variation, such as might exist
+    within human continental groups, has been less well characterized. Here, we find
+    that gradients and waves observed in Cavalli-Sforza et al.’s maps resemble sinusoidal
+    mathematical artifacts that arise generally when PCA is applied to spatial data,
+    implying that the patterns do not necessarily reflect specific migration events.
+    Our findings aid interpretation of PCA results and suggest how PCA can help correct
+    for continuous population structure in association studies.
+  DOI: 10.1038/ng.139
+  ISSN: 1546-1718 (Electronic)
+  PMID: '18425127'
+
+- id: Novembre:2009zr
+  type: article-journal
+  author:
+  - family: Novembre
+    given: John
+  - family: Slatkin
+    given: Montgomery
+  issued:
+  - year: '2009'
+  title: Likelihood-based inference in isolation-by-distance models using the spatial
+    distribution of low-frequency alleles
+  container-title: Evolution
+  page: '2914-25'
+  volume: '63'
+  issue: '11'
+  abstract: Estimating dispersal distances from population genetic data provides an
+    important alternative to logistically taxing methods for directly observing dispersal.
+    Although methods for estimating dispersal rates between a modest number of discrete
+    demes are well developed, methods of inference applicable to “isolation-by-distance”
+    models are much less established. Here, we present a method for estimating rhosigma(2),
+    the product of population density (rho) and the variance of the dispersal displacement
+    distribution (sigma(2)). The method is based on the assumption that low-frequency
+    alleles are identical by descent. Hence, the extent of geographic clustering of
+    such alleles, relative to their frequency in the population, provides information
+    about rhosigma(2). We show that a novel likelihood-based method can infer this
+    composite parameter with a modest bias in a lattice model of isolation-by-distance.
+    For calculating the likelihood, we use an importance sampling approach to average
+    over the unobserved intraallelic genealogies, where the intraallelic genealogies
+    are modeled as a pure birth process. The approach also leads to a likelihood-ratio
+    test of isotropy of dispersal, that is, whether dispersal distances on two axes
+    are different. We test the performance of our methods using simulations of new
+    mutations in a lattice model and illustrate its use with a dataset from Arabidopsis
+    thaliana.
+  PMID: '19624728'
+
+- id: Novembre:2011uq
+  type: article-journal
+  author:
+  - family: Novembre
+    given: John
+  - family: Ramachandran
+    given: Sohini
+  issued:
+  - year: '2011'
+    month: '9'
+  title: Perspectives on human population structure at the cusp of the sequencing
+    era
+  container-title: Annu Rev Genomics Hum Genet
+  page: '245-74'
+  volume: '12'
+  abstract: Human groups show structured levels of genetic similarity as a consequence
+    of factors such as geographical subdivision and genetic drift. Surveying this
+    structure gives us a scientific perspective on human origins, sheds light on evolutionary
+    processes that shape both human adaptation and disease, and is integral to effectively
+    carrying out the mission of global medical genetics and personalized medicine.
+    Surveys of population structure have been ongoing for decades, but in the past
+    three years, single-nucleotide-polymorphism (SNP) array technology has provided
+    unprecedented detail on human population structure at global and regional scales.
+    These studies have confirmed well-known relationships between distantly related
+    populations and uncovered previously unresolvable relationships among closely
+    related human groups. SNPs represent the first dense genome-wide markers, and
+    as such, their analysis has raised many challenges and insights relevant to the
+    study of population genetics with whole-genome sequences. Here we draw on the
+    lessons from these studies to anticipate the directions that will be most fruitful
+    to pursue during the emerging whole-genome sequencing era.
+  DOI: 10.1146/annurev-genom-090810-183123
+  PMID: '21801023'
+
+- id: Novembre:2010lo
+  type: article-journal
+  author:
+  - family: Novembre
+    given: John
+  - family: Stephens
+    given: Matthew
+  issued:
+  - year: '2010'
+    month: '8'
+  title: '[Response to Cavalli-Sforza interview \[Human Biology 82(3):245-266 (June
+    2010)\]]{.nocase}'
+  container-title: Hum Biol
+  page: '469-70'
+  volume: '82'
+  issue: '4'
+  DOI: 10.3378/027.082.0408
+  PMID: '21082913'
+
+- id: Novembre:2009qd
+  type: article-journal
+  author:
+  - family: Novembre
+    given: John
+  - family: Di Rienzo
+    given: Anna
+  issued:
+  - year: '2009'
+    month: '11'
+  title: Spatial patterns of variation due to natural selection in humans
+  container-title: Nat Rev Genet
+  page: '745-55'
+  volume: '10'
+  issue: '11'
+  abstract: Empowered by technology and sampling efforts designed to facilitate genome-wide
+    association mapping, human geneticists are now studying the geography of genetic
+    variation in unprecedented detail. With high genomic coverage and geographic resolution,
+    these studies are identifying loci with spatial signatures of selection, such
+    as extreme levels of differentiation and correlations with environmental variables.
+    Collectively, patterns at these loci are beginning to provide new insights into
+    the process of human adaptation. Here, we review the challenges of these studies
+    and emerging results, including how human population structure has influenced
+    the response to novel selective pressures.
+  DOI: 10.1038/nrg2632
+  PMID: '19823195'
+
+- id: novembre2005geographic
+  type: article-journal
+  author:
+  - family: Novembre
+    given: John
+  - family: Galvani
+    given: Alison P
+  - family: Slatkin
+    given: Montgomery
+  issued:
+  - year: '2005'
+  title: The geographic spread of the CCR5-Delta32 HIV-resistance allele
+  container-title: PLoS biology
+  publisher: Public Library of Science
+  page: 'e339'
+  volume: '3'
+  issue: '11'
+
+- id: Pickrell2009pl
+  type: article-journal
+  author:
+  - family: Pickrell
+    given: Joseph K
+  - family: Coop
+    given: Graham
+  - family: Novembre
+    given: John
+  - family: Kudaravalli
+    given: Sridhar
+  - family: Li
+    given: Jun Z
+  - family: Absher
+    given: Devin
+  - family: Srinivasan
+    given: Balaji S
+  - family: Barsh
+    given: Gregory S
+  - family: Myers
+    given: Richard M
+  - family: Feldman
+    given: Marcus W
+  - family: Pritchard
+    given: Jonathan K
+  issued:
+  - year: '2009'
+  title: '[Signals of recent positive selection in a worldwide sample of human populations.]{.nocase}'
+  container-title: Genome Res
+  publisher-place: Department of Human Genetics, The University of Chicago, Chicago,
+    IL 60637, USA. pickrell@uchicago.edu
+  page: '826-837'
+  volume: '19'
+  issue: '5'
+  abstract: Genome-wide scans for recent positive selection in humans have yielded
+    insight into the mechanisms underlying the extensive phenotypic diversity in our
+    species, but have focused on a limited number of populations. Here, we present
+    an analysis of recent selection in a global sample of 53 populations, using genotype
+    data from the Human Genome Diversity-CEPH Panel. We refine the geographic distributions
+    of known selective sweeps, and find extensive overlap between these distributions
+    for populations in the same continental region but limited overlap between populations
+    outside these groupings. We present several examples of previously unrecognized
+    candidate targets of selection, including signals at a number of genes in the
+    NRG-ERBB4 developmental pathway in non-African populations. Analysis of recently
+    identified genes involved in complex diseases suggests that there has been selection
+    on loci involved in susceptibility to type II diabetes. Finally, we search for
+    local adaptation between geographically close populations, and highlight several
+    examples.
+  DOI: 10.1101/gr.087577.108
+  PMID: '19307593'
+
+- id: Vonholdt2010
+  type: article-journal
+  author:
+  - family: Vonholdt
+    given: B. M.
+  - family: Pollinger
+    given: J. P.
+  - family: Lohmueller
+    given: K. E.
+  - family: Han
+    given: E.
+  - family: Parker
+    given: H. G.
+  - family: Quignon
+    given: P.
+  - family: Degenhardt
+    given: J. D.
+  - family: Boyko
+    given: A. R.
+  - family: Earl
+    given: D. A.
+  - family: Auton
+    given: A.
+  - family: Reynolds
+    given: A.
+  - family: Bryc
+    given: K.
+  - family: Brisbin
+    given: A.
+  - family: Knowles
+    given: J. C.
+  - family: Mosher
+    given: D. S.
+  - family: Spady
+    given: T. C.
+  - family: Elkahloun
+    given: A.
+  - family: Geffen
+    given: E.
+  - family: Pilot
+    given: M.
+  - family: Jedrzejewski
+    given: W.
+  - family: Greco
+    given: C.
+  - family: Randi
+    given: E.
+  - family: Bannasch
+    given: D.
+  - family: Wilton
+    given: A.
+  - family: Shearman
+    given: J.
+  - family: Musiani
+    given: M.
+  - family: Cargill
+    given: M.
+  - family: Jones
+    given: P. G.
+  - family: Qian
+    given: Z.
+  - family: Huang
+    given: W.
+  - family: Ding
+    given: Z. L.
+  - family: Zhang
+    given: Y. P.
+  - family: Bustamante
+    given: C. D.
+  - family: Ostrander
+    given: E. A.
+  - family: Novembre
+    given: J.
+  - family: Wayne
+    given: R. K.
+  issued:
+  - year: '2010'
+    month: '4'
+  title: '[Genome-wide SNP and haplotype analyses reveal a rich history underlying
+    dog domestication]{.nocase}'
+  container-title: Nature
+  page: '898-902'
+  volume: '464'
+  issue: '7290'
+
+- id: wegmann2011recombination
+  type: article-journal
+  author:
+  - family: Wegmann
+    given: D.
+  - family: Kessner
+    given: D.E.
+  - family: Veeramah
+    given: K.R.
+  - family: Mathias
+    given: R.A.
+  - family: Nicolae
+    given: D.L.
+  - family: Yanek
+    given: L.R.
+  - family: Sun
+    given: Y.V.
+  - family: Torgerson
+    given: D.G.
+  - family: Rafaels
+    given: N.
+  - family: Mosley
+    given: T.
+  - family: Becker
+    given: L.C.
+  - family: Ruczinski
+    given: I.
+  - family: Beaty
+    given: T.H.
+  - family: Kardia
+    given: L.R.
+  - family: Meyers
+    given: D.A.
+  - family: Barnes
+    given: K.C.
+  - family: Becker
+    given: D.M.
+  - family: Freimer
+    given: N.B.
+  - family: Novembre
+    given: J.
+  issued:
+  - year: '2011'
+  title: Recombination rates in admixed individuals identified by ancestry-based inference
+  container-title: Nature Genetics
+  publisher: Nature Publishing Group
+  page: '847-853'
+  volume: '43'
+  issue: '9'
+
+- id: Yang:2012az
+  type: article-journal
+  author:
+  - family: Yang
+    given: Wen-Yun
+  - family: Novembre
+    given: John
+  - family: Eskin
+    given: Eleazar
+  - family: Halperin
+    given: Eran
+  issued:
+  - year: '2012'
+    month: '6'
+  title: A model-based approach for analysis of spatial structure in genetic data
+  container-title: Nat Genet
+  page: '725-31'
+  volume: '44'
+  issue: '6'
+  abstract: Characterizing genetic diversity within and between populations has broad
+    applications in studies of human disease and evolution. We propose a new approach,
+    spatial ancestry analysis, for the modeling of genotypes in two- or three-dimensional
+    space. In spatial ancestry analysis (SPA), we explicitly model the spatial distribution
+    of each SNP by assigning an allele frequency as a continuous function in geographic
+    space. We show that the explicit modeling of the allele frequency allows individuals
+    to be localized on the map on the basis of their genetic information alone. We
+    apply our SPA method to a European and a worldwide population genetic variation
+    data set and identify SNPs showing large gradients in allele frequency, and we
+    suggest these as candidate regions under selection. These regions include SNPs
+    in the well-characterized LCT region, as well as at loci including FOXP2, OCA2
+    and LRP1B.
+  DOI: 10.1038/ng.2285
+  PMID: '22610118'
+...
