@@ -51,17 +51,19 @@ Our goal is to develop widely used statistical methods for intelligently extract
 
 ### Population Genetics Methods and Theory
 
+Our core projects address the following broad problems:
+
   * Methods for studying and visualizing population structure
 
-  * Haplotype-based methods for inference in population genetics
+  * Methods for leveraging haplotype data for methods for inference in population genetics
 
-  * The impact of population structure on genome-wide association studies and methods to correct for the effects of population structure
+  * The impact of recent demographic processes, particularly rapid recent growth
 
-  * Inference of the relative strength of selection and dispersal based on the geographic spread of advantageous alleles
-
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: left; border: 10px"}
+   ![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: right; border: 10px"}
 
 ### Human Population Genetics
+
+Much of our work focuses on human genetic data, motivated in equal parts by an inherent curiosity, by the biomedical importance, and by the relevance for a broader understanding of evolution in all organisms. Our projects address:
 
  * Patterns of population structure in human populations especially within world regions and finer spatial-scales
 
@@ -69,24 +71,24 @@ Our goal is to develop widely used statistical methods for intelligently extract
 
  * The interaction of selection and demographic history in human evolutionary history
 
+ * Inference of relative recombination rates from local ancestry patterns in admixed populations
+
  * Correcting for population structure in human genome-wide association studies
 
  * Personalized genomics: Inference of detailed individual ancestry from genetic data
 
- * The insights that can be gained from studies of human ancient DNA
+ * Human ancient DNA studies
 
 
+### Broader Evolutionary Genetics and Molecular Evolution
 
-### Canid Population Genetics
+With the help of great collaborators, we have worked on several additional questions in evolutionary genetics and molecular evolution:
 
-In collaboration with Bob Wayne and the larger CanMap project:
-
- * The genetic basis of adaptive evolution during early dog domestication from grey wolves
-
- * The demographic history of early dog domestication
-
- * Population structure and signatures of selection among arctic wolf ecotypes (e.g. tundra vs. taiga forms)
-
+ * *Canid evolution*: With Bob Wayne (UCLA), we work on problems regarding wolf population structure, early dog domestication, wolf-dog introgression, and canid mutation rates.
+ * *Dobzhansky-Muller incompabilitites (DMIs) in mice*: With Bret Payseur (Wisconsin), we work on the local ancestry signatures made by DMIs.
+ * *Avian migration*: With Kristen Ruegg (UCSC) and Tom Smith (UCLA), we have worked on methods for studying seasonal bird migrations.
+ * *Evolve-and-resequence studies*: With Tom Turner (UCSB), we have developed methods and simulations for understanding evolve-and-resequence studies in Drosophila.  
+ * *Codon usage bias*: With Dennis Wall and Josh Herbeck (when we were all back at UC-Berkeley), we produced a method for measuring for codon usage bias while accounting for background nucleotide composition.
 
 ## Training Goals
 
