@@ -1,32 +1,125 @@
-- date: 5/17
-  headline: "PhD student Arjun Biddanda successfully defended his PhD proposal "
 
-- date: 5/17-7/17
-  headline: "PhD student Evan Koch is participating in the NSF GROW program by spending a few months in Uppsala, Sweden where he is working in the lab of Hans Ellegren "
 
-- date: 5/17
-  headline: "John gave a keynote at the Great Lakes Bioinformatics Meeting here in Chicago"
+- headline: "PhD student <a href=\"https://aabiddanda.github.io/\">Arjun Biddanda</a> successfully defended his PhD proposal "
+  date: 5/17
 
-- date: 5/17
-  headline: "John served as an external examiner for the PhD of Jose Victor Moreno Mayar, a student of Eske Willerslev and Anna Sapfo Malaspinas in the GeoGenetics Institute in Copenhagen "
 
-- date: 5/17
-  headline: "The SardiNIA/Progenia project had a paper led by Mauro Pala and Stephen Montgomery's team published in Nature Genetics and the long awaited BAFF paper led by Maristella Steri and Francesco Cucca's team was published in the <a href=\"http://www.nejm.org/doi/full/10.1056/NEJMoa1610528\"> New England Journal of Medicine </a>   "
+- headline: "PhD student Evan Koch is participating in the NSF GROW program by spending a few months in Uppsala, Sweden where he is working in the lab of Hans Ellegren "
+  date: 5/17-7/17
 
-- date: 5/17
-  headline: "The search for a population geneticist in the Ecology and Evolution department is complete and we're excited that Matthias Steinrucken will be coming this September to join our faculty! "
+- headline: "John gave a keynote at the Great Lakes Bioinformatics Meeting here in Chicago "
+  date: 5/17
 
-- date: 4/17
-  headline: "A <a href=\"https://www.quantamagazine.org/a-map-of-human-history-hidden-in-dna-20170420/\">long interview article</a> published by Quanta magazine featured John "
+- headline: "John served as an external examiner for the PhD of Jose Victor Moreno Mayar, a student of Eske Willerslev and Anna Sapfo Malaspinas in the GeoGenetics Institute in Copenhagen "
+  date: 5/17
 
-- date: 4/17
-  headline: "The lab enjoyed a visit from Erik Lundgreen, a PhD student with Peter Ralph, working on non-stationary isolation-by-distance problems"
+- headline: "The SardiNIA/Progenia project had a paper led by Mauro Pala and Stephen Montgomery's team published <a href=\"https://www.nature.com/ng/journal/v49/n5/full/ng.3840.html\">in Nature Genetics</a> and the long awaited BAFF paper led by Maristella Steri and Francesco Cucca's team was published <a href=\"http://www.nejm.org/doi/full/10.1056/NEJMoa1610528\">in the New England Journal of Medicine</a>! "
+  date: 5/17
 
-- date: 3/17
-  headline: "We welcomed a new postdoctoral fellow <a href=\" https://sites.google.com/site/danielpaulrice/\"> Daniel Rice</a>, who is part of the prestigious Chicago Fellows program! "
+- headline: "The search for a population geneticist in the Ecology and Evolution department is complete and we're excited that <a href=\"https://scholar.google.com/citations?user=be4aJvIAAAAJ&amp;hl=en\">Matthias Steinrucken</a> will be coming this September to join our faculty! "
+  date: 5/17
 
-- date: 3/17
-  headline: "Evan and John's paper on the impact of demography and selection on deleterious variation is out in <a href=\"http://www.g3journal.org/content/7/3/1027.long\">G3</a>. "
+- headline: "A <a href=\"https://www.quantamagazine.org/a-map-of-human-history-hidden-in-dna-20170420/\">long interview article published by Quanta magazine</a> featured John "
+  date: 4/17
 
-- date: 2/17
-  headline: "Joe Marcus and John travelled to the Gordon Conference for Quantitative Genetics where John gave plenary on their collaborative work "
+- headline: "The lab enjoyed a visit from Erik Lundgreen, a PhD student with Peter Ralph, working on non-stationary isolation-by-distance problems "
+  date: 4/17
+
+- headline: "We welcomed a new postdoctoral fellow <a href=\"https://sites.google.com/site/danielpaulrice/\">Daniel Rice</a>, who is part of the prestigious Chicago Fellows program! "
+  date: 3/17
+
+- headline: "Evan and John's paper on the impact of demography and selection on deleterious variation is out in <a href=\"http://www.g3journal.org/content/7/3/1027.long\">G3</a>. "
+  date: 3/17
+
+- headline: "Joe Marcus and John travelled to the Gordon Conference for Quantitative Genetics where John gave plenary on their collaborative work "
+  date: 2/17
+
+- headline: "The lab enjoyed a week-long hackathon on the geographic distribution of genetic variants "
+  date: 12/16
+
+- headline: "A new version of our <a href=\"http://popgen.uchicago.edu/ggv/\">\"Geography of Genetics Variants\" server</a> has been posted that allow simple url-based query of a variant.  "
+  date: 12/16
+
+- headline: "Our pre-print on demographic history and population structure of Sardinia is now on the <a href=\"http://biorxiv.org/content/early/2016/12/07/092148\">bioRxiv</a>.  "
+  date: 12/16
+
+- headline: "Ben and John contributed to a large collaborative paper led by Tomas Marques on chimpanzee and bonobo genetics that is now published in <em><a href=\"http://science.sciencemag.org/content/354/6311/477.long\">Science</a>.</em> "
+  date: 11/16
+
+- headline: "John spoke at the NAS/Kavli Frontiers of Science Symposium in Irvine.  "
+  date: 11/16
+
+- headline: "Joe and John's paper on the <a href=\"http://popgen.uchicago.edu/ggv\">\"Geography of Genetic Variants\" server</a> went online at <a href=\"http://bioinformatics.oxfordjournals.org/content/early/2016/10/14/bioinformatics.btw643.long\"><em>Bioinformatics</em></a>.  "
+  date: 10/16
+
+- headline: "The whole lab travelled to Vancouver to attend and present at the annual ASHG convention. "
+  date: 10/16
+
+- headline: "Hussein attended and presented at the Probabilistic Genomes meeting at Oxford. "
+  date: 10/16
+
+- headline: "Ben and John's review on fine-scale population structure in humans goes online at <em><a href=\"http://www.sciencedirect.com/science/article/pii/S0959437X16301113\">Current Opinions Genetics and Development</a> </em>as part of an excellent <a href=\"http://www.sciencedirect.com/science/journal/0959437X/41\">special issue</a> edited by Anna Di Rienzo and Josh Akey. "
+  date: 9/16
+
+- headline: " Biddanda and Joe Marcus officially joined the lab as our newest PhD students!  "
+  date: 9/16
+
+- headline: "We hosted the 3rd annual <a href=\"https://midwestpopgen.wordpress.com/\">Midwest PopGen meeting</a> here at UChicago - it was once again a great amount of fun. "
+  date: 8/16
+
+- headline: "Summer travel: Arjun, Joe, and John travelled to Sardinia to teach in the summer school short course on Complex Disease Mapping and had some excellent side adventuring.  Arjun, Joe, Hussein, and John all attended the Computational Genomics Summer Institute at UCLA.  Evan attended SSE in Austin and presented a poster. Joel did an internship on science policy in Brasilia, Brazil. "
+  date: 6/16-8/16
+
+- headline: "PhD student Diego Ortega del Vecchyo crossed the threshold and defended his PhD - he'll be greatly missed and is now onto a postdoctoral fellowship at UC-Berkeley. "
+  date: 6/16
+
+- headline: "Charleston's paper on the <a href=\"http://www.g3journal.org/content/6/5/1287\">challenges of interpreting IBD tract lengths is published in <em>G3</em></a><em>.</em> "
+  date: 5/16
+
+- headline: "John, David Witonsky and Anna Di Rienzo submitted <a href=\"http://cdm16021.contentdm.oclc.org/cdm/ref/collection/p16021coll11/id/950.\">their report</a> to the Army Corps of Engineers reanalyzing the aDNA data with regards to the origins of the Kennewick Man Sample"
+  date: 4/16
+
+- headline: "Adam's paper on the <a href=\"http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005851\">inferring regions of selection in early dog domestication is published in <em>PLoS Genetics</em></a><em>.</em> "
+  date: 3/16
+
+- headline: "Our paper with Desi Petkova and Matthew Stephens on <a href=\"http://www.nature.com/ng/journal/v48/n1/abs/ng.3464.html\">visualizing migration surfaces the EEMS method) was published in <em>Nature Genetics</em></a><em>.</em> "
+  date: 1/16
+
+- headline: "<a href=\"http://www.nature.com/ng/journal/v47/n11/full/ng.3436.html\">November issue of Nature Genetics</a> highlights Sardinia genetics and includes two papers we contributed to! "
+  date: 11/15
+
+- headline: "<a href=\"https://www.reddit.com/r/science/comments/3tf9a1/science_ama_series_im_john_novembre_and_i_study/\">Ask-Me-Anything series on Reddit</a> put John to the test. "
+  date: 11/15
+
+- headline: "John was awarded a MacArthur fellowship!   Check out the <a href=\"http://https://www.youtube.com/watch?v=czVNYdtAaB8)\">video biography</a> they did, with background cameos from various members of the lab."
+  date: 10/15
+
+- headline: "Summer conference travel: Much of the lab attended SMBE in Austria where talks were given by Diego Ortega, Ben Peter, and myself and a poster was presented by Evan Koch.  Many of us also attended the second edition of the Midwest Population Genetics meeting, this time held at the University of Michigan.  Joel Smith attended SSE in Brazil where he gave a talk, and Ben Peter gave a talk at the ESEB meeting in Laussane "
+  date: 7/15, 8/15
+
+- headline: "Lab programmer Joe Marcus spent three months of the summer in the lab of our collaborator Francesco Cucca in Cagliari, Sardinia as part of our work in the <a href=\"https://sardinia.irp.nia.nih.gov/\">SardiNIA/Progenia project</a>  "
+  date: 6/15
+
+- headline: "The lab was awarded one of a new <a href=\"https://datascience.nih.gov/bd2k/funded-programs/software\">BD2K targeted software development awards</a> based on our research proposal \"Tools for Visualization of Geographic Structure in Population Genomic Data\" "
+  date: 6/15
+
+- headline: "John authored a News and Views article <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/26062506\">\"Human evolution: ancient DNA steps into the language debate\"</a> "
+  date: 6/15
+
+- headline: "The lab enjoyed a great 1-day retreat at the University's <a href=\"http://pondside.uchicago.edu/ecol-evol/facilities/WW.shtml\">Warren Woods research station</a>. "
+  date: 6/15
+
+- headline: "Former postdoctoral fellow <a href=\"https://sites.google.com/site/charlestonchiang/\">Charleston Chiang</a> did a tour in China and Taiwan giving talks, finished his fellowship, and transitioned to a new position at UCLA with Nelson Freimer"
+  date: 6/15
+
+- headline: "Anna di Rienzo and John organized and hosted the Department of Human Genetics <a href=\"http://genes.uchicago.edu/mitchell-conference\">Mitchell Symposium with a focus this year on ancient DNA</a>.  We enjoyed great talks from David Reich, Matthias Meyer, Tina Warriner, and Alan Cooper.  The event brought together a diverse audience on campus and was held in the University of Chicago's home for archaeology, the Oriental Institute.  "
+  date: 5/15
+
+- headline: "Johannes Krause visited for a Human Genetics seminar, and with Johannes we took a joy trip to see <a href=\"http://cahokiamounds.org/learn/\">the Cahokia Mounds</a> outside of \"Mound City\" (a.k.a. St. Louis)."
+  date: 5/15
+
+- headline: "Eunjung's manuscript <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/25359894\">\"Fast and accurate site frequency spectrum estimation from low coverage sequence data\"</a> was published in Bioinformatics.  She's now working as a computational biologist for Ancestry.com.  "
+  date: 3/15
+
+- headline:  Darren Kessner's manuscript <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/25672748\">\"Power analysis of artificial selection experiments using efficient whole genome simulation of quantitative traits\"</a> was published in February in Genetics.  Darren is now teaching math and expanding the computer science program at the Marlborough School in Los Angeles. "
+  date: 2/15
