@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-## Novembre Lab
+# Novembre Lab
 
 #### Research and Training in Population Genetic Methods, Theory, and Application
 
