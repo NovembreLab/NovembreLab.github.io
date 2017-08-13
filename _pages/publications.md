@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/banner.jpg){: style="width: 1000px; float: right; border: 10px"}
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/banner.jpg){: style="width: 1000px; float: right; border: 10px"} -->
 
 
 # Publications
@@ -26,7 +26,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2017 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}</a>
 
  {% endif %}
 {% endfor %}
@@ -37,7 +37,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2016 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}  {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
@@ -48,7 +48,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2015 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}  {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
@@ -59,7 +59,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2014 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}  {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
@@ -70,7 +70,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2013 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}  {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
@@ -81,7 +81,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2012 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}   {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
@@ -92,7 +92,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2011 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}   {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
@@ -103,7 +103,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2010 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}   {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
@@ -114,7 +114,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2009 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}   {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
@@ -125,7 +125,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2008 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}  {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
@@ -136,7 +136,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date <= 2007 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }}  <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }}  <br/> <a href="{{ publi.link.url }}">{{ publi.link.journal }}  {{publi.link.issuepage}}</a>
 
  {% endif %}
 {% endfor %}
