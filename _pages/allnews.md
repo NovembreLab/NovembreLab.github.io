@@ -6,8 +6,8 @@ sitemap: false
 permalink: /allnews.html
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/banner.jpg){: style="width: 1000px; float: right; border: 10px"}
 
+![]({{ site.url }}{{ site.baseurl }}/images/banner.jpg){: style="width: 1000px; float: right; border: 10px"}
 
 # News
 

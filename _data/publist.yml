@@ -1,27 +1,41 @@
 
 - title: Karp - Accurate and fast taxonomic classification using pseudoalignment
   authors: Mark Reppell, John Novembre
-  date: 2017
+  date: 2018
   link:
     url: https://doi.org/10.1101/097949
     display: bioRxiv
 
 - title: Population history of the Sardinian people inferred from whole-genome sequencing
   authors: Charleston W.K. Chiang, Joseph H. Marcus, Carlo Sidore, Hussein Al-Asadi, Magdalena Zoledziewska, Maristella Pitzalis, Fabio Busonero, Andrea Maschio, Giorgio Pistis, Maristella Steri, Andrea Angius, Kirk E. Lohmueller, Goncalo R Abecasis, David Schlessinger, Francesco Cucca, John Novembre
-  date: 2017
+  date: 2018
   link:
     url: https://doi.org/10.1101/092148
     display: bioRxiv
 
 - title: Estimating Time to the Common Ancestor for a Beneficial Allele.
   authors: Smith J, Coop G, Stephens M, Novembre J.
-  date: 2017
+  date: 2018
   link:
     url: http://dx.doi.org/10.1101/071241
     display: bioRxiv
 
+- title: Overexpression of the Cytokine BAFF and Autoimmunity Risk
+  authors: Steri et al
+  date: 2017
+  link:
+      url:
+      display: New England Journal of Medicine
+
+- title: A longitudinal cline characterizes the genetic structure of human populations in the Tibetan plateau
+  authors: Jeong C et al
+  date: 2017
+  link:
+    url:
+    display: PLoS One
+
 - title: A Temporal Perspective on the Interplay of Demography and Selection on Deleterious Variation in Humans
-  authors: Koch E. Novembre J.
+  authors: Koch E, Novembre J
   date: 2017
   link:
     url: http://www.g3journal.org/content/7/3/1027
@@ -30,7 +44,7 @@
 
 - title: Visualizing the Geography of Genetic Variants.
   authors: Marcus JH, Novembre J.
-  date: 2016
+  date: 2017
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27742697
     display: Bioinformatics
@@ -57,21 +71,21 @@
     display: PLoS Genetics
 
 - title: Conflations of short IBD blocks can bias inferred length of IBD.
-  authors: Chiang CWK, Ralph P, Novembre J. (2016)
+  authors: Chiang CWK, Ralph P, Novembre J.
   date: 2016
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26935417
     display: G3
 
 - title: Technical Report- Assessment of the genetic analysis of Rasmussen et al. (2015).
-  authors: Novembre J, Witonsky D, Di Rienzo A. (2016)
+  authors: Novembre J, Witonsky D, Di Rienzo A.
   date: 2016
   link:
     url: http://cdm16021.contentdm.oclc.org/cdm/ref/collection/p16021coll11/id/950
     display: Report provided to the U.S. Army Corps of Engineers, St. Louis District
 
 - title: Visualizing spatial population structure with estimated effective migration surfaces.
-  authors: Petkova D, Novembre J, Stephens M. (2016)
+  authors: Petkova D, Novembre J, Stephens M.
   date: 2016
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26642242
@@ -236,7 +250,7 @@
 - title: Principal component analysis under population genetic models of range expansion and admixture.
   authors: François O, Currat M, Ray N, Han E, Excoffier L, Novembre J.
   date: 2010
-  links:
+  link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/20097660
     display: Molecular Biology and Evolution
 
@@ -250,52 +264,51 @@
 - title: Likelihood-based inference in isolation-by-distance models using the spatial distribution of low-frequency alleles.
   authors: Novembre J, Slatkin M
   date: 2009
-  links:
+  link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19624728
-    display: Evolution - International Journal of Organic Evolution
+    display: Evolution
 
 - title: Spatial patterns of variation due to natural selection in humans.
   authors:  Novembre J, Di Rienzo A
   date: 2009
-  links:
+  link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19823195
     display: Nature Reviews Genetics
 
 - title: Fast model-based estimation of ancestry in unrelated individuals.
   authors: Alexander DH, Novembre J, Lange K
   date: 2009
-  links:
+  link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19648217
     display: Genome Research
 
 - title: The role of geography in human adaptation.
   authors: Coop G, Pickrell JK, Novembre J, Kudaravalli S, Li J, Absher D, Myers RM, Cavalli-Sforza LL, Feldman MW, Pritchard JK
   date: 2009
-  links:
+  link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19503611
     display: PLoS Genetics
 
 - title: Signals of recent positive selection in a worldwide sample of human populations.
   authors: Pickrell JK, Coop G, Novembre J, Kudaravalli S, Li JZ, Absher D, Srinivasan BS, Barsh GS, Myers RM, Feldman MW, Pritchard JK
   date: 2009
-  links:
+  link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19307593
     display: Genome Research
 
 - title: Global distribution of genomic diversity underscores rich complex history of continental human populations.
   authors: Auton A, Bryc K, Boyko AR, Lohmueller KE, Novembre J, Reynolds A, Indap A, Wright MH, Degenhardt JD, Gutenkunst RN, King KS, Nelson MR, Bustamante CD
   date: 2009
-  links:
+  link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19218534
     display: Genome Research
-
 
 - title: Genes mirror geography within Europe.
   authors:
     Novembre J, Johnson T, Bryc K, Kutalik Z, Boyko AR, Auton A, Indap A, King KS, Bergmann S, Nelson MR, Stephens M, Bustamante CD
   date: 2008
-  url:
-    link: http://www.ncbi.nlm.nih.gov/pubmed/18758442
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/18758442
     display: Nature
 
 
@@ -330,7 +343,7 @@
   date: 2005
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/16216086
-    display: PLoS Biology (2005)
+    display: PLoS Biology
 
 - title: Finding haplotype block boundaries by using the minimum-description-length principle.
   authors:

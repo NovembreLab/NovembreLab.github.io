@@ -10,15 +10,24 @@ permalink: /publications/
 ![]({{ site.url }}{{ site.baseurl }}/images/banner.jpg){: style="width: 1000px; float: right; border: 10px"}
 
 
-# Publications
+# Selected Publications
 
 
-Selected publications shown.  For a full listing see [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=novembre+j+%5Bau%5D") or [Google Scholar](http://scholar.google.com/citations?user=wIib4t0AAAAJ).
+For a full listing of publications see [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=novembre+j+%5Bau%5D") or [Google Scholar](http://scholar.google.com/citations?user=wIib4t0AAAAJ).
 
 Italics indicate current/former lab members.  * indicates authors contributed equally.
 
 
-<!-- ## Preprints -->
+## Preprints
+
+{% for publi in site.data.publist %}
+ {% if publi.date > 2017 %}
+
+  <b>{{ publi.title }}</b> <br/>
+  {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
+
+ {% endif %}
+{% endfor %}
 
 ## 2017
 
@@ -26,7 +35,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% if publi.date == 2017 %}
 
   <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -36,8 +45,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date == 2016 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -47,8 +56,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date == 2015 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -58,8 +67,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date == 2014 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -69,8 +78,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date == 2013 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -80,8 +89,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date == 2012 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -91,8 +100,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date == 2011 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -102,8 +111,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date == 2010 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -113,8 +122,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date == 2009 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -124,8 +133,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date == 2008 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }} <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
@@ -135,8 +144,8 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 {% for publi in site.data.publist %}
  {% if publi.date <= 2007 %}
 
-  <b>{{ publi.title }}</b> <br/>
-  {{ publi.authors }}  <br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }} <a href="{{ publi.link.url }}">\[{{ publi.link.display }}\]</a>
 
  {% endif %}
 {% endfor %}
