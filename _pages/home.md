@@ -68,15 +68,15 @@ With the help of great collaborators, we have worked on several additional quest
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/wolf_print.jpg){: style="width: 200px; float: right; border: 10px"}
 
  * *Canid evolution*: With Bob Wayne (UCLA), we work on problems regarding wolf population structure, early dog domestication, wolf-dog introgression, and canid mutation rates.
+
  * *Dobzhansky-Muller incompabilitites (DMIs) in mice*: With Bret Payseur (Wisconsin), we work on the local ancestry signatures made by DMIs.
-
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_069.png){: style="width: 200px; float: right; border: 10px"}
-
 
  * *Avian migration*: With Kristen Ruegg (UCSC) and Tom Smith (UCLA), we have worked on methods for studying seasonal bird migrations.
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_069.png){: style="width: 200px; float: right; border: 10px"}
 
  * *Evolve-and-resequence studies*: With Tom Turner (UCSB), we have developed methods and simulations for understanding evolve-and-resequence studies in Drosophila.  
+
  * *Codon usage bias*: With Dennis Wall and Josh Herbeck (when we were all back at UC-Berkeley), we produced a method for measuring for codon usage bias while accounting for background nucleotide composition.
 
 ## Training
@@ -87,5 +87,7 @@ Beyond our research goals, we have the following training and outreach aims:
 
 
   * Train graduate students and postdoctoral fellows in the interdisciplinary skills necessary to make independent, insightful contributions to contemporary research problems in human genetics and evolutionary biology.
+
   * Develop teaching materials and courses to help: (1) prepare a new generation of biologist that will need strong skills in quantitative reasoning and computation to address the vast amounts of data now readily available; (2) prepare future citizens who are well-informed and capable of sound decision-making in a world in which science and particularly genetics will play an increasingly important role for society.
+
   * Promote international collaborative experiences for students to help foster individual growth and to strengthen scientific institutions and training programs through exchange.
