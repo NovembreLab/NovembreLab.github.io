@@ -9,7 +9,7 @@ permalink: /
 
 # Novembre Lab
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg){:class="img-responsive" style="width: 300px; float: right; border: 10px"}
 
 
 #### Research and Training in Population Genetic Methods, Theory, and Application
@@ -25,7 +25,7 @@ From a disciplinary perspective, most of the ideas we use are from theoretical p
 
 ### Population Genetics Methods and Theory
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_073.png){: style="width: 200px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_073.png){:class="img-responsive" style="width: 200px; float: right; border: 0px"}
 
 Our core projects address the following broad problems:
 
@@ -41,7 +41,7 @@ Our core projects address the following broad problems:
 
 Much of our work focuses on human genetic data, motivated in equal parts by an inherent curiosity, by the biomedical importance, and by the relevance for a broader understanding of evolution in all organisms. Our projects address:
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_434.png){: style="width: 300px; float: right; border: 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_434.png){:class="img-responsive" style="width: 300px; float: right; border: 50px"}
 
  * Patterns of population structure in human populations especially within world regions and finer spatial-scales
 
@@ -65,7 +65,7 @@ Much of our work focuses on human genetic data, motivated in equal parts by an i
 
 With the help of great collaborators, we have worked on several additional questions in evolutionary genetics and molecular evolution:
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/wolf_print.jpg){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/wolf_print.jpg){:class="img-responsive" style="width: 200px; float: right; border: 10px"}
 
  * *Canid evolution*: With Bob Wayne (UCLA), we work on problems regarding wolf population structure, early dog domestication, wolf-dog introgression, and canid mutation rates.
 
@@ -73,7 +73,7 @@ With the help of great collaborators, we have worked on several additional quest
 
  * *Avian migration*: With Kristen Ruegg (UCSC) and Tom Smith (UCLA), we have worked on methods for studying seasonal bird migrations.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_069.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_069.png){:class="img-responsive" style="width: 200px; float: right; border: 10px"}
 
  * *Evolve-and-resequence studies*: With Tom Turner (UCSB), we have developed methods and simulations for understanding evolve-and-resequence studies in Drosophila.  
 
@@ -83,7 +83,7 @@ With the help of great collaborators, we have worked on several additional quest
 
 Beyond our research goals, we have the following training and outreach aims:
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){:class="img-responsive"  style="width: 300px; float: right; border: 10px"}
 
 
   * Train graduate students and postdoctoral fellows in the interdisciplinary skills necessary to make independent, insightful contributions to contemporary research problems in human genetics and evolutionary biology.
