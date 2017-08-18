@@ -9,7 +9,7 @@ permalink: /
 
 # Novembre Lab
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg){:class="img-responsive" style="width: 300px; float: right; border: 10px"}
 
 
 #### Research and Training in Population Genetic Methods, Theory, and Application
@@ -21,47 +21,11 @@ Our research group uses computational tools to study genetic diversity in natura
 From a disciplinary perspective, most of the ideas we use are from theoretical population genetics, statistical genetics, and computational statistics.  Much of our work is invigorated by addressing data from emerging genotyping and sequencing technologies applied to large or particularly interesting population samples.
 
 
-
-
-<!---
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-    </ol>
-
-    <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/pcgradients.png" alt="Slide 1" />
-        </div>
-
-        <!-- <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/novembre2008a.jpg" alt="Slide 2" />
-        </div> -->
-
-<!---
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
--->
-
-
 ## Research
 
 ### Population Genetics Methods and Theory
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_073.png){: style="width: 200px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_073.png){:class="img-responsive" style="width: 200px; float: right; border: 0px"}
 
 Our core projects address the following broad problems:
 
@@ -77,7 +41,7 @@ Our core projects address the following broad problems:
 
 Much of our work focuses on human genetic data, motivated in equal parts by an inherent curiosity, by the biomedical importance, and by the relevance for a broader understanding of evolution in all organisms. Our projects address:
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_434.png){: style="width: 300px; float: right; border: 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_434.png){:class="img-responsive" style="width: 300px; float: right; border: 50px"}
 
  * Patterns of population structure in human populations especially within world regions and finer spatial-scales
 
@@ -101,29 +65,29 @@ Much of our work focuses on human genetic data, motivated in equal parts by an i
 
 With the help of great collaborators, we have worked on several additional questions in evolutionary genetics and molecular evolution:
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/wolf_print.jpg){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/wolf_print.jpg){:class="img-responsive" style="width: 200px; float: right; border: 10px"}
 
  * *Canid evolution*: With Bob Wayne (UCLA), we work on problems regarding wolf population structure, early dog domestication, wolf-dog introgression, and canid mutation rates.
+
  * *Dobzhansky-Muller incompabilitites (DMIs) in mice*: With Bret Payseur (Wisconsin), we work on the local ancestry signatures made by DMIs.
-
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_069.png){: style="width: 200px; float: right; border: 10px"}
-
 
  * *Avian migration*: With Kristen Ruegg (UCSC) and Tom Smith (UCLA), we have worked on methods for studying seasonal bird migrations.
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Talks_069.png){:class="img-responsive" style="width: 200px; float: right; border: 10px"}
 
  * *Evolve-and-resequence studies*: With Tom Turner (UCSB), we have developed methods and simulations for understanding evolve-and-resequence studies in Drosophila.  
+
  * *Codon usage bias*: With Dennis Wall and Josh Herbeck (when we were all back at UC-Berkeley), we produced a method for measuring for codon usage bias while accounting for background nucleotide composition.
 
 ## Training
 
-
-
 Beyond our research goals, we have the following training and outreach aims:
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/genetic-variant-browser.jpg){:class="img-responsive"  style="width: 300px; float: right; border: 10px"}
 
 
   * Train graduate students and postdoctoral fellows in the interdisciplinary skills necessary to make independent, insightful contributions to contemporary research problems in human genetics and evolutionary biology.
+
   * Develop teaching materials and courses to help: (1) prepare a new generation of biologist that will need strong skills in quantitative reasoning and computation to address the vast amounts of data now readily available; (2) prepare future citizens who are well-informed and capable of sound decision-making in a world in which science and particularly genetics will play an increasingly important role for society.
+
   * Promote international collaborative experiences for students to help foster individual growth and to strengthen scientific institutions and training programs through exchange.
