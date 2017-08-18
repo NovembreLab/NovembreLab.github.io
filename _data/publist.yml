@@ -21,18 +21,20 @@
     journal: bioRxiv
 
 - title: Overexpression of the Cytokine BAFF and Autoimmunity Risk
-  authors: Steri et al
+  authors: Steri M, Orrù V, Idda ML, Pitzalis M, Pala M, Zara I, Sidore C, Faà V, Floris M, Deiana M, Asunis I, Porcu E, Mulas A, Piras MG, Lobina M, Lai S, Marongiu M, Serra V, Marongiu M, Sole G, Busonero F, Maschio A, Cusano R, Cuccuru G, Deidda F, Poddie F, Farina G, Dei M, Virdis F, Olla S, Satta MA, Pani M, Delitala A, Cocco E, Frau J, Coghe G, Lorefice L, Fenu G, Ferrigno P, Ban M, Barizzone N, Leone M, Guerini FR, Piga M, Firinu D, Kockum I, Lima Bomfim I, Olsson T, Alfredsson L, Suarez A, Carreira PE, Castillo-Palma MJ, Marcus JH, Congia M, Angius A, Melis M, Gonzalez A, Alarcón Riquelme ME, da Silva BM, Marchini M, Danieli MG, Del Giacco S, Mathieu A, Pani A, Montgomery SB, Rosati G, Hillert J, Sawcer S, D'Alfonso S, Todd JA, Novembre J, Abecasis GR, Whalen MB, Marrosu MG, Meloni A, Sanna S, Gorospe M, Schlessinger D, Fiorillo E, Zoledziewska M, Cucca F.
   date: 2017
   link:
-      url:
-      display: New England Journal of Medicine
+      url: http://www.nejm.org/doi/full/10.1056/NEJMoa1610528
+      journal: New England Journal of Medicine
+      issuepage: 376(17)\:1615-1626
 
 - title: A longitudinal cline characterizes the genetic structure of human populations in the Tibetan plateau
   authors: Jeong C et al
   date: 2017
   link:
     url:
-    display: PLoS One
+    journal: PLoS One
+    issuepage: 12(4):e0175885
 
 - title: A Temporal Perspective on the Interplay of Demography and Selection on Deleterious Variation in Humans
   authors: Koch E, Novembre J
@@ -40,6 +42,7 @@
   link:
     url: http://www.g3journal.org/content/7/3/1027
     journal: G3
+    issuepage: 7(3)\:1027-1037
 
 
 - title: Visualizing the Geography of Genetic Variants.
@@ -48,6 +51,7 @@
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27742697
     journal: Bioinformatics
+    issuepage: 33(4)\:594-595
 
 - title: Pritchard, Stephens, and Donnelly on Population Structure.
   authors: Novembre J.
@@ -79,6 +83,7 @@
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26935417
     journal: G3
+    issuepage: 6\:1287-96
 
 - title: Technical Report- Assessment of the genetic analysis of Rasmussen et al. (2015).
   authors: Novembre J, Witonsky D, Di Rienzo A.
@@ -162,6 +167,7 @@
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/24463515
     journal: Nature
+    issuepage: 507(7491):225-8
 
 - title: Genome sequencing highlights the dynamic early history of dogs
   authors: Freedman AH, Gronau I, Schweizer RM, Ortega-Del Vecchyo D, Han E, Silva PM, Galaverni M, Fan Z, Marx P, Lorente-Galdos B, Beale H, Ramirez O, Hormozdiari F, Alkan C, Vilà C, Squire K, Geffen E, Kusak J, Boyko AR, Parker HG, Lee C, Tadigotla V, Siepel A, Bustamante CD, Harkins TT, Nelson SF, Ostrander EA, Marques-Bonet T, Wayne RK, Novembre J.
@@ -186,13 +192,15 @@
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/24336146
     journal: Bioinformatics
+    issuepage: 30(4)\:576-7
 
 - title: Characterizing bias in population genetic inferences from low coverage sequencing data
   authors: Han E, Sinsheimer JS, Novembre J.
   date: 2013
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/24288159
-    journal: Molecular Biology and Evolution.
+    journal: Molecular Biology and Evolution
+    issuepae: 31(5)\:720-7
 
 - title: Novel statistical methods for integrating genetic and stable isotope data to infer individual-level migratory connectivity
   authors: Rundel CW, Wunder MB, Alvarado AH, Ruegg KC, Harrigan R, Schuh A, Kelly JF, Siegel RB, Desante DF, Smith TB, Novembre J.
