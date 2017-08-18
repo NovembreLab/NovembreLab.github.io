@@ -3,11 +3,6 @@
   photo:  ggv.jpg
   desc: A web-based tool for visualizing the geographic distribution of variants in several published datasets.
 
-- name: ADMIXTURE
-  url: http://www.genetics.ucla.edu/software/admixture/
-  photo: admixture.png
-  desc: Software for ancestry inference in population genetic data developed by former UCLA PhD student David Alexander.
-
 - name: forqs (Forward-in-time simulation of Recombination, Quantitative traits, and Selection)
   url: https://bitbucket.org/dkessner/forqs
   photo: forqs.png
@@ -23,10 +18,10 @@
   photo: raspberry.jpg
   desc: Software for recombination rate inference using ancestry switch points in admixed individuals, developed by former postdoc Daniel Wegmann.
 
-- name: ENCprime
-  url: https://github.com/jnovembre/ENCprime
-  photo: encprime.png
-  desc: A program that calculates a codon usage bias summary statistic, Nc’. It is based on the effective number of codons statistic Nc (or ENC) developed by Frank Wright, but improves upon it by accounting for background nucleotide composition.
+- name: ADMIXTURE
+  url: http://www.genetics.ucla.edu/software/admixture/
+  photo: admixture.png
+  desc: Software for ancestry inference in population genetic data developed by former UCLA PhD student David Alexander.
 
 - name: isoscatR
   url: https://github.com/rundel/isoscatR
@@ -37,6 +32,11 @@
   url: http://ib.berkeley.edu/labs/slatkin/eriq/software/mdb_web/
   photo: mdblocks.png
   desc: A program written with Eric Anderson (when we were both at Berkeley) that partitions a chromosomal segment into haplotype blocks using biallelic, phased haplotype data.
+
+- name: ENCprime
+  url: https://github.com/jnovembre/ENCprime
+  photo: encprime.png
+  desc: A program that calculates a codon usage bias summary statistic, Nc’. It is based on the effective number of codons statistic Nc (or ENC) developed by Frank Wright, but improves upon it by accounting for background nucleotide composition.
 
 - name: SIMCOAL
   url: http://cmpg.unibe.ch/software/simcoal/
