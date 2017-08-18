@@ -7,8 +7,11 @@ permalink: /publications/
 ---
 
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/banner.jpg){: style="width: 1000px; float: right; border: 10px"} -->
-
+<div class="container-fluid">
+  <!-- <div class="row"> -->
+<img src= "{{ site.url }}{{ site.baseurl }}/images/banner.jpg"  class="img-responsive" style=" margin: 0 auto; width: auto;" />
+  <!-- </div> -->
+</div>
 
 # Selected Publications
 
