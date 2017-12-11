@@ -1,12 +1,23 @@
+- headline: "The lab enjoyed a visit from Constanza de la Fuente, a PhD student with Eske Willerslev at the GeoGenetics Institute in Copenhagen. Constanza brought a wealth of information about ancient DNA and the analysis of Siberian populations, which is the focus of her dissertation"
+  date: 11/17
 
+- headline: "We welcomed a new scientific programmer, Chi-Chun Liu! Chi-Chun just finished his masters in Statistics working with Dan Nicolae on problems related to ancestry copying models."
+  date: 11/17
+
+- headline: "Members of the lab attended the ASHG meeting in Orlando. Dan and Joe both presented posters."
+  date: 10/17
+
+- headline: "Dan Rice and Hussein attended the Probabilistic Modeling in Genomics (ProbGen) meeting in Aarhus, where Dan gave a talk and Hussein presented a poster"
+  date: 10/17
+
+- headline: "We said goodbye to Ben Peter, who is now a <a href=\"http://www.eva.mpg.de/genetics/genetic-diversity-through-space-and-time-ben-peter/overview.html?Fsize=0%25252C%25252F.\">group leader</a> at the Max Planck Institute in Leipzig, Germany."
+  date: 9/17
 
 - headline: "The lab attended the fourth Midwest PopGen Meeting at Michigan State University.  Visiting Rich Lenski's lab to see the home of his famous artificial evolution experiment was a great highlight. "
   date: 8/17
 
-
 - headline: "PhD student <a href=\"https://aabiddanda.github.io/\">Arjun Biddanda</a> successfully defended his PhD proposal. "
   date: 5/17
-
 
 - headline: "PhD student Evan Koch is participating in the NSF GROW program by spending a few months in Uppsala, Sweden where he is working in the lab of Hans Ellegren. "
   date: 5/17-7/17
@@ -26,7 +37,7 @@
 - headline: "A <a href=\"https://www.quantamagazine.org/a-map-of-human-history-hidden-in-dna-20170420/\">long interview article published by Quanta magazine</a> featured John."
   date: 4/17
 
-- headline: "The lab enjoyed a visit from Erik Lundgreen, a PhD student with Peter Ralph, working on non-stationary isolation-by-distance problems."
+- headline: "The lab enjoyed a visit from Erik Lundgren, a PhD student with Peter Ralph, working on non-stationary isolation-by-distance problems."
   date: 4/17
 
 - headline: "We welcomed a new postdoctoral fellow <a href=\"https://sites.google.com/site/danielpaulrice/\">Daniel Rice</a>, who is part of the prestigious Chicago Fellows program! "

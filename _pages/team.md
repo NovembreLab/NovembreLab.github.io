@@ -28,6 +28,7 @@ permalink: /team/
 
 # Alumni
 
+- [Ben Peter](http://www.eva.mpg.de/genetics/staff/benjamin-peter/index.html): Postdoctoral Fellow, 2014-2017
 - [Mark Reppell](http://mreppell.github.io/): Postdoctoral Fellow, 2014-2017.
 - [Diego Ortega Del Vecchyo](http://diegoortega.bol.ucla.edu/): PhD student in Bioinformatics, Finished 2016.
 - [Charleston Chiang](https://sites.google.com/site/charlestonchiang/): Postdoctoral Fellow, 2011-2015.

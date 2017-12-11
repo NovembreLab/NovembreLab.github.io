@@ -21,9 +21,9 @@ We can serve the website locally by using the following steps:
  * `_data/` - contains many `*.yml` files that are used when updates occur in terms of lab news or personnel
   - `news.yml` - yaml file with current news
   - `publist.yml` - yaml file containing list of publications in reverse chronological order
-  - `team_members.yml`  - contains information about all current personnel
+  - `team_members.yml`  - contains information about all current personnel in the lab
 
- * `images/` - holds all of the images that are used on the site.
+ * `images/` - holds all of the images that are used on the site (for software, lab members, etc)
  * `_includes/` - defines html files for headers and footers for every page
 
 ## Writing a Blog Post
@@ -37,15 +37,6 @@ Each post also includes yaml topmatter that specifies the layout, title, date, a
 ## Deploying changes to the website
 
 Every time a is commit pushed to the master branch, the website will be deployed to `novembrelab.github.io`.
-
-## Current TODO Items
-
-  * Get issue and other information for publications
-  * Fill in research page (w/ images)
-  * Port over news from wordpress website (2016-2017)
-  * Port over blog posts from wordpress (longer posts)
-  * Change favicon.ico to something representative of the lab
-  * Change photos on home page to reflect relevant lab material
 
 ## About the Website
 
