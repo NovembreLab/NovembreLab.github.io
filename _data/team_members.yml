@@ -3,11 +3,6 @@
   info: Professor
   blurb: "I got my start in this field through a combination of enjoying computer programming as a hobby and thinking about evolution as one of the world's most fascinating natural processes.  Now, my main research tackles statistical and theoretical problems to help enable discoveries about evolutionary processes and the nature of disease variation. Much of that work is in the context of human genetic variation, which is doubly fascinating because of the connections to fields like linguistics, archaeology, and history.  For my training, I earned my undergrad degree in biochemistry at the Colorado College, studied for my PhD with a designated emphasis in Computational Biology & Genomics at UC-Berkeley under Montgomery Slatkin, and did a short postdoc in Human Genetics at Chicago with Matthew Stephens.  Previous to my faculty post at UChicago, I was faculty in the Ecology and Evolution Department at UCLA.  I like to balance my work life with travel and outdoor sports such as biking, backcountry skiing, surfing, and hiking."
 
-- name: Ben Peter
-  photo: ben-peter.jpg
-  info: Postdoctoral Fellow
-  blurb: "[Ben Peter](http://bpeter.org/) is a Swiss NSF postdoctoral fellow and former PhD student at the Department of Integrative Biology at the University of California-Berkeley under Monty Slatkin and Rasmus Nielsen. Ben has been working extensively on spatial expansion models and will continue to work on spatial population genetic problems in the lab."
-
 - name: Daniel Rice
   photo: dan_rice.jpg
   info: Postdoctoral Fellow
@@ -37,3 +32,9 @@
   photo: joel_smith.jpg
   info: PhD Student
   blurb: "Joel is a NSF Graduate Research Fellow and PhD student in the Dept of Ecology and Evolution and is interested in tools to dissect variation linked to alleles under positive selection. He’s generally interested in the interaction and effect of selection, recombination and population structure on linked variation."
+
+- name: Chi-Chun Liu
+  photo: chichun.jpg
+  info: Bioinfomatician
+  blurb: "Chi-Chun works as the bioinformatician in the lab. He is interested in the inference of demography and selection using ancient DNA, and has been working on our collaboration of high-altitude adaptation with the Di Rienzo lab. Chi-Chun previously worked on local ancestry methodsand was advised by Dan Nicolae for his M.S. degree in Statistcs at the University of Chicago."
+
