@@ -1,20 +1,29 @@
-- headline: "The lab enjoyed a visit from Constanza de la Fuente, a PhD student with Eske Willerslev at the GeoGenetics Institute in Copenhagen. Constanza brought a wealth of information about ancient DNA and population genetic analysis of Siberian populations, which is the focus of her research"
+- headline: "Our paper, led by PhD student Joel Smith, on inferring coalsecent times for selected alleles came out in <a href=\"https://doi.org/10.1093/molbev/msy006\">Molecular Biology and Evolution</a>.   
+  date: 2/17 
+  
+- headline: "Dan Rice helped put together a fun 2-day lab retreat/workshop on presentation skills (the "Talkathon")."
+  date: 1/17
+  
+- headline: "The lab enjoyed a visit from Constanza de la Fuente, a PhD student with Eske Willerslev at the GeoGenetics Institute in Copenhagen. Constanza brought a wealth of information about ancient DNA and population genetic analysis of Siberian populations."
   date: 11/17
 
 - headline: "We welcomed a new scientific programmer, Chi-Chun Liu! Chi-Chun just finished his masters in Statistics working with Dan Nicolae on admixture models and local ancestry inference."
   date: 11/17
 
-- headline: "Members of the lab attended the ASHG meeting in Orlando. Dan and Joe both presented posters."
+- headline: "Members of the lab attended and presented at the ASHG meeting in Orlando, Florida."
   date: 10/17
 
-- headline: "Dan Rice and Hussein attended the Probabilistic Modeling in Genomics (ProbGen) meeting in Aarhus, where Dan gave a talk and Hussein presented a poster"
+- headline: "Dan Rice and Hussein attended the Probabilistic Modeling in Genomics (ProbGen) meeting in Aarhus, where Dan gave a talk on his work on multiple merger coalescents and Hussein presented a poster on his work on migration maps."
   date: 10/17
 
-- headline: "We said goodbye to Ben Peter, who is now a <a href=\"http://www.eva.mpg.de/genetics/genetic-diversity-through-space-and-time-ben-peter/overview.html?Fsize=0%25252C%25252F.\">group leader</a> at the Max Planck Institute in Leipzig, Germany. We wish him the best of luck in his new position!"
+- headline: "We said goodbye to Ben Peter, who is now a <a href=\"http://www.eva.mpg.de/genetics/genetic-diversity-through-space-and-time-ben-peter/overview.html?Fsize=0%25252C%25252F.\">group leader</a> at the Max Planck Institute in Leipzig, Germany!"
   date: 9/17
 
 - headline: "The lab attended the fourth Midwest PopGen Meeting at Michigan State University.  Visiting Rich Lenski's lab to see the home of his famous artificial evolution experiment was a great highlight. "
   date: 8/17
+
+- headline: "We bid farewell to Mark Reppell, who is now a <a href="https://www.linkedin.com/in/mark-reppell-9870a981">senior scientist</a> at AbbVie Pharmaceuticals! "
+  date: 6/17
 
 - headline: "PhD student <a href=\"https://aabiddanda.github.io/\">Arjun Biddanda</a> successfully defended his PhD proposal. "
   date: 5/17
