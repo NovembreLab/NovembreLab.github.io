@@ -24,7 +24,19 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 ## Preprints
 
 {% for publi in site.data.publist %}
- {% if publi.date > 2017 %}
+ {% if publi.date > 2018 %}
+
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }}  <a href="{{ publi.link.url }}">\[ {{ publi.link.journal }} {{publi.link.issuepage}} \]</a>
+
+ {% endif %}
+{% endfor %}
+
+
+## 2018
+
+{% for publi in site.data.publist %}
+ {% if publi.date == 2018 %}
 
  <b>{{ publi.title }}</b> <br/>
  {{ publi.authors }}  <a href="{{ publi.link.url }}">\[ {{ publi.link.journal }} {{publi.link.issuepage}} \]</a>
@@ -39,7 +51,6 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 
  <b>{{ publi.title }}</b> <br/>
  {{ publi.authors }}  <a href="{{ publi.link.url }}">\[ {{ publi.link.journal }} {{publi.link.issuepage}} \]</a>
-
 
  {% endif %}
 {% endfor %}

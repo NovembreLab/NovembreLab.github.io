@@ -1,3 +1,8 @@
+- name: starTmrca
+  url: https://github.com/jhavsmith/startmrca
+  photo: startmrca.png
+  desc: A method to estimate the timing of selective sweeps from haplotype data, developed by PhD Student Joel Smith.
+
 - name: Geography of Genetic Variants Browser
   url: http://popgen.uchicago.edu/ggv/
   photo:  ggv.jpg

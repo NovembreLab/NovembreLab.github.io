@@ -18,13 +18,18 @@
   info: PhD Student
   blurb: "[Arjun](https://aabiddanda.github.io/) is a PhD student in the Department of Human Genetics and is interested in the analysis of haplotypic data to understand demography, recombination, selection, and trait architecture. He previously worked on the population history of the Bene Israel and Cochin Jews as an undergraduate at Cornell University as well as on methods for X-based GWAS."
 
+- name: Maryn Carlson
+  photo: maryn_carlson.png
+  info: PhD Student
+  blurb: "Maryn is a PhD student in the Committee of Genetics, Genomics and Systems Biology. Broadly, she is interested in understanding how selection acts on and shapes the genetic architecture of complex traits. Prior to joining the lab, Maryn studied the genetics of a plant pathogen as well as plant quantitative genetics at Cornell University."
+
 - name: Evan Koch
   photo: evan_koch.png
   info: PhD Student
-  blurb: "Evan is an NSF Graduate Research Fellow and PhD student in the Ecology and Evolution program. He has broad interests in evolutionary genetics and has worked in the past on long range LD in humans and sequential coalescent models for chromosome inversions. He has been working on applications of diffusion theory to understand the interaction of selection and demography in recent human history."
+  blurb: "[Evan](https://emkoch.github.io/) is an NSF Graduate Research Fellow and PhD student in the Ecology and Evolution program. He has broad interests in evolutionary genetics and has worked in the past on long range LD in humans and sequential coalescent models for chromosome inversions. He has been working on applications of diffusion theory to understand the interaction of selection and demography in recent human history."
 
 - name: Joe Marcus
-  photo: joe_marcus.png
+  photo: joe_marcus.jpg
   info: PhD Student
   blurb: "Joe is an NSF Graduate Research Fellow and PhD student in the Department of Human Genetics.  He first worked for the lab as an intern and programmer.  He worked extensively on the [Geography of Genetic Variants Browser](http://popgen.uchicago.edu/ggv/) as well as our collaboration with the SardiNIA/Progenia project.  He also has interests in the analysis of ancient DNA, quantitative trait variation, and cell-free DNA."
 
