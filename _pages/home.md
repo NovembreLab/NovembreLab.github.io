@@ -88,6 +88,6 @@ Beyond our research goals, we have the following training and outreach aims:
 
   * Train graduate students and postdoctoral fellows in the interdisciplinary skills necessary to make independent, insightful contributions to contemporary research problems in human genetics and evolutionary biology.
 
-  * Develop teaching materials and courses to help: (1) prepare a new generation of biologist that will need strong skills in quantitative reasoning and computation to address the vast amounts of data now readily available; (2) prepare future citizens who are well-informed and capable of sound decision-making in a world in which science and particularly genetics will play an increasingly important role for society.
+  * Develop teaching materials and courses to help: (1) prepare a new generation of biologists that will need strong skills in quantitative reasoning and computation to address the vast amounts of data now readily available; (2) prepare future citizens who are well-informed and capable of sound decision-making in a world in which science and particularly genetics will play an increasingly important role for society.
 
   * Promote international collaborative experiences for students to help foster individual growth and to strengthen scientific institutions and training programs through exchange.
