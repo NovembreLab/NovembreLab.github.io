@@ -1,9 +1,10 @@
 
-- title: Karp - Accurate and fast taxonomic classification using pseudoalignment
-  authors: Mark Reppell, John Novembre
+
+- title: Genetic landscapes reveal how human genetic diversity aligns with geography
+  authors: Benjamin M Peter, Desislava Petkova, John Novembre
   date: 2019
   link:
-    url: https://doi.org/10.1101/097949
+    url: https://doi.org/10.1101/233486
     journal: bioRxiv
 
 - title: Population history of the Sardinian people inferred from whole-genome sequencing
@@ -12,6 +13,14 @@
   link:
     url: https://doi.org/10.1101/092148
     journal: bioRxiv
+
+
+- title: Using pseudoalignment and base quality to accurately quantify microbial community composition 
+  authors: Mark Reppell, John Novembre
+  date: 2018
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1006096
+    journal: Plos Computational Biology
 
 - title: Tread Lightly Interpreting Polygenic Tests of Selection 
   authors: Novembre J, Barton N.
