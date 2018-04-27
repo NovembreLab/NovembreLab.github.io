@@ -1,3 +1,9 @@
+
+- name: karp
+  url: https://github.com/mreppell/Karp
+  photo: karp.png
+  desc: A method for k-mer based analysis of read pools using psuedo-alignment and base quality information, developed by former postdoc Mark Reppell
+
 - name: starTmrca
   url: https://github.com/jhavsmith/startmrca
   photo: startmrca.png

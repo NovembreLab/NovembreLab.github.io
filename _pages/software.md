@@ -22,7 +22,6 @@ Many of our projects are available via the [Novembre Lab Github Page](https://gi
 
 {% endfor %}
 
-
 ## Data Resources
 
 [Resources related to Novembre et al 2008](https://github.com/jnovembre/Novembre_etal_2008_misc):  Several files that aid in recreating the main figure from our paper:“Genes Mirror Geography in Europe” (Nature 956:98-101). Also the Geography of Genetic Variants Browser plots allele frequencies for the European subset of the data.
