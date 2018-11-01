@@ -1,17 +1,17 @@
 - name: John Novembre
   photo: john-novembre-ii-small.png
   info: Professor
-  blurb: "I got my start in this field through a combination of enjoying computer programming as a hobby and thinking about evolution as one of the world's most fascinating natural processes.  Now, my main research tackles statistical and theoretical problems to help enable discoveries about evolutionary processes and the nature of disease variation. Much of that work is in the context of human genetic variation, which is doubly fascinating because of the connections to fields like linguistics, archaeology, and history.  For my training, I earned my undergrad degree in biochemistry at the Colorado College, studied for my PhD with a designated emphasis in Computational Biology & Genomics at UC-Berkeley under Montgomery Slatkin, and did a short postdoc in Human Genetics at Chicago with Matthew Stephens.  Previous to my faculty post at UChicago, I was faculty in the Ecology and Evolution Department at UCLA.  I like to balance my work life with travel and outdoor sports such as biking, backcountry skiing, surfing, and hiking."
+  blurb: "I got my start in this field through a combination of enjoying computer programming as a hobby and thinking about evolution as one of the world's most fascinating natural processes.  Now, my main research tackles statistical and theoretical problems to help enable discoveries about evolutionary processes and the nature of disease variation. Much of that work is in the context of human genetic variation, which is doubly fascinating because of the connections to fields like linguistics, archaeology, and history.  For my training, I earned my undergrad degree in biochemistry at the Colorado College, studied for my PhD with a designated emphasis in Computational Biology & Genomics at UC-Berkeley under Montgomery Slatkin, and did a short postdoc in Human Genetics at Chicago with Matthew Stephens.  Previous to my faculty post at UChicago, I was faculty in the Ecology and Evolution Department at UCLA.  Outside of my work I greatly enjoy travel, music, and outdoor adventures."
 
 - name: Daniel Rice
   photo: dan_rice.jpg
   info: Postdoctoral Fellow
   blurb: "[Daniel Rice](https://sites.google.com/site/danielpaulrice/) is a postdoctoral fellow in the [Chicago Fellows Program](https://biologicalsciences.uchicago.edu/page/chicago-fellows).  He previously completed a PhD in the Department of Organismic and Evolutionary Biology at Harvard University where he studied with Michael Desai.  He has worked on problems arising in the analysis of experimental evolution data as well as core issues in theoretical population genetics, such as evolution of the distribution of fitness effects and signatures of multi-merger coalescence."
 
-- name: Hussein Al-Asadi
-  photo: hussein.png
-  info: PhD Student
-  blurb: "[Hussein](https://halasadi.wordpress.com/) is a graduate student in the Committee of Evolutionary Biology and is interested in using Bayesian Statistics and coalescent theory to study population structure. He did his undergraduate work at the University of Michigan in Ann Arbor where he majored in mathematics. He is an NSF Graduate Research Fellow and is co-advised by Matthew Stephens. When not in the lab or playing with his two daughters, Hussein likes to fish and backpack."
+- name: Harald Ringbauer
+  photo: hringbauer.jpg
+  info: Postdoctoral Fellow
+  blurb: "[Harald Ringbauer](https://ist.ac.at/research-groups-pages/barton-group/team/alumni/harald-ringbauer/) is a postdoctoral fellow in the lab. His work focuses on the development of methods to estimate current population structure from genetic data, especially using identity-by-descent tract data. Direct observations to infer demography are often very cumbersome, but the advent of population genomic datasets has opened a lot of new opportunities for this discipline, and Harald works on innovative ways to utilize these. Before joining the Novembre lab, he completed a PhD at IST Austria, supervised by [Nick Barton](https://ist.ac.at/research/research-groups/barton-group/) ."
 
 - name: Arjun Biddanda
   photo: arjun.jpg
@@ -23,26 +23,13 @@
   info: PhD Student
   blurb: "Maryn is a PhD student in the Committee of Genetics, Genomics and Systems Biology. Broadly, she is interested in understanding how selection acts on and shapes the genetic architecture of complex traits. Prior to joining the lab, Maryn studied the genetics of a plant pathogen as well as plant quantitative genetics at Cornell University."
 
-- name: Evan Koch
-  photo: evan_koch.png
-  info: PhD Student
-  blurb: "[Evan](https://emkoch.github.io/) is an NSF Graduate Research Fellow and PhD student in the Ecology and Evolution program. He has broad interests in evolutionary genetics and has worked in the past on long range LD in humans and sequential coalescent models for chromosome inversions. He has been working on applications of diffusion theory to understand the interaction of selection and demography in recent human history."
-
 - name: Joe Marcus
   photo: joe_marcus.jpg
   info: PhD Student
   blurb: "Joe is an NSF Graduate Research Fellow and PhD student in the Department of Human Genetics.  He first worked for the lab as an intern and programmer.  He worked extensively on the [Geography of Genetic Variants Browser](http://popgen.uchicago.edu/ggv/) as well as our collaboration with the SardiNIA/Progenia project.  He also has interests in the analysis of ancient DNA, quantitative trait variation, and cell-free DNA."
 
-- name: Harald Ringbauer
-  photo: hringbauer.jpg
-  info: Postdoctoral Fellow
-  blurb: "[Harald Ringbauer](https://ist.ac.at/research-groups-pages/barton-group/team/alumni/harald-ringbauer/) is a postdoctoral fellow in the lab. His work focuses on the development of methods to estimate current population structure from genetic data. Direct observations to infer demography are often very cumbersome, but the advent of Population Genomic datasets has opened a lot of new opportunities for this discipline, and Harald works on innovative ways to utilze these. Before joining the Novembre lab, he completed a PhD at IST Austria, supervised by [Nick Barton](https://ist.ac.at/research/research-groups/barton-group/) ."
-  
-- name: Joel Smith
-  photo: joel_smith.jpg
-  info: PhD Student
-  blurb: "Joel is a NSF Graduate Research Fellow and PhD student in the Dept of Ecology and Evolution and is interested in tools to dissect variation linked to alleles under positive selection. He’s generally interested in the interaction and effect of selection, recombination and population structure on linked variation."
 
+ 
 - name: Chi-Chun Liu
   photo: chichun.jpg
   info: Bioinfomatician
