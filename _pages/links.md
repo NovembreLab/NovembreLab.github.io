@@ -24,6 +24,7 @@ Here is a set of links for gaining more background on the topic genetic non-disc
 	 for Genetic Testing, Privacy, and Non-discrimination [[link]](http://www.councilforresponsiblegenetics.org/Projects/PastProject.aspx?projectId=1)
 	- National Institutes of Health: "Genetic Discrimination and Other Laws" (2017) [[link]]( https://www.genome.gov/27568503/genetic-discrimination-and-other-laws/)
 - History and Descriptions of GINA:
+ 	- The GINA bill text [[link]](https://www.eeoc.gov/laws/statutes/gina.cfm)
 	- Selected popular press coverage:
 		- "Protecting Patients from Genetic Discrimination" by Joshua Kirsch (2017) in the Scientist [[link]]( https://www.the-scientist.com/news-opinion/protecting-patients-from-genetic-discrimination-31908)
 		- "The Loopholes in the Law Prohibiting Genetic Discrimination" by Sarah Zhang (2017) in the Atlantic [[link]]( https://www.theatlantic.com/health/archive/2017/03/genetic-discrimination-law-gina/519216/)
@@ -34,23 +35,26 @@ Here is a set of links for gaining more background on the topic genetic non-disc
 	- Summary of the legislative history on revovly.com [[link]](https://www.revolvy.com/page/Genetic-Information-Nondiscrimination-Act)
 - Beyond GINA: Proposed or Passed state laws that cover more than GINA:
 	- California’s “CalGINA”:
+	  - The CalGINA bill text [[link]](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201120120SB559)
 		- History of CalGINA:
 			- Overview of history on CalGINA by Jeremy Gruber [[link]]( http://www.councilforresponsiblegenetics.org/genewatch/GeneWatchPage.aspx?pageId=380&archive=yes)
 			- "Considering the Impact of Yet Another Proposal for Genetic Legislation" by Dan Vorhaus (2011) The Privacy Report  [[link]](https://theprivacyreport.com/2011/03/23/ca-proposal-for-genetic-legislation/)
 			- "A New Law to Raise GINA’s Floor in California" by Jennifer Wagner (2011) The Privacy Report [[link]](https://theprivacyreport.com/2011/12/07/a-new-law-to-raise-ginas-floor-in-california/)
 			- Genetic Privacy Network project homepage: This page has an overview of concern, coverage, and laws related to genetic information non-discrimination and privacy.  [[link]](https://geneticprivacynetwork.wordpress.com/mission-and-sponsors/)
-	- Massachusset’s Genetic Bill of Rights:
-		- Summary of proposal via the Privacy Report from 2011: 	[[link]](https://theprivacyreport.com/2011/02/14/genetic-bill-of-rights-proposed-in-massachusetts/)
+	- Massachusset’s Genetic Bill of Rights (S. 1080):
+	  - The bill and status (stalled in 2011-2012 and not re-introduced) [[link]](https://malegislature.gov/Bills/187/S1080)
+		- Summary via the Privacy Report from 2011: 	[[link]](https://theprivacyreport.com/2011/02/14/genetic-bill-of-rights-proposed-in-massachusetts/)
 	- New York's Assembly Bill A10229:
 		- Prohibits insurance companies from discriminating based on genetic testing. Current status: in committee.   [[link]](https://www.nysenate.gov/legislation/bills/2017/a10229)
 - A new outcome from genetic information: Polygenic scores
 	- "The personal and clinical utility of polygenic risk scores" by Torkomani, Wineinger and Topol (2018) Nature Reviews Genetics review article  [[link]]( https://www.nature.com/articles/s41576-018-0018-x)
 	- "Polygenic scores and tea drinking" by Graham Coop (2018) [[link]](https://gcbias.org/2018/03/14/polygenic-scores-and-tea-drinking/)
 	- "Tread Lightly Interpreting Polygenic Tests of Selection" by Novembre and Barton (2018)	[[link]](http://www.genetics.org/content/208/4/1351)
-- Useful academic articles:
+- Relevant academic articles:
 	- Ethics
 		- "Genetic Equity" by Harris & Sulston (2004) in Nature Reviews Genetics [[link]](https://www.nature.com/articles/nrg1454)
 	- Law
+		- "Genetic Information Nondiscrimination Act of 2008: It's in Title VII's Genes" by Vacchio and Wolinsky (2011) in Hofstra Labor & Employment Law Journal [[link]](https://scholarlycommons.law.hofstra.edu/cgi/viewcontent.cgi?article=1529&context=hlelj)
 		- "The Genetic Information Nondiscrimination Act as an Antidiscrimination Law" by Jessica Roberts (2011) in Notre Dame Law Review [[link]](https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1064&context=ndlr)
 		- "Genetic Data and Civil Rights" by Ifeoma Ajunwa (2016) in Harvard Civl Rights - Civil Liberties Law Review (CR-CL), Vol 51. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460897)
 	- Medicine
