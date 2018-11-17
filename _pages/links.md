@@ -17,7 +17,7 @@ permalink: /links/
 Here are some useful links to resources that are interesting...
 
 ### Resources regarding Genetic Information Non-Discrimination and Privacy Protections
-Here is a set of links for gaining more background on issues of genetic discrimination, privacy, and their history.  This list is focused on the history in United States at the time being, and in particular focuses on understanding the 2008 Genetic Information Non-Discrimination Act and state-level laws that have been proposed or passed since GINA.  This is very much a work-in-progress.  Recommended readings are very welcome.  Please email John (jnovembre at uchicago dot edu) with your suggestions.
+Here is a set of links for gaining more background on the topic genetic non-discrimination and privacy.  This list is focused on the recent history in United States at the time being, and in particular focuses on understanding the 2008 Genetic Information Non-Discrimination Act and state-level laws that have been proposed or passed since GINA.  This is very much a work-in-progress.  Recommendations are very welcome, and please email John (jnovembre at uchicago dot edu) with your suggestions.
 
 - General reference:
 	- Council for Responsible Genetics’s Project page
@@ -43,10 +43,10 @@ Here is a set of links for gaining more background on issues of genetic discrimi
 		- Summary of proposal via the Privacy Report from 2011: 	[[link]](https://theprivacyreport.com/2011/02/14/genetic-bill-of-rights-proposed-in-massachusetts/)
 	- New York's Assembly Bill A10229:
 		- Prohibits insurance companies from discriminating based on genetic testing. Current status: in committee.   [[link]](https://www.nysenate.gov/legislation/bills/2017/a10229)
-- A new concern for genetic information: Genetic predictors (a.k.a.  Polygenic scores)
+- A new outcome from genetic information: Polygenic scores
 	- "The personal and clinical utility of polygenic risk scores" by Torkomani, Wineinger and Topol (2018) Nature Reviews Genetics review article  [[link]]( https://www.nature.com/articles/s41576-018-0018-x)
 	- "Polygenic scores and tea drinking" by Graham Coop (2018) [[link]](https://gcbias.org/2018/03/14/polygenic-scores-and-tea-drinking/)
-	- "Tread Lightly Intpreting Polygenic Tests of Selection" by Novembre and Barton (2018)	[[link]](http://www.genetics.org/content/208/4/1351)
+	- "Tread Lightly Interpreting Polygenic Tests of Selection" by Novembre and Barton (2018)	[[link]](http://www.genetics.org/content/208/4/1351)
 - Useful academic articles:
 	- Ethics
 		- "Genetic Equity" by Harris & Sulston (2004) in Nature Reviews Genetics [[link]](https://www.nature.com/articles/nrg1454)
@@ -55,6 +55,9 @@ Here is a set of links for gaining more background on issues of genetic discrimi
 		- "Genetic Data and Civil Rights" by Ifeoma Ajunwa (2016) in Harvard Civl Rights - Civil Liberties Law Review (CR-CL), Vol 51. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460897)
 	- Medicine
 		- "GINA, Genetic Discrimination, and Genomic Medicine" by Green, Lautenbach, McGuire (2015) in New England Journal of Medicine [[link]](https://www.nejm.org/doi/full/10.1056/NEJMp1404776#t=article)
+	- Social sciences
+		- "The Genome Factor: What the Social Genomics Revolution Reveals about Ourselves, Our History, and the Future" by Conley and Fletcher (2017) [[link]](https://www.amazon.com/dp/B01IFYRAEQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - Relevant recent coverage in the news:
 	- "Genetic Discrimination Case Against School District is Appealed to Ninth Circuit" by Jennifer Wagner (2016) in the Privacy Report [[link]](https://theprivacyreport.com/2016/02/02/genetic-discrimination-case-against-school-district-is-appealed-to-ninth-circuit/)
+	- "Sociogenomics is opening a new door to eugenics" by Nathanial Comfort (2018) in Technology Review [[link]](https://www.technologyreview.com/s/612275/sociogenomics-is-opening-a-new-door-to-eugenics/)
 	- "The ‘geno-economists’ say DNA can predict our chances of success.  Critics counter thier methods are naive, offensive or both, but all agree: either way, multigene testing will lead to a social upheaval." by Jacob Ward (2018) [[link]](https://www.nytimes.com/interactive/2018/11/16/magazine/tech-design-economics-genes.html)
