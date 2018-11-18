@@ -41,7 +41,7 @@ Here is a set of links for gaining more background on the topic of genetic non-d
 			- "Considering the Impact of Yet Another Proposal for Genetic Legislation" by Dan Vorhaus (2011) The Privacy Report  [[link]](https://theprivacyreport.com/2011/03/23/ca-proposal-for-genetic-legislation/)
 			- "A New Law to Raise GINA’s Floor in California" by Jennifer Wagner (2011) The Privacy Report [[link]](https://theprivacyreport.com/2011/12/07/a-new-law-to-raise-ginas-floor-in-california/)
 			- Genetic Privacy Network project homepage: This page has an overview of concern, coverage, and laws related to genetic information non-discrimination and privacy.  [[link]](https://geneticprivacynetwork.wordpress.com/mission-and-sponsors/)
-	- Massachusett’s Genetic Bill of Rights (S. 1080):
+	- Massachusetts Genetic Bill of Rights (S. 1080):
 		- The bill and status (stalled in 2011-2012 and not re-introduced) [[link]](https://malegislature.gov/Bills/187/S1080)
 		- Summary via the Privacy Report from 2011: 	[[link]](https://theprivacyreport.com/2011/02/14/genetic-bill-of-rights-proposed-in-massachusetts/)
 	- New York's Assembly Bill A10229:
