@@ -33,7 +33,7 @@ Here is a set of links for gaining more background on the topic of genetic non-d
 		- 23andme: "What Is GINA And Could My Genetic Data Make It Hard For Me To Get Insurance Coverage?" [[link]]( https://customercare.23andme.com/hc/en-us/articles/202907860-What-is-GINA-and-could-my-genetic-data-make-it-hard-for-me-to-get-insurance-coverage)
 		- Coalition for Genetic Fairness: The coalition that pushed for GINA on a federal level [[link]](http://www.geneticfairness.org/about.html)
 	- Summary of the legislative history on revovly.com [[link]](https://www.revolvy.com/page/Genetic-Information-Nondiscrimination-Act)
-- Beyond GINA: Proposed or Passed state laws that cover more than GINA:
+- Beyond GINA - Proposed or Passed state laws that cover more than GINA:
 	- California’s “CalGINA”:
 		- The CalGINA bill text [[link]](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201120120SB559)
 		- History of CalGINA:
@@ -41,7 +41,7 @@ Here is a set of links for gaining more background on the topic of genetic non-d
 			- "Considering the Impact of Yet Another Proposal for Genetic Legislation" by Dan Vorhaus (2011) The Privacy Report  [[link]](https://theprivacyreport.com/2011/03/23/ca-proposal-for-genetic-legislation/)
 			- "A New Law to Raise GINA’s Floor in California" by Jennifer Wagner (2011) The Privacy Report [[link]](https://theprivacyreport.com/2011/12/07/a-new-law-to-raise-ginas-floor-in-california/)
 			- Genetic Privacy Network project homepage: This page has an overview of concern, coverage, and laws related to genetic information non-discrimination and privacy.  [[link]](https://geneticprivacynetwork.wordpress.com/mission-and-sponsors/)
-	- Massachusset’s Genetic Bill of Rights (S. 1080):
+	- Massachusett’s Genetic Bill of Rights (S. 1080):
 		- The bill and status (stalled in 2011-2012 and not re-introduced) [[link]](https://malegislature.gov/Bills/187/S1080)
 		- Summary via the Privacy Report from 2011: 	[[link]](https://theprivacyreport.com/2011/02/14/genetic-bill-of-rights-proposed-in-massachusetts/)
 	- New York's Assembly Bill A10229:
