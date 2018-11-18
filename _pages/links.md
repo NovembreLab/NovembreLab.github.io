@@ -54,6 +54,7 @@ Here is a set of links for gaining more background on the topic genetic non-disc
 - Relevant academic articles:
 	- Ethics
 		- "Genetic Equity" by Harris & Sulston (2004) in Nature Reviews Genetics [[link]](https://www.nature.com/articles/nrg1454)
+		- Genetics and Human Agency Project led by Eric Turkheimer (has numerous relevant posts on their blog) [[link]](http://www.geneticshumanagency.org)
 	- Law
 		- "Genetic Information Nondiscrimination Act of 2008: It's in Title VII's Genes" by Vacchio and Wolinsky (2011) in Hofstra Labor & Employment Law Journal [[link]](https://scholarlycommons.law.hofstra.edu/cgi/viewcontent.cgi?article=1529&context=hlelj)
 		- "The Genetic Information Nondiscrimination Act as an Antidiscrimination Law" by Jessica Roberts (2011) in Notre Dame Law Review [[link]](https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1064&context=ndlr)
