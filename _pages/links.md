@@ -17,7 +17,7 @@ permalink: /links/
 Here are some useful links to resources that are interesting...
 
 ### Resources regarding Genetic Information Non-Discrimination and Privacy Protections
-Here is a set of links for gaining more background on the topic genetic non-discrimination and privacy.  This list is focused on the recent history in United States at the time being, and in particular focuses on understanding the 2008 Genetic Information Non-Discrimination Act and state-level laws that have been proposed or passed since GINA.  This is very much a work-in-progress.  Recommendations are very welcome, and please email John (jnovembre at uchicago dot edu) with your suggestions.
+Here is a set of links for gaining more background on the topic of genetic non-discrimination and privacy.  This list is focused on the recent history in the United States for the time being, and in particular focuses on understanding the 2008 Genetic Information Non-Discrimination Act and state-level laws that have been proposed or passed since GINA.  This is very much a work-in-progress.  Recommendations are very welcome, and please email John (jnovembre at uchicago dot edu) with your suggestions.
 
 - General reference:
 	- Council for Responsible Genetics’s Project page
