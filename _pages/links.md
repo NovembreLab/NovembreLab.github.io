@@ -50,7 +50,7 @@ Here is a set of links for gaining more background on the topic of genetic non-d
 	- "The personal and clinical utility of polygenic risk scores" by Torkomani, Wineinger and Topol (2018) Nature Reviews Genetics review article  [[link]]( https://www.nature.com/articles/s41576-018-0018-x)
 	- "Polygenic scores and tea drinking" by Graham Coop (2018) [[link]](https://gcbias.org/2018/03/14/polygenic-scores-and-tea-drinking/)
 	- FAQs about “Gene discovery and polygenic prediction from a 1.1-million-person GWAS of educational attainment”, Social Science Genetic Consortium (2018) [[link]](https://www.thessgac.org/faqs)
-	- "Tread Lightly Interpreting Polygenic Tests of Selection" by Novembre and Barton (2018)	[[link]](http://www.genetics.org/content/208/4/1351)
+	- "Tread Lightly Interpreting Polygenic Tests of Selection" by Novembre and Barton (2018) in Genetics	[[link]](http://www.genetics.org/content/208/4/1351)
 - Relevant academic articles:
 	- Ethics
 		- "Genetic Equity" by Harris & Sulston (2004) in Nature Reviews Genetics [[link]](https://www.nature.com/articles/nrg1454)
