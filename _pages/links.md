@@ -25,14 +25,17 @@ Here is a set of links for gaining more background on the topic of genetic non-d
 	- National Institutes of Health: "Genetic Discrimination and Other Laws" (2017) [[link]]( https://www.genome.gov/27568503/genetic-discrimination-and-other-laws/)
 - History and Descriptions of GINA:
  	- The GINA bill text [[link]](https://www.eeoc.gov/laws/statutes/gina.cfm)
-	- Selected popular press coverage:
+	- Selected press coverage and online materials:
+		- "The new Genetic Information Genetic Nondiscrimination Act" by Jeremy Gruber (2009)		[[link]](http://www.councilforresponsiblegenetics.org/GeneWatch/GeneWatchPage.aspx?pageId=185&archive=yes)
+		- "Politics and Perseverance: An interview with U.S. Rep. Louise Slaughter, D-N.Y." (2009) [[link]](http://www.councilforresponsiblegenetics.org/GeneWatch/GeneWatchPage.aspx?pageId=187&archive=yes)
+		- Summary of the legislative history on revovly.com [[link]](https://www.revolvy.com/page/Genetic-Information-Nondiscrimination-Act)
 		- "Protecting Patients from Genetic Discrimination" by Joshua Kirsch (2017) in the Scientist [[link]]( https://www.the-scientist.com/news-opinion/protecting-patients-from-genetic-discrimination-31908)
 		- "The Loopholes in the Law Prohibiting Genetic Discrimination" by Sarah Zhang (2017) in the Atlantic [[link]]( https://www.theatlantic.com/health/archive/2017/03/genetic-discrimination-law-gina/519216/)
 	- Organizational summaries of GINA:
 		- American Society of Human Genetics: "GINA Turns 10"  [[link]]([http://www.ashg.org/policy/GINA.shtml])
 		- 23andme: "What Is GINA And Could My Genetic Data Make It Hard For Me To Get Insurance Coverage?" [[link]]( https://customercare.23andme.com/hc/en-us/articles/202907860-What-is-GINA-and-could-my-genetic-data-make-it-hard-for-me-to-get-insurance-coverage)
 		- Coalition for Genetic Fairness: The coalition that pushed for GINA on a federal level [[link]](http://www.geneticfairness.org/about.html)
-	- Summary of the legislative history on revovly.com [[link]](https://www.revolvy.com/page/Genetic-Information-Nondiscrimination-Act)
+
 - Beyond GINA - Proposed or Passed state laws that cover more than GINA:
 	- California’s “CalGINA”:
 		- The CalGINA bill text [[link]](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201120120SB559)
