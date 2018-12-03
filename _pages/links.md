@@ -49,6 +49,10 @@ Here is a set of links for gaining more background on the topic of genetic non-d
 		- Summary via the Privacy Report from 2011: 	[[link]](https://theprivacyreport.com/2011/02/14/genetic-bill-of-rights-proposed-in-massachusetts/)
 	- New York's Assembly Bill A10229:
 		- Prohibits insurance companies from discriminating based on genetic testing. Current status: in committee.   [[link]](https://www.nysenate.gov/legislation/bills/2017/a10229)
+	- The Canadian way forward, GNA 2017:
+		- Overview from the Canadian Civil Liberties Association [[link]](https://ccla.org/genetic-non-discrimination-act-overview/)
+		- "Why insurers are wrong about Canada’s genetic non-discrimination law" Op-Ed by Mike Hoy, Economics, Guelph [[link]](http://theconversation.com/why-insurers-are-wrong-about-canadas-genetic-non-discrimination-law-81380)
+			- Supporting paper economic analysis by Mike Hoy: "The Potential Economic Impact of a Ban on the Use of Genetic Information for Life and Health Insurance" [[link]](https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2012/gi_hoy_201203/)
 - A new outcome from genetic information: Polygenic scores
 	- "The personal and clinical utility of polygenic risk scores" by Torkomani, Wineinger and Topol (2018) Nature Reviews Genetics review article  [[link]]( https://www.nature.com/articles/s41576-018-0018-x)
 	- "Polygenic scores and tea drinking" by Graham Coop (2018) [[link]](https://gcbias.org/2018/03/14/polygenic-scores-and-tea-drinking/)
