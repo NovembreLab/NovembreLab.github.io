@@ -62,6 +62,7 @@ Here is a set of links for gaining more background on the topic of genetic non-d
 		- "Genetic Information Nondiscrimination Act of 2008: It's in Title VII's Genes" by Vacchio and Wolinsky (2011) in Hofstra Labor & Employment Law Journal [[link]](https://scholarlycommons.law.hofstra.edu/cgi/viewcontent.cgi?article=1529&context=hlelj)
 		- "The Genetic Information Nondiscrimination Act as an Antidiscrimination Law" by Jessica Roberts (2011) in Notre Dame Law Review [[link]](https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1064&context=ndlr)
 		- "Genetic Data and Civil Rights" by Ifeoma Ajunwa (2016) in Harvard Civl Rights - Civil Liberties Law Review (CR-CL), Vol 51. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460897)
+		- University of Iowa project on Insurance Law & Genetics Research [[link]](https://uiowa.edu/ilg/)
 	- Medicine
 		- "GINA, Genetic Discrimination, and Genomic Medicine" by Green, Lautenbach, McGuire (2015) in New England Journal of Medicine [[link]](https://www.nejm.org/doi/full/10.1056/NEJMp1404776#t=article)
 	- Social sciences
