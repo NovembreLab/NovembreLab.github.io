@@ -25,7 +25,7 @@
   desc:  Maximum likelihood estimation of frequencies of known haplotypes from pooled sequence data, developed by PhD student Darren Kessner.
 
 - name: RASPberry (Recombination via Ancestry Switch Probabilities)
-  url: https://bitbucket.org/phaentu/raspberry/
+  url: https://bitbucket.org/WegmannLab/raspberry
   photo: raspberry.jpg
   desc: Software for recombination rate inference using ancestry switch points in admixed individuals, developed by former postdoc Daniel Wegmann.
 
