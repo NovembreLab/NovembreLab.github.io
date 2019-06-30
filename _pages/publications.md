@@ -23,7 +23,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 ## Preprints
 
 {% for publi in site.data.publist %}
- {% if publi.link.journal == "bioRxiv" %}
+ {% if publi.date > 2019 %}
 
  <b>{{ publi.title }}</b> <br/>
  {{ publi.authors }}<br/> 
