@@ -1,10 +1,10 @@
 
 
-- title: Genetic landscapes reveal how human genetic diversity aligns with geography
-  authors: Peter BM, Petkova D, Novembre J
+- title: Population history from the Neolithic to present on the Mediterranean island of Sardinia- An ancient DNA perspective 
+  authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J
   date: 2020
   link:
-    url: https://doi.org/10.1101/233486
+    url: https://doi.org/10.1101/583104 
     journal: bioRxiv
 
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
@@ -14,11 +14,11 @@
     url: https://doi.org/10.1101/461517 
     journal: bioRxiv
 
-- title: Population history from the Neolithic to present on the Mediterranean island of Sardinia- An ancient DNA perspective 
-  authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J
+- title: Genetic landscapes reveal how human genetic diversity aligns with geography
+  authors: Peter BM, Petkova D, Novembre J
   date: 2020
   link:
-    url: https://doi.org/10.1101/583104 
+    url: https://doi.org/10.1101/233486
     journal: bioRxiv
 
 - title: Expected patterns of local ancestry in a hybrid zone
@@ -28,12 +28,20 @@
     url: https://doi.org/10.1101/389924
     journal: bioRxiv
 
+- title: De novo mutation rate estimation in wolves of known pedigree
+  authors: Koch E, Schweizer RM, Schweizer TM, Stahler DR, Smith DW, Wayne RK, Novembre J
+  date: 2019
+  link:
+  journal: Molecular Biology and Evolution
+  issuepage: In press
+
 - title: Estimating recent migration and population-size surfaces
   authors: Al-Asadi H, Petkova D, Stephens M, Novembre J
   date: 2019
   link:
     url: https://doi.org/10.1371/journal.pgen.1007908
-    journal: Plos Genetics
+    journal: PloS Genetics
+    issuepage: 15(1): e1007908
 
 - title: The effects of demography and genetics on the neutral distribution of quantitative traits
   authors: Koch EM
@@ -41,6 +49,7 @@
   link:
     url: https://doi.org/10.1534/genetics.118.301839 
     journal: Genetics
+    issuepage: 211(4):1371-1394
 
 - title: Genomic history of the Sardinian people 
   authors: Chiang CWK, Marcus JH, Sidore C, Biddanda A, Al-Asadi H, Zoledziewska M, Pitzalis M, Busonero F,  Maschio A, Pistis G, Steri M, Angius A, Lohmueller KE, Abecasis GR, Schlessinger D, Cucca F, Novembre J
@@ -56,7 +65,7 @@
   link:
     url: https://doi.org/10.1093/bioinformatics/bty779
     journal: Bioinfomatics
-
+    issuepage: 35(8):1292-1298
 
 - title: Using pseudoalignment and base quality to accurately quantify microbial community composition 
   authors: Reppell R, Novembre J
@@ -64,6 +73,7 @@
   link:
     url: https://doi.org/10.1371/journal.pcbi.1006096
     journal: Plos Computational Biology
+    issuepage: 14(4): e1006096
 
 - title: Tread Lightly Interpreting Polygenic Tests of Selection 
   authors: Novembre J, Barton N.
