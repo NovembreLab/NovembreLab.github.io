@@ -7,7 +7,6 @@
     url: https://doi.org/10.1101/233486
     journal: bioRxiv
 
-
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
   authors: Rice DP, Novembre J, Desai MM
   date: 2020
@@ -15,8 +14,7 @@
     url: https://doi.org/10.1101/461517 
     journal: bioRxiv
 
-
-- title: Population history from the Neolithic to present on the Mediterranean island of Sardiniai- An ancient DNA perspective 
+- title: Population history from the Neolithic to present on the Mediterranean island of Sardinia- An ancient DNA perspective 
   authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J
   date: 2020
   link:
@@ -37,6 +35,12 @@
     url: https://doi.org/10.1371/journal.pgen.1007908
     journal: Plos Genetics
 
+- title: The effects of demography and genetics on the neutral distribution of quantitative traits
+  authors: Koch EM
+  date: 2019
+  link:
+    url: https://doi.org/10.1534/genetics.118.301839 
+    journal: Genetics
 
 - title: Genomic history of the Sardinian people 
   authors: Chiang CWK, Marcus JH, Sidore C, Biddanda A, Al-Asadi H, Zoledziewska M, Pitzalis M, Busonero F,  Maschio A, Pistis G, Steri M, Angius A, Lohmueller KE, Abecasis GR, Schlessinger D, Cucca F, Novembre J
@@ -95,7 +99,7 @@
     issuepage: 12(4):e0175885
 
 - title: A Temporal Perspective on the Interplay of Demography and Selection on Deleterious Variation in Humans
-  authors: Koch E, Novembre J
+  authors: Koch EM, Novembre J
   date: 2017
   link:
     url: http://www.g3journal.org/content/7/3/1027
