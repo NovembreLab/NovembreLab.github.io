@@ -1,22 +1,65 @@
 
 
 - title: Genetic landscapes reveal how human genetic diversity aligns with geography
-  authors: Benjamin M Peter, Desislava Petkova, John Novembre
-  date: 2019
+  authors: Peter BM, Petkova D, Novembre J
+  date: 2020
   link:
     url: https://doi.org/10.1101/233486
     journal: bioRxiv
 
-- title: Population history of the Sardinian people inferred from whole-genome sequencing
-  authors: Charleston W.K. Chiang, Joseph H. Marcus, Carlo Sidore, Hussein Al-Asadi, Magdalena Zoledziewska, Maristella Pitzalis, Fabio Busonero, Andrea Maschio, Giorgio Pistis, Maristella Steri, Andrea Angius, Kirk E. Lohmueller, Goncalo R Abecasis, David Schlessinger, Francesco Cucca, John Novembre
+- title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
+  authors: Rice DP, Novembre J, Desai MM
+  date: 2020
+  link:
+    url: https://doi.org/10.1101/461517 
+    journal: bioRxiv
+
+- title: Population history from the Neolithic to present on the Mediterranean island of Sardinia- An ancient DNA perspective 
+  authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J
+  date: 2020
+  link:
+    url: https://doi.org/10.1101/583104 
+    journal: bioRxiv
+
+- title: Expected patterns of local ancestry in a hybrid zone
+  authors: Smith J, Payseur B, Novembre J
+  date: 2020
+  link:
+    url: https://doi.org/10.1101/389924
+    journal: bioRxiv
+
+- title: Estimating recent migration and population-size surfaces
+  authors: Al-Asadi H, Petkova D, Stephens M, Novembre J
   date: 2019
   link:
+    url: https://doi.org/10.1371/journal.pgen.1007908
+    journal: Plos Genetics
+
+- title: The effects of demography and genetics on the neutral distribution of quantitative traits
+  authors: Koch EM
+  date: 2019
+  link:
+    url: https://doi.org/10.1534/genetics.118.301839 
+    journal: Genetics
+
+- title: Genomic history of the Sardinian people 
+  authors: Chiang CWK, Marcus JH, Sidore C, Biddanda A, Al-Asadi H, Zoledziewska M, Pitzalis M, Busonero F,  Maschio A, Pistis G, Steri M, Angius A, Lohmueller KE, Abecasis GR, Schlessinger D, Cucca F, Novembre J
+  date: 2018
+  link:
     url: https://doi.org/10.1101/092148
-    journal: bioRxiv
+    journal: Nature Genetics
+    issuepage: 50\:1426–1434
+
+- title: Inference and visualization of DNA damage patterns using a grade of membership model
+  authors: Al-Asadi H, Dey KK, Novembre J, Stephens M
+  date: 2018
+  link:
+    url: https://doi.org/10.1093/bioinformatics/bty779
+    journal: Bioinfomatics
 
 
 - title: Using pseudoalignment and base quality to accurately quantify microbial community composition 
-  authors: Mark Reppell, John Novembre
+  authors: Reppell R, Novembre J
   date: 2018
   link:
     url: https://doi.org/10.1371/journal.pcbi.1006096
@@ -48,7 +91,7 @@
       issuepage: 376(17)\:1615-1626
 
 - title: A longitudinal cline characterizes the genetic structure of human populations in the Tibetan plateau
-  authors: Jeong C et al
+  authors: Jeong C, Peter BM, Basnyat B, Neupane M, Beall CM, Childs G, Craig SR, Novembre J, Di Rienzo A  
   date: 2017
   link:
     url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175885 
@@ -56,7 +99,7 @@
     issuepage: 12(4):e0175885
 
 - title: A Temporal Perspective on the Interplay of Demography and Selection on Deleterious Variation in Humans
-  authors: Koch E, Novembre J
+  authors: Koch EM, Novembre J
   date: 2017
   link:
     url: http://www.g3journal.org/content/7/3/1027
@@ -120,7 +163,7 @@
     issuepage: 48\:94-100
 
 - title: Height-reducing variants and selection for short stature on the island of Sardinia.
-  authors: Zoledziewska M*, Sidore C*, Chiang CWK*, Sanna S, Mulas A, Steri M, Busonero F, Marcus JH, Marongiu M, Maschio A, Ortega Del Vecchyo D, Floris M, Meloni A, Delitala A, Concas MP, Murgia F, Biino G, Vaccargiu S, Nagaraja R, Lohmueller KE, UK10K consortium, Timpson NJ, Soranzo N, Tachmazidou I Dedoussis G, Zeggini E, The Understanding Society Scientific Group, Uzzau S, Jones C, Lyons R, Angius A, Abecasis GR*, Novembre J*, Schlessinger D*, Cucca F*.
+  authors: Zoledziewska M, Sidore C, Chiang CWK, Sanna S, Mulas A, Steri M, Busonero F, Marcus JH, Marongiu M, Maschio A, Ortega Del Vecchyo D, Floris M, Meloni A, Delitala A, Concas MP, Murgia F, Biino G, Vaccargiu S, Nagaraja R, Lohmueller KE, UK10K consortium, Timpson NJ, Soranzo N, Tachmazidou I Dedoussis G, Zeggini E, The Understanding Society Scientific Group, Uzzau S, Jones C, Lyons R, Angius A, Abecasis GR, Novembre J, Schlessinger D, Cucca F.
   date: 2015
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26366551
