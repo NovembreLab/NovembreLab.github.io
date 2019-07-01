@@ -32,8 +32,9 @@
   authors: Koch E, Schweizer RM, Schweizer TM, Stahler DR, Smith DW, Wayne RK, Novembre J
   date: 2019
   link:
-  journal: Molecular Biology and Evolution
-  issuepage: In press
+    url: 
+    journal: Molecular Biology and Evolution
+    issuepage: In press
 
 - title: Estimating recent migration and population-size surfaces
   authors: Al-Asadi H, Petkova D, Stephens M, Novembre J
