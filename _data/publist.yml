@@ -41,7 +41,7 @@
   link:
     url: https://doi.org/10.1371/journal.pgen.1007908
     journal: PloS Genetics
-    issuepage: 15(1): e1007908
+    issuepage: 15(1)\:e1007908
 
 - title: The effects of demography and genetics on the neutral distribution of quantitative traits
   authors: Koch EM
@@ -49,7 +49,7 @@
   link:
     url: https://doi.org/10.1534/genetics.118.301839 
     journal: Genetics
-    issuepage: 211(4):1371-1394
+    issuepage: 211(4)\:1371-1394
 
 - title: Genomic history of the Sardinian people 
   authors: Chiang CWK, Marcus JH, Sidore C, Biddanda A, Al-Asadi H, Zoledziewska M, Pitzalis M, Busonero F,  Maschio A, Pistis G, Steri M, Angius A, Lohmueller KE, Abecasis GR, Schlessinger D, Cucca F, Novembre J
@@ -65,15 +65,15 @@
   link:
     url: https://doi.org/10.1093/bioinformatics/bty779
     journal: Bioinfomatics
-    issuepage: 35(8):1292-1298
+    issuepage: 35(8)\:1292-1298
 
 - title: Using pseudoalignment and base quality to accurately quantify microbial community composition 
   authors: Reppell R, Novembre J
   date: 2018
   link:
     url: https://doi.org/10.1371/journal.pcbi.1006096
-    journal: Plos Computational Biology
-    issuepage: 14(4): e1006096
+    journal: PloS Computational Biology
+    issuepage: 14(4)\:e1006096
 
 - title: Tread Lightly Interpreting Polygenic Tests of Selection 
   authors: Novembre J, Barton N.
