@@ -1,5 +1,16 @@
-- headline: "John is back from his sabbatical! After a wonderful academic walkabout he has arrived back in Chicago!"
+
+
+- headline: "Our paper on de novo mutation rate estimation in wolves has been accepted at MBE."
+  date: 6/19
+
+- headline: "Our NIH grant proposal on 'Extending Tools for Visualization of Geographic Structure in Population Genomic Data' has been awarded."
+  date 4/19
+
+- headline: "John is back from his sabbatical!"
   date: 3/19
+
+- headline: "We're very happy that Jeremy Berg and Manaasa Raghavan have both arrived and settled in nicely on the fourth floor of Cummings!"
+  date: 12/18
 
 - headline: "The lab's long-term project on the analysis of modern genome data from Sardinia to learn about population history is published in Nature Genetics!"
   date: 11/18
@@ -31,13 +42,13 @@
 - headline: "A subset of the lab took part in our second ice fishing trip, this time heading to Green Bay, Wisconsin and with much better success catching some delicious whitefish."
   date: 2/18
 
-- headline: Wonderful to welcome new faculty Matthias Steinrucken and Yang Li to campus.
+- headline: "Wonderful to welcome new faculty Matthias Steinrucken and Yang Li to campus."
   date: 9/17
 
-- headline: The tradition continues! Midwest PopGen took place at Michigan State University and lab members Evan Koch and Ben Peter had great presentations there. 
+- headline: "The tradition continues! Midwest PopGen took place at Michigan State University and lab members Evan Koch and Ben Peter had great presentations there." 
   date: 8/17
 
-- headline: Novembre Lab represented at SMBE and the ULCA CGSI workshop!
+- headline: "Novembre Lab represented at SMBE and the ULCA CGSI workshop!"
   date: 7/17
 
 - headline: "The SardiNIA project's discovery of the BAFF gene's role in multiple sclerosis is published in New England Journal of Medicine.  This interesting risk allele appears to have been favored in Sardinia."
