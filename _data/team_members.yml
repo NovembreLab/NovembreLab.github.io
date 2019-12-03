@@ -23,17 +23,8 @@
   info: PhD Student
   blurb: "[Arjun](https://aabiddanda.github.io/) is a PhD student in the Department of Human Genetics. His work largely focuses on methods development for inference with both spatial and temporally structured genetic data, such as ancient DNA. Currently, his specific topics of interest are in the geographic distribution of functional genetic variants and multi-locus models with temporal structured samples. Prior to joining the lab, Arjun worked on the population genetics of Indian Jewish populations and methods for X-based GWAS"
 
-- name: Maryn Carlson
-  photo: maryn_carlson.png
-  info: PhD Student
-  blurb: "Maryn is a PhD student in the Committee of Genetics, Genomics and Systems Biology. Broadly, she is interested in understanding how selection acts on and shapes the genetic architecture of complex traits. Prior to joining the lab, Maryn studied the genetics of a plant pathogen as well as plant quantitative genetics at Cornell University."
-
 - name: Joe Marcus
   photo: joe_marcus.jpg
   info: PhD Student
   blurb: "[Joe](http://jhmarcus.com/) is an NSF Graduate Research Fellow and PhD student in the Department of Human Genetics. His primary interest is in developing and applying statistical methods with applications to genomic data. He first joined the lab as an intern and programmer where he worked extensively on the [Geography of Genetic Variants Browser](https://popgen.uchicago.edu/ggv/) as well as our collaboration with the SardiNIA/Progenia project. Currently, Joe’s main projects include the analysis of a large-scale ancient DNA dataset from Sardinia and the development of a statistical method to visualize spatial heterogeneity."
 
-- name: Chi-Chun Liu
-  photo: chichun.jpg
-  info: Bioinfomatician
-  blurb: "Chi-Chun works as the bioinformatician in the lab. He is interested in the inference of demography and selection using ancient DNA, and has been working on our collaboration of high-altitude adaptation with the Di Rienzo lab. Chi-Chun previously worked on local ancestry methods and was advised by Dan Nicolae for his M.S. degree in Statistcs at the University of Chicago."
