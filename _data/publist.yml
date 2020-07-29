@@ -1,40 +1,53 @@
-
-
-- title: Population history from the Neolithic to present on the Mediterranean island of Sardinia- An ancient DNA perspective 
-  authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J
-  date: 2020
+- title: Geographic patterns of human allele frequency variation \:a variant-centric perspective
+  authors: Biddanda A, Rice DP, Novembre J
+  date: 2021
   link:
-    url: https://doi.org/10.1101/583104 
+    url: https://doi.org/10.1101/2020.07.01.182311 
+    journal: bioRxiv
+
+- title: Detecting runs of homozygosity from low-coverage ancient DNA
+  authors: Ringbauer H, Steinrücken, Novembre J
+  date: 2021
+  link:
+    url: https://doi.org/10.1101/2020.05.31.126912 
     journal: bioRxiv
 
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
   authors: Rice DP, Novembre J, Desai MM
-  date: 2020
+  date: 2021
   link:
     url: https://doi.org/10.1101/461517 
     journal: bioRxiv
+
+- title: Expected patterns of local ancestry in a hybrid zone
+  authors: Smith J, Payseur B, Novembre J
+  date: 2021
+  link:
+    url: https://doi.org/10.1101/389924
+    journal: bioRxiv
+
+- title: Genetic history from the Middle Neolithic to present on the Mediterranean island of Sardinia 
+  authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J
+  date: 2020
+  link:
+    url:  https://www.nature.com/articles/s41467-020-14523-6
+    journal: Nature Communications
 
 - title: Genetic landscapes reveal how human genetic diversity aligns with geography
   authors: Peter BM, Petkova D, Novembre J
   date: 2020
   link:
-    url: https://doi.org/10.1101/233486
-    journal: bioRxiv
-
-- title: Expected patterns of local ancestry in a hybrid zone
-  authors: Smith J, Payseur B, Novembre J
-  date: 2020
-  link:
-    url: https://doi.org/10.1101/389924
-    journal: bioRxiv
+    url: https://doi.org/10.1093/molbev/msz280 
+    journal: Molecular Biology and Evolution
+    issuepage: 4\:943–951
 
 - title: De novo mutation rate estimation in wolves of known pedigree
   authors: Koch E, Schweizer RM, Schweizer TM, Stahler DR, Smith DW, Wayne RK, Novembre J
   date: 2019
   link:
-    url: 
+    url: https://pubmed.ncbi.nlm.nih.gov/31297530/
     journal: Molecular Biology and Evolution
-    issuepage: In press
+    issuepage: 36(11)\:2536-2547 
 
 - title: Estimating recent migration and population-size surfaces
   authors: Al-Asadi H, Petkova D, Stephens M, Novembre J
