@@ -8,11 +8,6 @@
   info: Postdoctoral Fellow
   blurb: "[Daniel Rice](https://dp-rice.github.io/) is a postdoctoral fellow in the [Chicago Fellows Program](https://biologicalsciences.uchicago.edu/page/chicago-fellows).  He previously completed a PhD in the Department of Organismic and Evolutionary Biology at Harvard University where he studied with Michael Desai.  He has worked on problems arising in the analysis of experimental evolution data as well as core issues in theoretical population genetics, such as evolution of the distribution of fitness effects and signatures of multi-merger coalescence."
 
-- name: Harald Ringbauer
-  photo: hringbauer.jpg
-  info: Postdoctoral Fellow
-  blurb: "[Harald Ringbauer](https://ist.ac.at/research-groups-pages/barton-group/team/alumni/harald-ringbauer/) is a postdoctoral fellow in the lab. His work focuses on the development of methods to estimate current population structure from genetic data, especially using identity-by-descent tract data. Direct observations to infer demography are often very cumbersome, but the advent of population genomic datasets has opened a lot of new opportunities for this discipline, and Harald works on innovative ways to utilize these. Before joining the Novembre lab, he completed a PhD at IST Austria, supervised by [Nick Barton](https://ist.ac.at/research/research-groups/barton-group/) ."
-
 - name: Mashaal Sohail 
   photo: mashaal_sohail.jpg
   info: Postdoctoral Fellow
@@ -28,8 +23,8 @@
   info: PhD Student
   blurb: "[Joe](http://jhmarcus.com/) is an NSF Graduate Research Fellow and PhD student in the Department of Human Genetics. His primary interest is in developing and applying statistical methods with applications to genomic data. He first joined the lab as an intern and programmer where he worked extensively on the [Geography of Genetic Variants Browser](https://popgen.uchicago.edu/ggv/) as well as our collaboration with the SardiNIA/Progenia project. Currently, Joe’s main projects include the analysis of a large-scale ancient DNA dataset from Sardinia and the development of a statistical method to visualize spatial heterogeneity."
 
-- name: Christian Porras 
-  photo: chris_porras.jpg
+- name: Achyutha Menon 
+  photo: amenon.jpg
   info: Undergraduate Researcher 
-  blurb: "[Christian](https://chrisporras.github.io/) is an undergraduate student majoring in Biological Sciences with a specialization in Quantitative Biology. His work focuses on expanding population genetic theory, testing novel models for the evolution of the observed site frequency spectrum."
+  blurb: "Achu is an undergraduate student currently planning to major in Molecular Engineering, on the Chemical Engineering track. His work is centered on the development of a visualization tool for the geographic distribution of linkage disequilibrium patterns"
 
