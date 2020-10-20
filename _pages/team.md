@@ -29,8 +29,9 @@ permalink: /team/
 # Alumni 
  After ten years now as a lab, we have an even spread of alumni that have gone into academics and industry. Thus far, geographically our alumni can be found in the United States, Mexico, Switzerland, and Germany.  While we work in a university setting and train ourselves in the practice of research and teaching, this prepares our alumni for a broad set of careers. 
 
+- [Joe Marcus](https://www.linkedin.com/in/joseph-marcus-661bb3ab/): PhD student in Human Genetics, 2020.  Bioinformatic Scientists at Grail, Inc.
 - [Chris Porras](https://www.linkedin.com/in/cporras): Undergraduate Researcher, 2018 - 2020. MD/PhD student at Mt. Sinai.
-- [Harald Ringbauer](https://scholar.google.at/citations?user=S442a2MAAAAJ&hl=de): Postdoctoral Fellow, 2017 - 2019. Postdoctoral fellow at Harvard.
+- [Harald Ringbauer](https://reich.hms.harvard.edu/people/harald-ringbauer): Postdoctoral fellow, 2018-2019.  Postdoctoral fellow at Harvard
 - [Hussein Al-asadi](https://www.linkedin.com/in/hussein-al-asadi-82b5b71b): PhD student in Committee of Evolutionary Biology, Masters in Statistcs, 2018.  Data scientist at Adaptive biotech.  
 - [Evan Koch](https://emkoch.github.io): PhD student in Ecology & Evolution, 2013-2018.  Academic postdoctoral position at Harvard.
 - [Joel Smith](https://www.linkedin.com/in/joel-smith-36a32a149): PhD student in Ecology & Evolution, 2018.  Scientist at Zymeworks. 
