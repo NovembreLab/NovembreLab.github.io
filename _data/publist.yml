@@ -1,30 +1,42 @@
+- title: Fast and Flexible Estimation of Effective Migration Surfaces
+  authors: Marcus JH, Ha W, Barber RF, Novembre J
+  date: 2022
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1
+    journal: bioRxiv
+    software: https://github.com/jhmarcus/feems
+
 - title: Geographic patterns of human allele frequency variation \:a variant-centric perspective
   authors: Biddanda A, Rice DP, Novembre J
-  date: 2021
+  date: 2022
   link:
     url: https://doi.org/10.1101/2020.07.01.182311 
     journal: bioRxiv
+    software: https://github.com/aabiddanda/geovar
 
 - title: Detecting runs of homozygosity from low-coverage ancient DNA
   authors: Ringbauer H, Steinrücken, Novembre J
-  date: 2021
+  date: 2022
   link:
     url: https://doi.org/10.1101/2020.05.31.126912 
     journal: bioRxiv
+    software: https://pypi.org/project/hapROH/
 
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
   authors: Rice DP, Novembre J, Desai MM
-  date: 2021
+  date: 2022
   link:
     url: https://doi.org/10.1101/461517 
     journal: bioRxiv
 
 - title: Expected patterns of local ancestry in a hybrid zone
   authors: Smith J, Payseur B, Novembre J
-  date: 2021
+  date: 2022
   link:
     url: https://doi.org/10.1101/389924
     journal: bioRxiv
+
+# 2021 publications will go here ... 
 
 - title: Genetic history from the Middle Neolithic to present on the Mediterranean island of Sardinia 
   authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J

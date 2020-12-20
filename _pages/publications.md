@@ -15,7 +15,6 @@ permalink: /publications/
 
 # Selected Publications
 
-
 For a full listing of publications see [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=novembre+j+%5Bau%5D") or [Google Scholar](http://scholar.google.com/citations?user=wIib4t0AAAAJ).
 
 Italics indicate current/former lab members.  * indicates authors contributed equally.
@@ -23,7 +22,7 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 ## Preprints
 
 {% for publi in site.data.publist %}
- {% if publi.date > 2020 %}
+ {% if publi.date > 2021 %}
 
  <b>{{ publi.title }}</b> <br/>
  {{ publi.authors }}<br/> 

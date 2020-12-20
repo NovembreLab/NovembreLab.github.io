@@ -20,23 +20,24 @@ permalink: /team/
   <p>{{member.blurb}}</p>
 </div>
 
-
 </div>
 
 {% endfor %}
 
-
 # Alumni 
  After ten years now as a lab, we have an even spread of alumni that have gone into academics and industry. Thus far, geographically our alumni can be found in the United States, Mexico, Switzerland, and Germany.  While we work in a university setting and train ourselves in the practice of research and teaching, this prepares our alumni for a broad set of careers. 
 
+- [Arjun Biddanda](https://aabiddanda.github.io/): PhD student in Human Genetics, 2020. Postdoctoral Scholar at Oxford.
+- [Daniel Rice](https://dp-rice.github.io/): Postdoctoral Fellow, (2016 - 2020). Data Scientist Outreach Coordinator at NCBI.  
 - [Joe Marcus](https://www.linkedin.com/in/joseph-marcus-661bb3ab/): PhD student in Human Genetics, 2020.  Bioinformatic Scientists at Grail, Inc.
-- [Harald Ringbauer](https://reich.hms.harvard.edu/people/harald-ringbauer): Postdoctoral fellow, 2018-2019.  Postdoctoral fellow, Reich Lab. 
-- [Hussein Al-asadi](https://www.linkedin.com/in/hussein-al-asadi-82b5b71b): PhD student in Committee of Evolutionary Biology, Masters in Statistcs, 2018.  Data scientist at Adaptive biotech.  
-- [Evan Koch](https://emkoch.github.io): PhD student in Ecology & Evolution, 2013-2018.  Academic postdoctoral position at Harvard.
+- [Christian Porras]() 
+- [Harald Ringbauer](https://reich.hms.harvard.edu/people/harald-ringbauer): Postdoctoral Fellow, 2018-2019. Postdoctoral Fellow, Reich Lab, Harvard.  
+- [Hussein Al-asadi](https://www.linkedin.com/in/hussein-al-asadi-82b5b71b): PhD student in Committee of Evolutionary Biology, Masters in Statistcs, 2018.  Data scientist at Adaptive Biotech.  
+- [Evan Koch](https://emkoch.github.io): PhD student in Ecology & Evolution, 2013-2018.  Postdoctoral Fellow at Harvard.
 - [Joel Smith](https://www.linkedin.com/in/joel-smith-36a32a149): PhD student in Ecology & Evolution, 2018.  Scientist at Zymeworks. 
 - [Ben Peter](http://www.eva.mpg.de/genetics/staff/benjamin-peter/index.html): Postdoctoral Fellow, 2014-2017.  Group leader at Max Planck Institute. 
 - [Mark Reppell](https://www.linkedin.com/in/mark-reppell-9870a981): Postdoctoral Fellow, 2014-2017.  Senior scientist at Abbvie Genomics.
-- [Diego Ortega Del Vecchyo](http://diegoortega.bol.ucla.edu/): PhD student in Bioinformatics, 2016.  Starting a group leader position, Institute for Human Genomics in Mexico.  
+- [Diego Ortega Del Vecchyo](http://diegoortega.bol.ucla.edu/): PhD student in Bioinformatics, 2016.  Group leader, Institute for Human Genomics in Mexico.  
 - [Charleston Chiang](https://chianglab.usc.edu): Postdoctoral Fellow, 2011-2015. Tenure-track faculty at USC.  
 - [Alex Platt](http://www.alexanderplatt.org): Research Associate, 2011-2014.  Research faculty at Temple.
 - [Eunjung/Christine Han](https://www.linkedin.com/pub/eunjung-christine-han/85/5a8/510): PhD student in Biostatistics, 2014.  Data science at Amazon.
