@@ -1,32 +1,10 @@
 
 
-
-- headline: "Our 'GeoVar' paper came out in eLife over the holidays!"
-  date: 1/21
-
-- headline: "Arjun Biddanda finished his PhD and joins Palamara Lab (Oxford)"
-  date: 12/20
-
-- headline: "Joe Marcus completed his Phd and moves to join Grail Biosciences"
-  date: 9/20
-
-- headline: "Xinyi Li and Chi-Chun Liu join the lab"
-  date: 7/20
-
-- headline: "We're very excited to welcome new postdoctoral fellow Mashaal Sohail to Chicago!"
-  date: 11/19
-
-- headline: "John, Joe, Arjun,and Chris all attended the American Society of Human Genetics Meeting in Houston, TX. It was exciting seeing many former alumni of the lab including Charleston Chiang and Evan Koch."
-  date: 10/19
-
-- headline: "We helped to host the Midwest Population Genetics Conference at UChicago."
-  date: 8/19
-
 - headline: "Our paper on de novo mutation rate estimation in wolves has been accepted at MBE."
   date: 6/19
 
-- headline: "Our NIH grant proposal on 'Extending Tools for Visualization of Geographic Structure in Population Genomic Data' has been awarded."
-  date: 4/19
+- headline: Our NIH grant proposal on 'Extending Tools for Visualization of Geographic Structure in Population Genomic Data' has been awarded.
+  date 4/19
 
 - headline: "John is back from his sabbatical!"
   date: 3/19
@@ -53,7 +31,7 @@
   date: 5/18
 
 - headline: "John and colleague Darrell Wagonner spoke at the Baderbauer brewery in Chicago as part of the Taste of Science festival for public outreach in the sciences."
-  date: 4/18
+  date: 4/18 
 
 - headline: "Joel defended his dissertation on haploytpe methods for studying selected alleles and on models for ancestry tracts in hybrid zones.  He's been a joy to work with and will be sorely missed!"
   date: 4/18
@@ -67,7 +45,7 @@
 - headline: "Wonderful to welcome new faculty Matthias Steinrucken and Yang Li to campus."
   date: 9/17
 
-- headline: "The tradition continues! Midwest PopGen took place at Michigan State University and lab members Evan Koch and Ben Peter had great presentations there."
+- headline: "The tradition continues! Midwest PopGen took place at Michigan State University and lab members Evan Koch and Ben Peter had great presentations there." 
   date: 8/17
 
 - headline: "Novembre Lab represented at SMBE and the ULCA CGSI workshop!"
@@ -88,12 +66,12 @@
 - headline: "Joel, Hussein, and John took a fishing trip that resulted in John's first midwestern steelhead catch!"
   date: 2/17
 
-- headline: "Our paper, led by PhD student Joel Smith, on inferring coalsecent times for selected alleles came out in <a href=\"https://doi.org/10.1093/molbev/msy006\">Molecular Biology and Evolution</a>."
-  date: 2/17
-
+- headline: "Our paper, led by PhD student Joel Smith, on inferring coalsecent times for selected alleles came out in <a href=\"https://doi.org/10.1093/molbev/msy006\">Molecular Biology and Evolution</a>."   
+  date: 2/17 
+  
 - headline: "Dan Rice helped put together a fun 2-day lab retreat/workshop on presentation skills (the \"Talkathon\")."
   date: 1/17
-
+  
 - headline: "The lab enjoyed a visit from Constanza de la Fuente, a PhD student with Eske Willerslev at the GeoGenetics Institute in Copenhagen. Constanza brought a wealth of information about ancient DNA and population genetic analysis of Siberian populations."
   date: 11/17
 

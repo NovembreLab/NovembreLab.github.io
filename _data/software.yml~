@@ -1,52 +1,18 @@
-- name: feems (fast-EEMS)
-  url: https://github.com/jhmarcus/feems
-  photo: feems.png
-  desc: A statistical method for inferring and visualizing gene-flow in spatial population genetic data, developed by PhD student Joe Marcus 
-
-- name: hapROH
-  url: https://pypi.org/project/hapROH/
-  photo: hapROH.png
-  desc: Identify runs of homozygosity (ROH) in low coverage ancient human DNA data using modern haplotype reference panels.
-
-- name: geovar
-  url: https://github.com/aabiddanda/geovar
-  photo: geovar.png
-  desc: A package to visualize joint allele frequency spectra from population genetic samples.
-
-- name: MAPS
-  url: https://github.com/halasadi/MAPS
-  photo: maps.jpg
-  desc: A method for estimating dispersal rates and population densities based on the number of shared long Pairwise Coalescent Segments (lPSC, aka "IBD tracts").
-
-- name: EEMS
-  url: https://github.com/dipetkov/eems
-  photo: eems.png
-  desc: A method for visualizing population structure in spatial data using "effective migration" surfaces
-
-- name: Geography of Genetic Variants Browser
-  url: http://popgen.uchicago.edu/ggv/
-  photo:  ggv.jpg
-  desc: A web-based tool for visualizing the geographic distribution of variants in several published datasets.
-
-- name: RGGV
-  url: https://github.com/NovembreLab/RGGV
-  photo: RGGV.png
-  desc: An R package that for plotting of allele frequencies on geographic maps
-
-- name: PCAviz
-  url: https://github.com/NovembreLab/PCAviz
-  photo: pcaviz.png
-  desc: An R package to help in plotting PCA results nicely.
 
 - name: karp
   url: https://github.com/mreppell/Karp
   photo: karp.png
-  desc: A method for k-mer based analysis of read pools using psuedo-alignment and base quality information, developed by former postdoc Mark Reppell.
+  desc: A method for k-mer based analysis of read pools using psuedo-alignment and base quality information, developed by former postdoc Mark Reppell
 
 - name: starTmrca
   url: https://github.com/jhavsmith/startmrca
   photo: startmrca.png
   desc: A method to estimate the timing of selective sweeps from haplotype data, developed by PhD Student Joel Smith.
+
+- name: Geography of Genetic Variants Browser
+  url: http://popgen.uchicago.edu/ggv/
+  photo:  ggv.jpg
+  desc: A web-based tool for visualizing the geographic distribution of variants in several published datasets.
 
 - name: forqs (Forward-in-time simulation of Recombination, Quantitative traits, and Selection)
   url: https://bitbucket.org/dkessner/forqs
@@ -59,7 +25,7 @@
   desc:  Maximum likelihood estimation of frequencies of known haplotypes from pooled sequence data, developed by PhD student Darren Kessner.
 
 - name: RASPberry (Recombination via Ancestry Switch Probabilities)
-  url: https://bitbucket.org/WegmannLab/raspberry
+  url: https://bitbucket.org/phaentu/raspberry/
   photo: raspberry.jpg
   desc: Software for recombination rate inference using ancestry switch points in admixed individuals, developed by former postdoc Daniel Wegmann.
 
@@ -72,11 +38,6 @@
   url: https://github.com/rundel/isoscatR
   photo: isoscat.png
   desc: An R-package for spatial assignment using genetic and isotopic data, developed by former PhD student Colin Rundel, and based in part on the SCAT software from Matthew Stephens.
-
-- name: raddle: Rare Allele Distance of DispersaL Estimation
-  url: https://github.com/NovembreLab/raddle
-  photo:
-  desc: The Raddle software for Rare-Allele-based Distance of Dispersal Estimation, based on Novembre & Slatkin (2009)
 
 - name: MDBlocks
   url: http://ib.berkeley.edu/labs/slatkin/eriq/software/mdb_web/
