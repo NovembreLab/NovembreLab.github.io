@@ -1,3 +1,17 @@
+- name: feems (fast-EEMS)
+  url: https://github.com/jhmarcus/feems
+  photo: feems.png
+  desc: A statistical method for inferring and visualizing gene-flow in spatial population genetic data, developed by PhD student Joe Marcus 
+
+- name: hapROH
+  url: https://pypi.org/project/hapROH/
+  photo: hapROH.png
+  desc: Identify runs of homozygosity (ROH) in low coverage ancient human DNA data using modern haplotype reference panels.
+
+- name: geovar
+  url: https://github.com/aabiddanda/geovar
+  photo: geovar.png
+  desc: A package to visualize joint allele frequency spectra from population genetic samples.
 
 - name: MAPS
   url: https://github.com/halasadi/MAPS
@@ -27,7 +41,7 @@
 - name: karp
   url: https://github.com/mreppell/Karp
   photo: karp.png
-  desc: A method for k-mer based analysis of read pools using psuedo-alignment and base quality information, developed by former postdoc Mark Reppell
+  desc: A method for k-mer based analysis of read pools using psuedo-alignment and base quality information, developed by former postdoc Mark Reppell.
 
 - name: starTmrca
   url: https://github.com/jhavsmith/startmrca
