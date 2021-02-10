@@ -1,46 +1,39 @@
-- title: Geographic patterns of human allele frequency variation \:a variant-centric perspective
-  authors: Biddanda A, Rice DP, Novembre J
-  date: 2021
-  link:
-    url: https://doi.org/10.1101/2020.07.01.182311
-    journal: bioRxiv
 
-- title: Detecting runs of homozygosity from low-coverage ancient DNA
-  authors: Ringbauer H, Steinrücken, Novembre J
-  date: 2021
+
+- title: Population history from the Neolithic to present on the Mediterranean island of Sardinia- An ancient DNA perspective 
+  authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J
+  date: 2020
   link:
-    url: https://doi.org/10.1101/2020.05.31.126912
+    url: https://doi.org/10.1101/583104 
     journal: bioRxiv
 
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
   authors: Rice DP, Novembre J, Desai MM
-  date: 2021
-  link:
-    url: https://doi.org/10.1101/461517
-    journal: bioRxiv
-
-- title: Genetic history from the Middle Neolithic to present on the Mediterranean island of Sardinia
-  authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J
   date: 2020
   link:
-    url:  https://www.nature.com/articles/s41467-020-14523-6
-    journal: Nature Communications
+    url: https://doi.org/10.1101/461517 
+    journal: bioRxiv
 
 - title: Genetic landscapes reveal how human genetic diversity aligns with geography
   authors: Peter BM, Petkova D, Novembre J
   date: 2020
   link:
-    url: https://doi.org/10.1093/molbev/msz280
-    journal: Molecular Biology and Evolution
-    issuepage: 4\:943–951
+    url: https://doi.org/10.1101/233486
+    journal: bioRxiv
+
+- title: Expected patterns of local ancestry in a hybrid zone
+  authors: Smith J, Payseur B, Novembre J
+  date: 2020
+  link:
+    url: https://doi.org/10.1101/389924
+    journal: bioRxiv
 
 - title: De novo mutation rate estimation in wolves of known pedigree
   authors: Koch E, Schweizer RM, Schweizer TM, Stahler DR, Smith DW, Wayne RK, Novembre J
   date: 2019
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/31297530/
-    journal: Molecular Biology and Evolution
-    issuepage: 36(11)\:2536-2547
+  journal: Molecular Biology and Evolution
+  issuepage: In press
 
 - title: Estimating recent migration and population-size surfaces
   authors: Al-Asadi H, Petkova D, Stephens M, Novembre J
@@ -54,11 +47,11 @@
   authors: Koch EM
   date: 2019
   link:
-    url: https://doi.org/10.1534/genetics.118.301839
+    url: https://doi.org/10.1534/genetics.118.301839 
     journal: Genetics
     issuepage: 211(4)\:1371-1394
 
-- title: Genomic history of the Sardinian people
+- title: Genomic history of the Sardinian people 
   authors: Chiang CWK, Marcus JH, Sidore C, Biddanda A, Al-Asadi H, Zoledziewska M, Pitzalis M, Busonero F,  Maschio A, Pistis G, Steri M, Angius A, Lohmueller KE, Abecasis GR, Schlessinger D, Cucca F, Novembre J
   date: 2018
   link:
@@ -74,7 +67,7 @@
     journal: Bioinfomatics
     issuepage: 35(8)\:1292-1298
 
-- title: Using pseudoalignment and base quality to accurately quantify microbial community composition
+- title: Using pseudoalignment and base quality to accurately quantify microbial community composition 
   authors: Reppell R, Novembre J
   date: 2018
   link:
@@ -82,13 +75,14 @@
     journal: PloS Computational Biology
     issuepage: 14(4)\:e1006096
 
-- title: Tread Lightly Interpreting Polygenic Tests of Selection
+- title: Tread Lightly Interpreting Polygenic Tests of Selection 
   authors: Novembre J, Barton N.
   date: 2018
   link:
-    url: https://doi.org/10.1534/genetics.118.300786
-    journal: Genetics
-    issuepage: 208(4)\:1351-1355
+    url: https://doi.org/10.1534/genetics.118.300786 
+    journal: Genetics 
+    issuepage: 208(4)\:1351-1355 
+
 
 - title: Estimating Time to the Common Ancestor for a Beneficial Allele.
   authors: Smith J, Coop G, Stephens M, Novembre J.
@@ -96,14 +90,7 @@
   link:
     url: https://doi.org/10.1093/molbev/msy006
     journal: Molecular Biology and Evolution
-    issuepage: 35(4)\:1003-1017
-
-- title: Expected patterns of local ancestry in a hybrid zone
-  authors: Smith J, Payseur B, Novembre J
-  date: 2018
-  link:
-    url: https://doi.org/10.1101/389924
-    journal: bioRxiv
+    issuepage: 35(4)\:1003-1017 
 
 - title: Overexpression of the Cytokine BAFF and Autoimmunity Risk
   authors: Steri M, Orrù V, Idda ML, Pitzalis M, Pala M, Zara I, Sidore C, Faà V, Floris M, Deiana M, Asunis I, Porcu E, Mulas A, Piras MG, Lobina M, Lai S, Marongiu M, Serra V, Marongiu M, Sole G, Busonero F, Maschio A, Cusano R, Cuccuru G, Deidda F, Poddie F, Farina G, Dei M, Virdis F, Olla S, Satta MA, Pani M, Delitala A, Cocco E, Frau J, Coghe G, Lorefice L, Fenu G, Ferrigno P, Ban M, Barizzone N, Leone M, Guerini FR, Piga M, Firinu D, Kockum I, Lima Bomfim I, Olsson T, Alfredsson L, Suarez A, Carreira PE, Castillo-Palma MJ, Marcus JH, Congia M, Angius A, Melis M, Gonzalez A, Alarcón Riquelme ME, da Silva BM, Marchini M, Danieli MG, Del Giacco S, Mathieu A, Pani A, Montgomery SB, Rosati G, Hillert J, Sawcer S, D'Alfonso S, Todd JA, Novembre J, Abecasis GR, Whalen MB, Marrosu MG, Meloni A, Sanna S, Gorospe M, Schlessinger D, Fiorillo E, Zoledziewska M, Cucca F.
@@ -114,10 +101,10 @@
       issuepage: 376(17)\:1615-1626
 
 - title: A longitudinal cline characterizes the genetic structure of human populations in the Tibetan plateau
-  authors: Jeong C, Peter BM, Basnyat B, Neupane M, Beall CM, Childs G, Craig SR, Novembre J, Di Rienzo A
+  authors: Jeong C, Peter BM, Basnyat B, Neupane M, Beall CM, Childs G, Craig SR, Novembre J, Di Rienzo A  
   date: 2017
   link:
-    url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175885
+    url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175885 
     journal: PLoS One
     issuepage: 12(4):e0175885
 

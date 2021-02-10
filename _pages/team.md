@@ -26,15 +26,16 @@ permalink: /team/
 {% endfor %}
 
 
-# Alumni 
- After ten years now as a lab, we have an even spread of alumni that have gone into academics and industry. Thus far, geographically our alumni can be found in the United States, Mexico, Switzerland, and Germany.  While we work in a university setting and train ourselves in the practice of research and teaching, this prepares our alumni for a broad set of careers. 
-
+# Alumni
+ After more than ten years now as a lab, we have an even spread of alumni that have gone into academics and industry. Thus far, geographically our alumni can be found in the United States, Mexico, Canada, Switzerland, and Germany.  While we work in a university setting and train ourselves in the practice of research and teaching, this prepares our alumni for a broad set of careers. 
+ - [Dan Rice](https://dp-rice.github.io/): Chicago Fellow, 2017-2020.  NCBI
+ - [Arjun Biddanda](https://aabiddanda.github.io/) : PhD in Human Genetics, 2020.  Postdoctoral fellow Pier Palamara (Oxford).
 - [Joe Marcus](https://www.linkedin.com/in/joseph-marcus-661bb3ab/): PhD student in Human Genetics, 2020.  Bioinformatic Scientists at Grail, Inc.
-- [Harald Ringbauer](https://reich.hms.harvard.edu/people/harald-ringbauer): Postdoctoral fellow, 2018-2019.  Postdoctoral fellow, Reich Lab. 
+- [Harald Ringbauer](https://reich.hms.harvard.edu/people/harald-ringbauer): Postdoctoral fellow, 2018-2019.  Postdoctoral fellow, Reich Lab.
 - [Hussein Al-asadi](https://www.linkedin.com/in/hussein-al-asadi-82b5b71b): PhD student in Committee of Evolutionary Biology, Masters in Statistcs, 2018.  Data scientist at Adaptive biotech.  
 - [Evan Koch](https://emkoch.github.io): PhD student in Ecology & Evolution, 2013-2018.  Academic postdoctoral position at Harvard.
-- [Joel Smith](https://www.linkedin.com/in/joel-smith-36a32a149): PhD student in Ecology & Evolution, 2018.  Scientist at Zymeworks. 
-- [Ben Peter](http://www.eva.mpg.de/genetics/staff/benjamin-peter/index.html): Postdoctoral Fellow, 2014-2017.  Group leader at Max Planck Institute. 
+- [Joel Smith](https://www.linkedin.com/in/joel-smith-36a32a149): PhD student in Ecology & Evolution, 2018.  Scientist at Zymeworks.
+- [Ben Peter](http://www.eva.mpg.de/genetics/staff/benjamin-peter/index.html): Postdoctoral Fellow, 2014-2017.  Group leader at Max Planck Institute.
 - [Mark Reppell](https://www.linkedin.com/in/mark-reppell-9870a981): Postdoctoral Fellow, 2014-2017.  Senior scientist at Abbvie Genomics.
 - [Diego Ortega Del Vecchyo](http://diegoortega.bol.ucla.edu/): PhD student in Bioinformatics, 2016.  Starting a group leader position, Institute for Human Genomics in Mexico.  
 - [Charleston Chiang](https://chianglab.usc.edu): Postdoctoral Fellow, 2011-2015. Tenure-track faculty at USC.  
@@ -44,5 +45,5 @@ permalink: /team/
 - [Adam Freedman](https://www.linkedin.com/pub/adam-freedman/17/811/b92): NSF Bioinformatics Postdoctoral Fellow, 2009-2012.  Data scientist at Harvard.
 - [Colin Rundel](https://stat.duke.edu/~cr173/): PhD student in Statistics, Joint advised with Jan de Leeuw, 2012. 'Professor of the practice' at Duke.
 - [Daniel Wegmann](http://www.unifr.ch/biochem/index.php?id=789): Postdoctoral fellow, 2009-2011. Tenure-track faculty at University of Fribourg.
-- [David Alexander](http://dalexander.github.io/): PhD student in Biomathematics and Collaborator advised by Ken Lange.  2011.  Bioinformatics at Google. 
+- [David Alexander](http://dalexander.github.io/): PhD student in Biomathematics and Collaborator advised by Ken Lange.  2011.  Bioinformatics at Google.
 - [Krishna Veeramah](http://life.bio.sunysb.edu/ee/veeramahlab/): Center for Society and Genetics Postdoctoral fellow, 2008-2010.  Tenure-track faculty at Stony Brook University.  
