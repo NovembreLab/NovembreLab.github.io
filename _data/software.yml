@@ -6,22 +6,22 @@
 - name: hapROH
   url: https://pypi.org/project/hapROH/
   photo: hapROH.png
-  desc: Identify runs of homozygosity (ROH) in low coverage ancient human DNA data using modern haplotype reference panels.
+  desc: Identify runs of homozygosity (ROH) in low coverage ancient human DNA data using modern haplotype reference panels, developed by former postdoc Harald Ringbauer.
 
 - name: geovar
   url: https://github.com/aabiddanda/geovar
   photo: geovar.png
-  desc: A package to visualize joint allele frequency spectra from population genetic samples.
+  desc: A package to visualize joint allele frequency spectra from population genetic samples, developed by former PhD student Arjun Biddanda.
 
 - name: MAPS
   url: https://github.com/halasadi/MAPS
   photo: maps.jpg
-  desc: A method for estimating dispersal rates and population densities based on the number of shared long Pairwise Coalescent Segments (lPSC, aka "IBD tracts").
+  desc: A method for estimating dispersal rates and population densities based on the number of shared long Pairwise Coalescent Segments (lPSC, aka "IBD tracts"), developed by former PhD student Hussein Al-asadi.
 
 - name: EEMS
   url: https://github.com/dipetkov/eems
   photo: eems.png
-  desc: A method for visualizing population structure in spatial data using "effective migration" surfaces
+  desc: A method for visualizing population structure in spatial data using "effective migration" surfaces, developed by Desi Petkova
 
 - name: Geography of Genetic Variants Browser
   url: http://popgen.uchicago.edu/ggv/
@@ -31,7 +31,7 @@
 - name: RGGV
   url: https://github.com/NovembreLab/RGGV
   photo: RGGV.png
-  desc: An R package that for plotting of allele frequencies on geographic maps
+  desc: An R package that for plotting of allele frequencies on geographic maps, developed by David Witonsky.
 
 - name: PCAviz
   url: https://github.com/NovembreLab/PCAviz
