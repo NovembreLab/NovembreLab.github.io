@@ -25,11 +25,12 @@ permalink: /team/
 {% endfor %}
 
 # Alumni
- After more than ten years now as a lab, we have an even spread of alumni that have gone into academics and industry. Thus far, geographically our alumni can be found in the United States, Mexico, Canada, Switzerland, and Germany.  While we work in a university setting and train ourselves in the practice of research and teaching, this prepares our alumni for a broad set of careers. 
+ After more than ten years now as a lab, we have an even spread of alumni that have gone into academics and industry. Thus far, geographically our alumni can be found in the United States, Mexico, Canada, Switzerland, and Germany.  While we work in a university setting and train ourselves in the practice of research and teaching, this prepares our alumni for a broad set of careers.
 - [Arjun Biddanda](https://aabiddanda.github.io/) : PhD in Human Genetics, 2020.  Postdoctoral fellow in Pier Palamara Group (Oxford).
 - [Dan Rice](https://dp-rice.github.io/): Chicago Fellow, 2017-2020. Data Scientist Outreach Coordinator at NCBI.  
 - [Joe Marcus](https://www.linkedin.com/in/joseph-marcus-661bb3ab/): PhD in Human Genetics, 2020.  Bioinformatic Scientists at Grail, Inc.
 - [Harald Ringbauer](https://reich.hms.harvard.edu/people/harald-ringbauer): Postdoctoral fellow, 2018-2019.  Group leader at Max Planck Institute for Evolutionary Anthropology.
+- [Christian Porras](https://www.linkedin.com/in/cporras) : Undergraduate researcher.  Now an MD/PhD student at the Icahn School of Medicine at Mount Sinai.
 - [Hussein Al-asadi](https://www.linkedin.com/in/hussein-al-asadi-82b5b71b): PhD student in Committee of Evolutionary Biology, Masters in Statistcs, 2018.  Data scientist at Adaptive biotech.  
 - [Evan Koch](https://emkoch.github.io): PhD student in Ecology & Evolution, 2018.  Postdoctoral position at Harvard.
 - [Joel Smith](https://www.linkedin.com/in/joel-smith-36a32a149): PhD student in Ecology & Evolution, 2018.  Scientist at Zymeworks.
