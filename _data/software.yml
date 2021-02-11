@@ -11,7 +11,7 @@
 
 - name: Geography of Genetic Variants Browser
   url: http://popgen.uchicago.edu/ggv/
-  photo:  ggv.jpg
+  photo: ggv.jpg
   desc: A web-based tool for visualizing the geographic distribution of variants in several published datasets.
 
 - name: RGGV
@@ -59,9 +59,9 @@
   photo: isoscat.png
   desc: An R-package for spatial assignment using genetic and isotopic data, developed by former PhD student Colin Rundel, and based in part on the SCAT software from Matthew Stephens.
 
-- name: raddle: Rare Allele Distance of DispersaL Estimation
+- name: raddle, Rare Allele Distance of DispersaL Estimation
   url: https://github.com/NovembreLab/raddle
-  photo:
+  photo: raddle.png
   desc: The Raddle software for Rare-Allele-based Distance of Dispersal Estimation, based on Novembre & Slatkin (2009)
 
 - name: MDBlocks
