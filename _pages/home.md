@@ -16,9 +16,9 @@ permalink: /
 
 
 
-Our research group uses computational tools to study genetic diversity in natural populations.  Our goal is to develop widely used statistical methods for intelligently extracting information from large-scale genomic data with the aim to improve understanding of: (1) basic genomic biology, (2) the biology of heritable disease traits, (3) the genetic basis of evolutionary processes, and (4) the history and evolution of various species, especially humans.
+Our research group develops and applies computational tools to study genetic diversity in natural populations.  Our goal is to analyze and interpret large-scale genomic data to improve the understanding of: (1) basic genomic biology, (2) the biology of heritable disease traits, (3) the genetic basis of evolutionary processes, and (4) the history and evolution of various species, especially humans.
 
-From a disciplinary perspective, most of the ideas we use are from theoretical population genetics, statistical genetics, and computational statistics.  Much of our work is invigorated by addressing data from emerging genotyping and sequencing technologies applied to large or particularly interesting population samples.
+From a disciplinary perspective, most of the ideas we use are from theoretical population genetics, statistical genetics, and computational statistics.  We enjoy analyzing data from emerging genotyping/sequencing technologies especially from large or particularly interesting population samples.
 
 
 ## Research
@@ -36,6 +36,8 @@ Our core projects address the following broad problems:
 
   * The impact of recent demographic processes, particularly rapid recent growth
 
+  * Variation in the intensity of mutation and negative selection across the genomic landscape
+
 
 ### Human Population Genetics
 
@@ -46,7 +48,6 @@ Much of our work focuses on human genetic data, motivated in equal parts by an i
  * Patterns of population structure in human populations especially within world regions and finer spatial-scales
 
  * The impact of recent demographic processes, particularly rapid recent growth, on human genetics
-
 
  * The interaction of selection and demographic history in human evolutionary history
 
@@ -63,7 +64,7 @@ Much of our work focuses on human genetic data, motivated in equal parts by an i
 
 
 
-With the help of great collaborators, we have worked on several additional questions in evolutionary genetics and molecular evolution:
+With the help of great collaborators, we have worked on several additional questions in evolutionary genetics and molecular evolution.  Some past examples include:
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/wolf_print.jpg){:class="img-responsive" style="width: 200px; float: right; border: 10px"}
 
