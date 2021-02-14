@@ -30,7 +30,7 @@
   link:
     url: https://elifesciences.org/articles/60107
     journal: eLife
-    issuepage: 9:e60107
+    issuepage: 9\:e60107
     software: https://github.com/aabiddanda/geovar
 
 - title: Genetic history from the Middle Neolithic to present on the Mediterranean island of Sardinia
@@ -39,15 +39,15 @@
   link:
     url:  https://www.nature.com/articles/s41467-020-14523-6
     journal: Nature Communications
-    issuepage: 11:939
+    issuepage: 11\:939
 
 - title: Exploring Population Structure with Admixture Models and Principal Component Analysis
   authors: Liu CC, Shringarpure S, Lange K, Novembre J.
-    date: 2020
-      link:
-        url: https://link.springer.com/protocol/10.1007%2F978-1-0716-0199-0_4
-          journal: Statistical Population Genomics, Springer Press
-          issuepage: pp 67-86
+  date: 2020
+  link:
+      url: https://link.springer.com/protocol/10.1007\%2F978-1-0716-0199-0_4
+      journal: Statistical Population Genomics, Springer Press
+      issuepage: pp 67-86
 
 - title: Genetic landscapes reveal how human genetic diversity aligns with geography
   authors: Peter BM, Petkova D, Novembre J
