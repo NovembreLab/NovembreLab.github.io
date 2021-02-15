@@ -14,10 +14,28 @@ permalink: /links/
 
 # Links
 
-Here are some useful links to resources that are interesting...
+### Learning Population Genetics
 
-### Resources regarding Genetic Information Non-Discrimination and Privacy Protections
-Here is a set of links for gaining more background on the topic of genetic non-discrimination and privacy.  This list is focused on the recent history in the United States, and in particular focuses on understanding the 2008 Genetic Information Non-Discrimination Act and state-level laws that have been proposed or passed since GINA.  This is very much a work-in-progress.  Recommendations are very welcome, and please email John (jnovembre at uchicago dot edu) with your suggestions.
+- PopGen Notes by Graham Coop [[link]](https://github.com/cooplab/popgen-notes])
+- Lecture Notes on Computational and Mathematical Population Genetics by Yun Song [[link]]([https://github.com/popgenmethods/lecture_notes])
+- Links on Quantitative Genetics learning resources from Bruce Walsh [[link]](http://nitro.biosci.arizona.edu/zbook/book.html)
+- Mathematical modeling in ecology and evolution by Sally Otto and Troy Day  [[link]](https://www.amazon.com/Biologists-Mathematical-Modeling-Ecology-Evolution/dp/0691123446)
+- Shiny-based tools for learning pop gen by Silas Tittes [[link]](https://github.com/silastittes/shiny_popgen)
+- learnPopGen web interfaces by Liam Revell [[link]](http://www.phytools.org/PopGen/)
+
+
+### Learning Stochastic Processes and Statistical Inference
+- "fiveMinuteStats" page by Matthew Stephens (and other contributors) [[link]](http://stephens999.github.io/fiveMinuteStats/)
+- "Quantifying Life" by Dmitry Kondrashov [[link]](https://www.amazon.com/Quantifying-Life-Symbiosis-Computation-Mathematics-ebook/dp/B01I6NU8G8)
+- Rachel Fewster's Stochastic Process courese notes [[link]](https://www.stat.auckland.ac.nz/~fewster/325/notes/325book.pdf)
+- Intro to Stochastic Processes course notes by Gordan Zitkovic [[link]](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf)
+- "Statistical Thinking from Scratch: A Primer for Scientists" by Doc Edge [[link]](https://www.amazon.com/dp/0198827636/ref=rdr_ext_tmb)
+- "Pattern Recognition and Machine Learning" by Christopher Bishop [[link]](https://www.amazon.com/gp/product/0387310738/ref=dbs_a_def_rwt_bibl_vppi_i0)
+- "Probabilistic Graphical Models" by Daphne Koller [[link]](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193/ref=sr_1_1?dchild=1&keywords=Daphne+koller&qid=1613340592&s=books&sr=1-1)
+
+
+### Genetic Information Non-Discrimination and Privacy Protections
+Here is a set of links for gaining more background on the topic of genetic non-discrimination and privacy collected by John in the period of 2018-2019.  This list is focused on the recent history in the United States, and in particular focuses on understanding the 2008 Genetic Information Non-Discrimination Act and state-level laws that have been proposed or passed since GINA.  Recommended updates are very welcome, and please email John (jnovembre at uchicago dot edu) with your suggestions.
 
 - General reference:
 	- Council for Responsible Genetics’s Project page
