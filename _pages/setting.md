@@ -39,11 +39,12 @@ Some favorite cultural spots and resources:
 - [Architectural walks](https://www.architecture.org/learn/resources/buildings-of-chicago/)
 
 Some favorite parks and recreational outlets in close reach of the city:
-- [The Chicago Riverwalk](https://www.chicagoriverwalk.us)
+- [The Chicago Riverwalk](https://www.architecture.org/learn/resources/buildings-of-chicago/building/chicago-riverwalk/)
 - [Maggie Daley Ice Skating Ribbon](https://maggiedaleypark.com/things-to-do-see/skating-ribbon/)
 - [Jackson Park](https://www.architecture.org/learn/resources/buildings-of-chicago/building/jackson-park/)
 - [Lincoln Park](https://www.architecture.org/learn/resources/buildings-of-chicago/building/lincoln-park/)
-- [Sailing out of Burnham Harbor and walking around Northerly Island](https://www.chicagoharbors.info/harbors/burnham/)
+- [Millenium Park](https://www.architecture.org/learn/resources/buildings-of-chicago/building/millennium-park/)
+- [Sailing out of Burnham Harbor and walking around Northerly Island](https://www.architecture.org/learn/resources/buildings-of-chicago/building/northerly-island/)
 - [Garfield Park Observatory](https://garfieldconservatory.org)
 - [Montrose Point and The Magic Hedge](https://www.lakecookaudubon.org/birding-sites/montrose-point-bird-sanctuary/)
 - [Chicago Botanic Garden](https://www.chicagobotanic.org)
