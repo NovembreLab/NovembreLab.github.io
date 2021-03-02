@@ -22,7 +22,7 @@ Our trainees also benefit from several unique resources and groups such as: [GRI
 
 # Chicago and its surroundings
 
-Working and studying in Chicago provides the opportunity to enjoy the abundance of culture and cuisine of a large city and an unexpectedly interesting natural history.  The city sits on the shores of Lake Michigan with nearly continuous public access along its shores including numerous parks, beaches, and marinas.
+Working and studying in Chicago provides the opportunity to enjoy the abundance of culture and cuisine of a large city. At the same time, the city sits on the shores of Lake Michigan with nearly continuous public access along its shores including numerous parks, beaches, and marinas.  
 
 Some favorite cultural spots and resources:
 - [Secret Chicago](https://secretchicago.com)
@@ -52,7 +52,7 @@ Some favorite parks and recreational outlets in close reach of the city:
 - [Brooklyn Boulders](https://brooklynboulders.com/west-loop)
 - [Palos Bike trails](https://fpdcc.com/downloads/maps/trails/english/FPCC-Palos-Trail-Map-022020.pdf)
 
-The city sits at the boundary of two major watersheds and was important once a canoe portage point between waters that flow to the Atlantic through the St Lawrence seaway and those that flow through the Mississippi.  Ecologically, the region is a borderland, with marsh, coastal dune, northern hardwood, tall grass prairie, and savannah biomes all represented.  Southern Lake Michigan is also a major flyway for migratory birds, and spring and fall migrations are easy to appreciate in the local parks.  Aldo Leopold's classic of nature writing, A Sand County Almanac, was written 3 hours drive north of the city.  Here are some destinations we enjoy outside the city:
+The city sits at the boundary of two major watersheds and was important as a canoe portage point between waters that flow to the Atlantic through the St Lawrence seaway versus those that flow through the Mississippi.  As such it was a major region of trade and served as the traditional lands for the Ojibwe, Odawa, and Potawatomi Nations.  Ecologically, the region is a borderland, with marsh, coastal dune, northern hardwood, tall grass prairie, and savannah biomes all represented.  Southern Lake Michigan is also a major flyway for migratory birds, and spring and fall migrations are easy to appreciate in the local parks.  Aldo Leopold's classic of nature writing, A Sand County Almanac, was written 3 hours drive north of the city.  Here are some destinations we enjoy outside the city:
 
 - [Starved Rock State Park](https://www.starvedrocklodge.com/starved-rock-state-park/)
 - [The Des Plaines River Trail](https://fpdcc.com/downloads/maps/trails/english/FPCC-Des-Plaines-Trail-Map-10-15.pdf)
