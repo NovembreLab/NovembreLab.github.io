@@ -46,3 +46,20 @@ permalink: /team/
 - [Daniel Wegmann](http://www.unifr.ch/biochem/index.php?id=789): Postdoctoral fellow, 2009-2011. Professor in Computational Biology, University of Fribourg.
 - [David Alexander](http://dalexander.github.io/): PhD student in Biomathematics and Collaborator advised by Ken Lange.  2011.  Bioinformatics at Google.
 - [Krishna Veeramah](http://life.bio.sunysb.edu/ee/veeramahlab/): Center for Society and Genetics Postdoctoral fellow, 2008-2010.  Associate Professor, Department of Ecology & Evolution, Stony Brook University.  
+
+# Photo Gallery
+
+A small sampling from over the ages...
+{% assign number_printed = 0 %}
+{% for member in site.data.teamgalleryphotos %}
+
+<div class="row">
+
+<div class="col-sm-11 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="60%" style="float: left" />
+  <p>{{member.caption}}</p>
+</div>
+
+</div>
+
+{% endfor %}

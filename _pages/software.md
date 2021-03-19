@@ -1,10 +1,12 @@
 ---
 title: "Novembre Lab - Software"
-layout: textlay
+layout: gridlay
 excerpt: "Novembre Lab at UChicago"
 sitemap: false
 permalink: /software.html
 ---
+
+
 
 ## Software
 
@@ -24,7 +26,7 @@ Many of our projects are available via the [Novembre Lab Github Page](https://gi
 
 ## Data Resources
 
-[Resources related to Novembre et al 2008](https://github.com/jnovembre/Novembre_etal_2008_misc):  Several files that aid in recreating the main figure from our paper:“Genes Mirror Geography in Europe” (Nature 956:98-101). Also the Geography of Genetic Variants Browser plots allele frequencies for the European subset of the data.
+[Resources related to Novembre et al 2008](https://github.com/jnovembre/Novembre_etal_2008_misc):  Several files that aid in recreating the main figure from our paper:“Genes Mirror Geography in Europe” (Nature 956:98-101).
 
 [African-American/African-Caribbean recombination maps](https://jnpopgen.org/software/software/AfricanAmerican_AfricanCaribbean_recombination_maps.zip): Recombination maps inferred from a sample of 2565 African Americans and 299 African Caribbeans.  From our paper: Wegmann et al (2011) Nature Genetics 43:847-53.
 
