@@ -3,22 +3,21 @@
   info: Professor
   blurb: "I got my start in this field through a combination of enjoying computer programming as a hobby and thinking about evolution as one of the world's most fascinating natural processes.  Now, my main research tackles statistical and theoretical problems to help enable discoveries about evolutionary processes and the nature of disease variation. Much of that work is in the context of human genetic variation, which is doubly fascinating because of the connections to fields like linguistics, archaeology, and history.  For my training, I earned my undergrad degree in biochemistry at the Colorado College, studied for my PhD in Integrative Biology (with a designated emphasis in Computational Biology & Genomics) at UC-Berkeley under Montgomery Slatkin, and did a  postdoc in Human Genetics at Chicago with Matthew Stephens.  My first faculty position was in the Ecology and Evolutionary Biology Department at UCLA and then I returned to the University of Chicago in 2013.  Outside of my work I enjoy travel, music, and a variety of different outdoor sports."
 
-
-- name: Mashaal Sohail
-  photo: mashaal_sohail.jpg
-  info: Postdoctoral Fellow
-  blurb: "[Mashaal](https://scholar.google.com/citations?user=zvVquTQAAAAJ&hl=en) is a postdoctoral fellow in the [Chicago Fellows Program](https://biologicalsciences.uchicago.edu/research/chicago-fellows). She is currently jointly advised by John Novembre and [Andres Moreno-Estrada](http://www.morenolab.org/) for her post-doctoral work. She is the lead population genetics analyst of the [Mexican Biobank Project](https://mxbiobankproject.org/), and is focused on the genetic architecture and evolution of complex traits, and fine-scale human population structure during her post-doc. Previously, she was in graduate school at Harvard University where she completed a PhD in Systems Biology working with Shamil Sunyaev, and a Masters of Arts in History of Science. Her projects during graduate school focused on natural selection covering topics in allelic age, balancing selection, purifying selection and polygenic adaptation, as well as the history and epistemology of these concepts. She is deeply interested in the intersection of genetics, anthropology and history, and evolutionary thought as it applies to how we view the world and ourselves."
-
 - name: Xinyi Li
   photo: xinyi.jpg
   info: PhD Student in the Genetics, Genomics and Systems Biology Program
   blurb: "Xinyi is interested in studying natural selection and the evolution of complex traits to increase our understanding on disease mechanism, especially immune traits. Prior to joining the lab, Xinyi worked on statistical method development for estimating disease heritability in admixed populations."
 
-- name: Chi-Chun Liu
-  photo: chichun.jpg
-  info: MS Student in the Human Genetics program
-  blurb: "His interests are in statistical methodology for analyzing genetic data, especially with regards to population structure.  Most recently he has worked on analyses of ancient DNA from Tibetan populations, a book chapter on methods for analyzing population structure in genetic data, and a project on infering thg strength of negative selection in the presence of linked selection. Chi-Chun has a master's in statistics from the University of Chicago, and earlier training in financial mathematics."
-
+- name: Maggie Steiner
+  photo: msteiner.jpg
+  info: PhD Student in the Human Genetics Program
+  blurb: "Maggie is interested in studying spatial processes in evolution and impacts on human disease traits. Her current research focuses on the impact of geographic sampling and dispersal on rare variant ascertainment and models for the spatial spread of adaptive alleles. Prior to joining the lab, she graduated from George Washington University with a BS in Mathematics and studied evolutionary genomics in retroviruses."
+  
+- name: Hannah Moots
+  photo: hmoots.jpg
+  info: Neubauer Postdoctoral fellow joint with Maanasa Raghavan, David Schloen, and James Osborn 
+  blurb: "" 
+  
 - name: Heather Skeen
   photo: hskeen-photo.png
   info: PhD Student in the Committee on Evolutionary Biology program
