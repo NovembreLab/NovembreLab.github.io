@@ -1,9 +1,9 @@
-- name: feems (fast-EEMS)  (Un-published, under review)
+- name: feems (fast-EEMS)  
   url: https://github.com/jhmarcus/feems
   photo: feems.png
   desc: A statistical method for inferring and visualizing gene-flow in spatial population genetic data, developed by PhD student Joe Marcus
 
-- name: hapROH (Un-published, under review)
+- name: hapROH 
   url: https://pypi.org/project/hapROH/
   photo: hapROH.png
   desc: Identify runs of homozygosity (ROH) in low coverage ancient human DNA data using modern haplotype reference panels, developed by former postdoc Harald Ringbauer.
