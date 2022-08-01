@@ -26,9 +26,11 @@ permalink: /team/
 
 # Alumni
  After more than ten years now as a lab, we have an even spread of alumni that have gone into academics and industry. Thus far, geographically our alumni can be found in the United States, Mexico, Canada, Switzerland, and Germany.  While we work in a university setting and train ourselves in the practice of research and teaching, this prepares our alumni for a broad set of careers.
-- [Arjun Biddanda](https://aabiddanda.github.io/) : PhD in Human Genetics, 2020.  Postdoctoral fellow in Pier Palamara Group (Oxford).
+- [Mashaal Sohail](https://www.sohaillab.com): Chicago Fellow, 2019-2021.  Associate Professsor, UNAM. 
+- [Chi Chun Liu](https://www.linkedin.com/in/chi-chun-liu/): Masters student, 2019-2020.  Machine learning engineer, Prooton, Inc.
+- [Arjun Biddanda](https://aabiddanda.github.io/) : PhD in Human Genetics, 2020.  Computational scientist, 54gene.
 - [Dan Rice](https://dp-rice.github.io/): Chicago Fellow, 2017-2020. Data Scientist Outreach Coordinator at NCBI.  
-- [Joe Marcus](https://www.linkedin.com/in/joseph-marcus-661bb3ab/): PhD in Human Genetics, 2020.  Bioinformatic Scientists at Grail, Inc.
+- [Joe Marcus](https://www.linkedin.com/in/joseph-marcus-661bb3ab/): PhD in Human Genetics, 2020.  Bioinformatic Scientist at Grail, Inc.
 - [Harald Ringbauer](https://reich.hms.harvard.edu/people/harald-ringbauer): Postdoctoral fellow, 2018-2019.  Group leader at Max Planck Institute for Evolutionary Anthropology.
 - [Christian Porras](https://www.linkedin.com/in/cporras) : Undergraduate researcher.  Now an MD/PhD student at the Icahn School of Medicine at Mount Sinai.
 - [Hussein Al-asadi](https://www.linkedin.com/in/hussein-al-asadi-82b5b71b): PhD student in Committee of Evolutionary Biology, Masters in Statistcs, 2018.  Data scientist at Adaptive biotech.  
