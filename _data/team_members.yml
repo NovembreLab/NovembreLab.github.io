@@ -8,6 +8,11 @@
   info: PhD Student in the Genetics, Genomics and Systems Biology Program
   blurb: "Xinyi is interested in studying natural selection and the evolution of complex traits to increase our understanding on disease mechanism, especially immune traits. Prior to joining the lab, Xinyi worked on statistical method development for estimating disease heritability in admixed populations."
 
+- name: Ahmed Selim
+  photo: aselim.jpg
+  info: PhD Student in the Biophysics Program
+  blurb: "Ahmed is broadly interested in utilizing methods from physics and probabilistic modeling to understand evolving populations, especially scale-dependent processes.  Prior to joining the lab, he worked on the ecology and evolution of microbial metabolic networks."
+  
 - name: Maggie Steiner
   photo: msteiner.jpg
   info: PhD Student in the Human Genetics Program
@@ -16,9 +21,16 @@
 - name: Hannah Moots
   photo: hmoots.jpg
   info: Neubauer Postdoctoral fellow joint with Maanasa Raghavan, David Schloen, and James Osborn 
-  blurb: "" 
+  blurb: "Hannah's PhD training was in archaeolgoy and genetics, specializing in questions of connectivity in the Mediterraenan.  For her postdoctoral fellowship, she is leading interdiscplinary projects with continued emphasis on themes of temporal changes in connectivity."
   
-- name: Heather Skeen
-  photo: hskeen-photo.png
-  info: PhD Student in the Committee on Evolutionary Biology program
-  blurb: "Heather's research focuses on understanding variation in the microbiomes of migratory birds across the annual cycle and how prevalence of avian malaria changes over time. She is a research affiliate with the Field Museum of Natural History."
+- name: Hao Shen
+  photo: hshen.jpg
+  info: Postdoctoral fellow
+  blurb: "Hao's expertise is in theoretical population genetics and statistical genetics.  His PhD work included an analysis of causal inference in the presence of direct and indirect genetics effects.  For his postdoctoral research, he will be investigating models of time-varying migration rate in spatial population genetics."
+  
+- name: Luke Anderson-Tromce
+  photo: landersontromce.jpb
+  info: Postdoctoral fellow (arriving Jan 2023)
+  blurb: ""
+  
+  
