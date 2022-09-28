@@ -7,12 +7,13 @@
     software: https://github.com/jhmarcus/feems
 
 
-- title: Detecting runs of homozygosity from low-coverage ancient DNA
-  authors: Ringbauer H, Steinrücken, Novembre J
+- title: Parental relatedness through time revealed by runs of homozygosity in ancient DNA
+  authors: Ringbauer H, Novembre J, Steinrücken M
   date: 2022
   link:
-    url: https://doi.org/10.1101/2020.05.31.126912
-    journal: bioRxiv
+    url: https://www.nature.com/articles/s41467-021-25289-w
+    journal: Nature Communications
+    issuepage: 12\:1-11
     software: https://pypi.org/project/hapROH/
 
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
