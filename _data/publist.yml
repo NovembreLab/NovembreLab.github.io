@@ -3,7 +3,7 @@
   date: 2022
   link:
     url: https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1
-    journal: bioRxiv
+    journal: eLife 10:e61927
     software: https://github.com/jhmarcus/feems
 
 
@@ -18,7 +18,7 @@
 
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
   authors: Rice DP, Novembre J, Desai MM
-  date: 2022
+  date: 2023
   link:
     url: https://doi.org/10.1101/461517
     journal: bioRxiv
