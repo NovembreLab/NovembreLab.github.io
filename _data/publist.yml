@@ -1,4 +1,5 @@
 
+
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
   authors: Rice DP, Novembre J, Desai MM
   date: 2023
@@ -6,16 +7,41 @@
     url: https://doi.org/10.1101/461517
     journal: bioRxiv
 
-# 2021 publications will go here ...
+- title: Population genetic models for the spatial spread of adaptive variants: A review in light of SARS-CoV-2 evolution.
+  authors: Steiner MC, Novembre J.
+  date: 2022
+  link:
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010391
+    journal: PLoS Genet 18(9)\:e1010391
+     
+- title: Properties of 2-locus genealogies and linkage disequilibrium in temporally structured samples.
+  authors: Biddanda A, Steinrücken M, Novembre J.
+  date: 2022 
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9245597/
+    journal: Genetics 5;221(1)\:iyac038
+
+- title: Haplotype-based inference of the distribution of fitness effects.
+  authors: Ortega-Del Vecchyo D, Lohmueller KE, Novembre J.
+  date: 2022
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8982047/
+    journal: Genetics 220(4)\:iyac002
+
+- title: The background and legacy of Lewontin's apportionment of human genetic diversity.
+  authors: Novembre J.
+  date: 2022
+  link:
+    url:  https://doi.org/10.1098/rstb.2020.0406
+    journal: Philos Trans R Soc Lond B Biol Sci. 377\:20200406
 
 - title: Fast and Flexible Estimation of Effective Migration Surfaces
   authors: Marcus JH, Ha W, Barber RF, Novembre J
   date: 2021
   link:
     url: https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1
-    journal: eLife 10:e61927
+    journal: eLife 10\:e61927
     software: https://github.com/jhmarcus/feems
-
 
 - title: Parental relatedness through time revealed by runs of homozygosity in ancient DNA
   authors: Ringbauer H, Novembre J, Steinrücken M
