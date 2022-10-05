@@ -1,20 +1,3 @@
-- title: Fast and Flexible Estimation of Effective Migration Surfaces
-  authors: Marcus JH, Ha W, Barber RF, Novembre J
-  date: 2022
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1
-    journal: eLife 10:e61927
-    software: https://github.com/jhmarcus/feems
-
-
-- title: Parental relatedness through time revealed by runs of homozygosity in ancient DNA
-  authors: Ringbauer H, Novembre J, Steinrücken M
-  date: 2022
-  link:
-    url: https://www.nature.com/articles/s41467-021-25289-w
-    journal: Nature Communications
-    issuepage: 12\:1-11
-    software: https://pypi.org/project/hapROH/
 
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
   authors: Rice DP, Novembre J, Desai MM
@@ -24,6 +7,24 @@
     journal: bioRxiv
 
 # 2021 publications will go here ...
+
+- title: Fast and Flexible Estimation of Effective Migration Surfaces
+  authors: Marcus JH, Ha W, Barber RF, Novembre J
+  date: 2021
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1
+    journal: eLife 10:e61927
+    software: https://github.com/jhmarcus/feems
+
+
+- title: Parental relatedness through time revealed by runs of homozygosity in ancient DNA
+  authors: Ringbauer H, Novembre J, Steinrücken M
+  date: 2021
+  link:
+    url: https://www.nature.com/articles/s41467-021-25289-w
+    journal: Nature Communications
+    issuepage: 12\:1-11
+    software: https://pypi.org/project/hapROH/
 
 - title: Geographic patterns of human allele frequency variation \:a variant-centric perspective
   authors: Biddanda A, Rice DP, Novembre J
