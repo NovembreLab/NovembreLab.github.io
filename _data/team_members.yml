@@ -11,7 +11,7 @@
 - name: Ahmed Selim
   photo: afselim.jpg
   info: PhD Student in the Biophysics Program
-  blurb: "Ahmed is broadly interested in utilizing methods from physics and probabilistic modeling to understand evolving populations, especially scale-dependent processes.  Prior to joining the lab, he worked on the ecology and evolution of microbial metabolic networks."
+  blurb: "Ahmed is broadly interested in understanding how the history of the ancestors of a population affects its observed genetic variation, and how this history can be understood from such observation. He is particulary interested in building and sharing a more realistic understanding of the relationship between individuals in a population, and between the ancestors of these individuals."
   
 - name: Maggie Steiner
   photo: msteiner.jpg
@@ -19,12 +19,12 @@
   blurb: "Maggie is interested in studying spatial processes in evolution and impacts on human disease traits.  Her current research focuses on the impact of geographic sampling and dispersal on rare variant ascertainment and models for the spatial spread of adaptive alleles. Prior to joining the lab, she graduated from George Washington University with a BS in Mathematics and studied evolutionary genomics in retroviruses."
 
 - name: Marida Ianni-Ravn
-  photo: mianniravn.jpg
+  photo: marida.jpg
   info: PhD Student in the Human Genetics Program
   blurb: "Marida is interested in studying how genetics and the environment interact to create geographic patterns of variation in complex traits - and the implications of this on GWAS. Before coming to Chicago, she earned an MSc in Bioinformatics from the University of Copenhagen, where she was exploring the genetics of dietary adaptation in the Stone Age, in the Racimo lab. (When not at her desk, Marida can be found painting portraits and learning to dance the Electric Boogaloo.)"
 
 - name: Sherif Negm
-  photo: snegm.jpg
+  photo: sherif.jpg
   info: PhD Student in the Human Genetics Program
   blurb: "Sherif is broadly interested in evolutionary and population genetics. His current research focuses on the interaction between long distance dispersal and local adaptation, as well as the evolution of quantitative traits under stabilizing selection. Prior to joining the lab, he graduated from University of Rochester with a BS computational biology and BA data science, where he studied population genetics and evolution of tandem repeats in fruit flies in larracuente lab. Outside of work, Sherif enjoys playing chess and skateboarding."
   
@@ -43,4 +43,8 @@
   info: Postdoctoral fellow (arriving Jan 2023)
   blurb: "Luke is interested in visualizing the spatial distribution of genetic variation. His PhD work included the analysis of genetic, genealogical and geographic data from Quebec."
   
-  
+- name: Vivaswat Shastry
+  photo: viv.jpg
+  info: PhD Student in the Genetics, Genomics and Systems Biology Program
+  blurb: "Vivaswat is broadly interested in developing methods for use by empirical population geneticists. In the lab, he is currently extending FEEMS to incorporate the effects of long-range admixture events. He is co-advised by Jeremy Berg. Outside of lab, he enjoys writing fiction and making people laugh."
+ 
