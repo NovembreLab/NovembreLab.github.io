@@ -1,5 +1,41 @@
 
+- authors: NASEM Committee
+  date: 2023
+  title: Use of Race, Ethnicity, and Ancestry as Population Descriptors in Genomics Research.  
+  link: 
+    url: https://www.nationalacademies.org/our-work/use-of-race-ethnicity-and-ancestry-as-population-descriptors-in-genomics-research
+    journal: National Academies of Science, Engineering, and Medicine Report
 
+- authors: Sohail M, Palma-Martínez MJ, Chong AY, Quinto-Cortés CD, Barberena-Jonas C, Medina-Muñoz S G, …, Novembre J, Garcia-Garca L & Moreno-Estrada A
+  date: 2023
+  title: Mexican Biobank advances population and medical genomics of diverse ancestries
+  link:
+    journal: Nature, 622(7984), 775-783.
+ 
+- authors: Liu CC, Witonsky D, Gosling A, Lee JH, Ringbauer H, Hagan R, Patel N, Stahl R, Novembre J, Aldenderfer M, Warriner C, Di Rienz A, Jeong C.
+  date: 2022
+  title: Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors
+  link:
+    journal: Nature Communications, 13(1), 1-14.
+    
+- authors: Muktupavela RA, Petr M, Ségurel L, Korneliussen T, Novembre J, & Racimo F
+  date: 2022
+  title: Modeling the spatiotemporal spread of beneficial alleles using ancient genomes. 
+  link: 
+    journal: Elife, 11, e73767.
+    
+- authors: Skeen HR, Willard DE, Jones AW, Winger BM, Gyllenhaal EF, Tsuru BR, Hackett SJ, and Novembre J
+  date: 2023
+  title: Intestinal microbiota of Nearctic‐Neotropical migratory birds vary more over seasons and years than between host species
+  link: 
+    journal: Molecular Ecology, 32:3290-3307.
+
+- authors: Cotter DJ, Hofgard EF, Novembre J, Szpiech ZA, & Rosenberg NA
+  date: 2023
+  title: A rarefaction approach for measuring population differences in rare and common variation
+  link:
+    journal: Genetics, 224(2), iyad070.
+       
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
   authors: Rice DP, Novembre J, Desai MM
   date: 2023
@@ -7,7 +43,7 @@
     url: https://doi.org/10.1101/461517
     journal: bioRxiv
 
-- title: "Population genetic models for the spatial spread of adaptive variants: A review in light of SARS-CoV-2 evolution"
+- title: Population genetic models for the spatial spread of adaptive variants: A review in light of SARS-CoV-2 evolution
   authors: Steiner MC, Novembre J.
   date: 2022
   link:
