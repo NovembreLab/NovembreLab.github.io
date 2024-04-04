@@ -10,30 +10,35 @@
   date: 2023
   title: Mexican Biobank advances population and medical genomics of diverse ancestries
   link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37821706/
     journal: Nature, 622(7984), 775-783.
  
 - authors: Liu CC, Witonsky D, Gosling A, Lee JH, Ringbauer H, Hagan R, Patel N, Stahl R, Novembre J, Aldenderfer M, Warriner C, Di Rienz A, Jeong C.
   date: 2022
   title: Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors
   link:
+    url: https://www.nature.com/articles/s41467-022-28827-2
     journal: Nature Communications, 13(1), 1-14.
     
 - authors: Muktupavela RA, Petr M, Ségurel L, Korneliussen T, Novembre J, & Racimo F
   date: 2022
   title: Modeling the spatiotemporal spread of beneficial alleles using ancient genomes. 
   link: 
+    url: https://elifesciences.org/articles/73767
     journal: Elife, 11, e73767.
     
 - authors: Skeen HR, Willard DE, Jones AW, Winger BM, Gyllenhaal EF, Tsuru BR, Hackett SJ, and Novembre J
   date: 2023
   title: Intestinal microbiota of Nearctic‐Neotropical migratory birds vary more over seasons and years than between host species
   link: 
+    url: https://pubmed.ncbi.nlm.nih.gov/36974685/
     journal: Molecular Ecology, 32:3290-3307.
 
 - authors: Cotter DJ, Hofgard EF, Novembre J, Szpiech ZA, & Rosenberg NA
   date: 2023
   title: A rarefaction approach for measuring population differences in rare and common variation
   link:
+    url: https://academic.oup.com/genetics/article/224/2/iyad070/7131138
     journal: Genetics, 224(2), iyad070.
        
 - title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
