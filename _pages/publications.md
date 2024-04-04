@@ -22,10 +22,22 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
 ## Preprints
 
 {% for publi in site.data.publist %}
- {% if publi.date > 2022 %}
+ {% if publi.date > 2023 %}
 
  <b>{{ publi.title }}</b> <br/>
  {{ publi.authors }}<br/> 
+ <a href="{{ publi.link.url }}">\[ {{ publi.link.journal }} {{publi.link.issuepage}} \]</a>
+
+ {% endif %}
+{% endfor %}
+
+## 2023
+
+{% for publi in site.data.publist %}
+ {% if publi.date == 2023 %}
+
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }}<br/>
  <a href="{{ publi.link.url }}">\[ {{ publi.link.journal }} {{publi.link.issuepage}} \]</a>
 
  {% endif %}

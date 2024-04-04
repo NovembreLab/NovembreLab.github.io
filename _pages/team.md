@@ -29,7 +29,7 @@ permalink: /team/
 - [Heather Skeen](https://scholar.google.com/citations?user=h58BltkAAAAJ&hl=en): PhD student in the Committee on Evolutionary Biology, 2022.  Postdoctoral fellow, Universisty of Conneticut. 
 - [Mashaal Sohail](https://www.sohaillab.com): Chicago Fellow, 2019-2021.  Associate Professsor, UNAM. 
 - [Chi Chun Liu](https://www.linkedin.com/in/chi-chun-liu/): Masters student, 2019-2020.  Machine learning engineer, Prooton, Inc.
-- [Arjun Biddanda](https://aabiddanda.github.io/) : PhD in Human Genetics, 2020.  Computational scientist, 54gene.
+- [Arjun Biddanda](https://aabiddanda.github.io/) : PhD in Human Genetics, 2020.  Postdoctoral Fellow, Johns Hopkins University.
 - [Dan Rice](https://dp-rice.github.io/): Chicago Fellow, 2017-2020. Data Scientist Outreach Coordinator at NCBI.  
 - [Joe Marcus](https://www.linkedin.com/in/joseph-marcus-661bb3ab/): PhD in Human Genetics, 2020.  Bioinformatic Scientist at Grail, Inc.
 - [Harald Ringbauer](https://reich.hms.harvard.edu/people/harald-ringbauer): Postdoctoral fellow, 2018-2019.  Group leader at Max Planck Institute for Evolutionary Anthropology.
