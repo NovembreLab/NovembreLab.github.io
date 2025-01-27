@@ -1,3 +1,9 @@
+- authors: <em>Steiner MC</em>, <em>Rice DP</em>, <em>Biddanda A</em>, <em>Ianni-Ravn MK</em>, <em>Porras C</em>, & <em>Novembre, J</em>.
+  date: 2030
+  title: Study design and the sampling of deleterious rare variants in biobank-scale datasets.
+  link: 
+    url: https://www.biorxiv.org/content/10.1101/2024.12.02.626424v1
+    journal: bioRxiv
 
 - authors: NASEM Committee
   date: 2023
@@ -6,86 +12,86 @@
     url: https://www.nationalacademies.org/our-work/use-of-race-ethnicity-and-ancestry-as-population-descriptors-in-genomics-research
     journal: National Academies of Science, Engineering, and Medicine Report
 
-- authors: Sohail M, Palma-Martínez MJ, Chong AY, Quinto-Cortés CD, Barberena-Jonas C, Medina-Muñoz S G, …, Novembre J, Garcia-Garca L & Moreno-Estrada A
+- authors: <em>Sohail M</em>, Palma-Martínez MJ, Chong AY, Quinto-Cortés CD, Barberena-Jonas C, Medina-Muñoz S G, …, <em>Novembre J</em>, Garcia-Garca L & Moreno-Estrada A.
   date: 2023
-  title: Mexican Biobank advances population and medical genomics of diverse ancestries
+  title: Mexican Biobank advances population and medical genomics of diverse ancestries.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37821706/
     journal: Nature, 622(7984), 775-783.
  
-- authors: Liu CC, Witonsky D, Gosling A, Lee JH, Ringbauer H, Hagan R, Patel N, Stahl R, Novembre J, Aldenderfer M, Warriner C, Di Rienz A, Jeong C.
+- authors: <em>Liu CC</em>, Witonsky D, Gosling A, Lee JH, <em>Ringbauer H<e/m>, Hagan R, Patel N, Stahl R, <em>Novembre J</em>, Aldenderfer M, Warriner C, Di Rienz A, Jeong C.
   date: 2022
-  title: Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors
+  title: Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors.
   link:
     url: https://www.nature.com/articles/s41467-022-28827-2
     journal: Nature Communications, 13(1), 1-14.
     
-- authors: Muktupavela RA, Petr M, Ségurel L, Korneliussen T, Novembre J, & Racimo F
+- authors: Muktupavela RA, Petr M, Ségurel L, Korneliussen T, <em>Novembre J</em>, & Racimo F.
   date: 2022
   title: Modeling the spatiotemporal spread of beneficial alleles using ancient genomes. 
   link: 
     url: https://elifesciences.org/articles/73767
     journal: Elife, 11, e73767.
     
-- authors: Skeen HR, Willard DE, Jones AW, Winger BM, Gyllenhaal EF, Tsuru BR, Hackett SJ, and Novembre J
+- authors: <em>Skeen HR</em>, Willard DE, Jones AW, Winger BM, Gyllenhaal EF, Tsuru BR, Hackett SJ, and <em>Novembre J</em>.
   date: 2023
-  title: Intestinal microbiota of Nearctic‐Neotropical migratory birds vary more over seasons and years than between host species
+  title: Intestinal microbiota of Nearctic‐Neotropical migratory birds vary more over seasons and years than between host species.
   link: 
     url: https://pubmed.ncbi.nlm.nih.gov/36974685/
     journal: Molecular Ecology, 32:3290-3307.
 
-- authors: Cotter DJ, Hofgard EF, Novembre J, Szpiech ZA, & Rosenberg NA
+- authors: Cotter DJ, Hofgard EF, <em>Novembre J</em>, Szpiech ZA, & Rosenberg NA.
   date: 2023
-  title: A rarefaction approach for measuring population differences in rare and common variation
+  title: A rarefaction approach for measuring population differences in rare and common variation.
   link:
     url: https://academic.oup.com/genetics/article/224/2/iyad070/7131138
     journal: Genetics, 224(2), iyad070.
        
-- title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra
-  authors: Rice DP, Novembre J, Desai MM
+- title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra.
+  authors: <em>Rice DP</em>, <em>Novembre J</em>, Desai MM.
   date: 2030
   link:
     url: https://doi.org/10.1101/461517
     journal: bioRxiv
-
-- title: "Population genetic models for the spatial spread of adaptive variants: A review in light of SARS-CoV-2 evolution"
-  authors: Steiner MC, Novembre J.
+       
+- title: Population genetic models for the spatial spread of adaptive variants- A review in light of SARS-CoV-2 evolution.
+  authors: <em>Steiner MC</em>, <em>Novembre J</em>.
   date: 2022
   link:
     url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010391
     journal: PLoS Genet 18\:e1010391
      
-- title: Properties of 2-locus genealogies and linkage disequilibrium in temporally structured samples
-  authors: Biddanda A, Steinrücken M, Novembre J.
+- title: Properties of 2-locus genealogies and linkage disequilibrium in temporally structured samples.
+  authors: <em>Biddanda A</em>, Steinrücken M, <em>Novembre J</em>.
   date: 2022 
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9245597/
     journal: Genetics 221(1)\:iyac038
 
-- title: Haplotype-based inference of the distribution of fitness effects
-  authors: Ortega-Del Vecchyo D, Lohmueller KE, Novembre J.
+- title: Haplotype-based inference of the distribution of fitness effects.
+  authors: <em>Ortega-Del Vecchyo D</em>, Lohmueller KE, <em>Novembre J</em>.
   date: 2022
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8982047/
     journal: Genetics 220(4)\:iyac002
 
 - title: The background and legacy of Lewontin's apportionment of human genetic diversity.
-  authors: Novembre J.
+  authors: <em>Novembre J</em>.
   date: 2022
   link:
     url:  https://doi.org/10.1098/rstb.2020.0406
     journal: Philos Trans R Soc Lond B Biol Sci. 377\:20200406
 
-- title: Fast and Flexible Estimation of Effective Migration Surfaces
-  authors: Marcus JH, Ha W, Barber RF, Novembre J
+- title: Fast and Flexible Estimation of Effective Migration Surfaces.
+  authors: <em>Marcus JH<em>, Ha W, Barber RF, <em>Novembre J</em>.
   date: 2021
   link:
     url: https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1
     journal: eLife 10\:e61927
     software: https://github.com/jhmarcus/feems
 
-- title: Parental relatedness through time revealed by runs of homozygosity in ancient DNA
-  authors: Ringbauer H, Novembre J, Steinrücken M
+- title: Parental relatedness through time revealed by runs of homozygosity in ancient DNA.
+  authors: <em>Ringbauer H</em>, <em>Novembre J</em>, Steinrücken M.
   date: 2021
   link:
     url: https://www.nature.com/articles/s41467-021-25289-w
@@ -93,8 +99,8 @@
     issuepage: 12\:1-11
     software: https://pypi.org/project/hapROH/
 
-- title: Geographic patterns of human allele frequency variation \:a variant-centric perspective
-  authors: Biddanda A, Rice DP, Novembre J
+- title: Geographic patterns of human allele frequency variation \:a variant-centric perspective.
+  authors: <em>Biddanda A</em>, <em>Rice DP</em>, <em>Novembre J</em>.
   date: 2020
   link:
     url: https://elifesciences.org/articles/60107
@@ -102,80 +108,80 @@
     issuepage: 9\:e60107
     software: https://github.com/aabiddanda/geovar
 
-- title: Genetic history from the Middle Neolithic to present on the Mediterranean island of Sardinia
-  authors: Marcus JH, Posth C, Ringbauer H, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, Chiang CWK, Al-Asadi H, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, Novembre J
+- title: Genetic history from the Middle Neolithic to present on the Mediterranean island of Sardinia.
+  authors: <em>Marcus JH<\em>, Posth C, <em>Ringbauer H<\em>, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, <em>Chiang CWK<\em>, <em>Al-Asadi H<\em>, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, <em>Novembre J</em>.
   date: 2020
   link:
     url:  https://www.nature.com/articles/s41467-020-14523-6
     journal: Nature Communications
     issuepage: 11\:939
 
-- title: Exploring Population Structure with Admixture Models and Principal Component Analysis
-  authors: Liu CC, Shringarpure S, Lange K, Novembre J.
+- title: Exploring Population Structure with Admixture Models and Principal Component Analysis.
+  authors: <em>Liu CC<\em>, Shringarpure S, Lange K, <em>Novembre J</em>.
   date: 2020
   link:
       url: https://link.springer.com/protocol/10.1007\%2F978-1-0716-0199-0_4
       journal: Statistical Population Genomics, Springer Press
       issuepage: pp 67-86
 
-- title: Genetic landscapes reveal how human genetic diversity aligns with geography
-  authors: Peter BM, Petkova D, Novembre J
+- title: Genetic landscapes reveal how human genetic diversity aligns with geography.
+  authors: <em>Peter BM<\em>, Petkova D, <em>Novembre J</em>.
   date: 2020
   link:
     url: https://doi.org/10.1093/molbev/msz280
     journal: Molecular Biology and Evolution
     issuepage: 4\:943–951
 
-- title: De novo mutation rate estimation in wolves of known pedigree
-  authors: Koch E, Schweizer RM, Schweizer TM, Stahler DR, Smith DW, Wayne RK, Novembre J
+- title: De novo mutation rate estimation in wolves of known pedigree.
+  authors: <em>Koch E<\em>, Schweizer RM, Schweizer TM, Stahler DR, Smith DW, Wayne RK, <em>Novembre J</em>.
   date: 2019
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/31297530/
     journal: Molecular Biology and Evolution
     issuepage: 36(11)\:2536-2547
 
-- title: Estimating recent migration and population-size surfaces
-  authors: Al-Asadi H, Petkova D, Stephens M, Novembre J
+- title: Estimating recent migration and population-size surfaces.
+  authors: <em>Al-Asadi H<\em>, Petkova D, Stephens M, <em>Novembre J</em>.
   date: 2019
   link:
     url: https://doi.org/10.1371/journal.pgen.1007908
     journal: PloS Genetics
     issuepage: 15(1)\:e1007908
 
-- title: The effects of demography and genetics on the neutral distribution of quantitative traits
-  authors: Koch EM
+- title: The effects of demography and genetics on the neutral distribution of quantitative traits.
+  authors: <em>Koch EM.<\em>
   date: 2019
   link:
     url: https://doi.org/10.1534/genetics.118.301839
     journal: Genetics
     issuepage: 211(4)\:1371-1394
 
-- title: Genomic history of the Sardinian people
-  authors: Chiang CWK, Marcus JH, Sidore C, Biddanda A, Al-Asadi H, Zoledziewska M, Pitzalis M, Busonero F,  Maschio A, Pistis G, Steri M, Angius A, Lohmueller KE, Abecasis GR, Schlessinger D, Cucca F, Novembre J
+- title: Genomic history of the Sardinian people.
+  authors: Chiang CWK, Marcus JH, Sidore C, Biddanda A, Al-Asadi H, Zoledziewska M, Pitzalis M, Busonero F,  Maschio A, Pistis G, Steri M, Angius A, Lohmueller KE, Abecasis GR, Schlessinger D, Cucca F, <em>Novembre J</em>.
   date: 2018
   link:
     url: https://doi.org/10.1101/092148
     journal: Nature Genetics
     issuepage: 50\:1426–1434
 
-- title: Inference and visualization of DNA damage patterns using a grade of membership model
-  authors: Al-Asadi H, Dey KK, Novembre J, Stephens M
+- title: Inference and visualization of DNA damage patterns using a grade of membership model.
+  authors: Al-Asadi H, Dey KK, <em>Novembre J</em>, Stephens M.
   date: 2018
   link:
     url: https://doi.org/10.1093/bioinformatics/bty779
     journal: Bioinfomatics
     issuepage: 35(8)\:1292-1298
 
-- title: Using pseudoalignment and base quality to accurately quantify microbial community composition
-  authors: Reppell R, Novembre J
+- title: Using pseudoalignment and base quality to accurately quantify microbial community composition.
+  authors: Reppell R, <em>Novembre J</em>.
   date: 2018
   link:
     url: https://doi.org/10.1371/journal.pcbi.1006096
     journal: PloS Computational Biology
     issuepage: 14(4)\:e1006096
 
-- title: Tread Lightly Interpreting Polygenic Tests of Selection
-  authors: Novembre J, Barton N.
+- title: Tread Lightly Interpreting Polygenic Tests of Selection.
+  authors: <em>Novembre J</em>, Barton N.
   date: 2018
   link:
     url: https://doi.org/10.1534/genetics.118.300786
@@ -183,38 +189,38 @@
     issuepage: 208(4)\:1351-1355
 
 - title: Estimating Time to the Common Ancestor for a Beneficial Allele.
-  authors: Smith J, Coop G, Stephens M, Novembre J.
+  authors: Smith J, Coop G, Stephens M, <em>Novembre J</em>.
   date: 2018
   link:
     url: https://doi.org/10.1093/molbev/msy006
     journal: Molecular Biology and Evolution
     issuepage: 35(4)\:1003-1017
 
-- title: Expected patterns of local ancestry in a hybrid zone
-  authors: Smith J, Payseur B, Novembre J
+- title: Expected patterns of local ancestry in a hybrid zone.
+  authors: Smith J, Payseur B, <em>Novembre J</em>.
   date: 2018
   link:
     url: https://doi.org/10.1101/389924
     journal: bioRxiv
 
-- title: Overexpression of the Cytokine BAFF and Autoimmunity Risk
-  authors: Steri M, Orrù V, Idda ML, Pitzalis M, Pala M, Zara I, Sidore C, Faà V, Floris M, Deiana M, Asunis I, Porcu E, Mulas A, Piras MG, Lobina M, Lai S, Marongiu M, Serra V, Marongiu M, Sole G, Busonero F, Maschio A, Cusano R, Cuccuru G, Deidda F, Poddie F, Farina G, Dei M, Virdis F, Olla S, Satta MA, Pani M, Delitala A, Cocco E, Frau J, Coghe G, Lorefice L, Fenu G, Ferrigno P, Ban M, Barizzone N, Leone M, Guerini FR, Piga M, Firinu D, Kockum I, Lima Bomfim I, Olsson T, Alfredsson L, Suarez A, Carreira PE, Castillo-Palma MJ, Marcus JH, Congia M, Angius A, Melis M, Gonzalez A, Alarcón Riquelme ME, da Silva BM, Marchini M, Danieli MG, Del Giacco S, Mathieu A, Pani A, Montgomery SB, Rosati G, Hillert J, Sawcer S, D'Alfonso S, Todd JA, Novembre J, Abecasis GR, Whalen MB, Marrosu MG, Meloni A, Sanna S, Gorospe M, Schlessinger D, Fiorillo E, Zoledziewska M, Cucca F.
+- title: Overexpression of the Cytokine BAFF and Autoimmunity Risk.
+  authors: Steri M, Orrù V, Idda ML, Pitzalis M, Pala M, Zara I, Sidore C, Faà V, Floris M, Deiana M, Asunis I, Porcu E, Mulas A, Piras MG, Lobina M, Lai S, Marongiu M, Serra V, Marongiu M, Sole G, Busonero F, Maschio A, Cusano R, Cuccuru G, Deidda F, Poddie F, Farina G, Dei M, Virdis F, Olla S, Satta MA, Pani M, Delitala A, Cocco E, Frau J, Coghe G, Lorefice L, Fenu G, Ferrigno P, Ban M, Barizzone N, Leone M, Guerini FR, Piga M, Firinu D, Kockum I, Lima Bomfim I, Olsson T, Alfredsson L, Suarez A, Carreira PE, Castillo-Palma MJ, Marcus JH, Congia M, Angius A, Melis M, Gonzalez A, Alarcón Riquelme ME, da Silva BM, Marchini M, Danieli MG, Del Giacco S, Mathieu A, Pani A, Montgomery SB, Rosati G, Hillert J, Sawcer S, D'Alfonso S, Todd JA, <em>Novembre J</em>, Abecasis GR, Whalen MB, Marrosu MG, Meloni A, Sanna S, Gorospe M, Schlessinger D, Fiorillo E, Zoledziewska M, Cucca F.
   date: 2017
   link:
       url: http://www.nejm.org/doi/full/10.1056/NEJMoa1610528
       journal: New England Journal of Medicine
       issuepage: 376(17)\:1615-1626
 
-- title: A longitudinal cline characterizes the genetic structure of human populations in the Tibetan plateau
-  authors: Jeong C, Peter BM, Basnyat B, Neupane M, Beall CM, Childs G, Craig SR, Novembre J, Di Rienzo A
+- title: A longitudinal cline characterizes the genetic structure of human populations in the Tibetan plateau.
+  authors: Jeong C, Peter BM, Basnyat B, Neupane M, Beall CM, Childs G, Craig SR, <em>Novembre J</em>, Di Rienzo A.
   date: 2017
   link:
     url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175885
     journal: PLoS One
     issuepage: 12(4):e0175885
 
-- title: A Temporal Perspective on the Interplay of Demography and Selection on Deleterious Variation in Humans
-  authors: Koch EM, Novembre J
+- title: A Temporal Perspective on the Interplay of Demography and Selection on Deleterious Variation in Humans.
+  authors: Koch EM, <em>Novembre J</em>.
   date: 2017
   link:
     url: http://www.g3journal.org/content/7/3/1027
@@ -223,7 +229,7 @@
 
 
 - title: Visualizing the Geography of Genetic Variants.
-  authors: Marcus JH, Novembre J.
+  authors: Marcus JH, <em>Novembre J</em>.
   date: 2017
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27742697
@@ -231,7 +237,7 @@
     issuepage: 33(4)\:594-595
 
 - title: Pritchard, Stephens, and Donnelly on Population Structure.
-  authors: Novembre J.
+  authors: <em>Novembre J</em>.
   date: 2016
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27729489
@@ -239,7 +245,7 @@
     issuepage: 204\:391-393
 
 - title: Recent advances in the study of fine-scale population structure in humans.
-  authors: Novembre J, Peter B.
+  authors: <em>Novembre J</em>, Peter B.
   date: 2016
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27662060
@@ -247,7 +253,7 @@
     issuepage: 41\:98-105
 
 - title: Demographically-Based Evaluation of Genomic Regions under Selection in Domestic Dogs.
-  authors: Freedman AH, Schweizer RM, Ortega-Del Vecchyo D, Han E, Davis BW, Gronau I, Silva PM, Galaverni M, Fan Z, Marx P, Lorente-Galdos B, Ramirez O, Hormozdiari F, Alkan C, Vilà C, Squire K, Geffen E, Kusak J, Boyko AR, Parker HG, Lee C, Tadigotla V, Siepel A, Bustamante CD, Harkins TT, Nelson SF, Marques-Bonet T, Ostrander EA, Wayne RK, Novembre J.
+  authors: Freedman AH, Schweizer RM, Ortega-Del Vecchyo D, Han E, Davis BW, Gronau I, Silva PM, Galaverni M, Fan Z, Marx P, Lorente-Galdos B, Ramirez O, Hormozdiari F, Alkan C, Vilà C, Squire K, Geffen E, Kusak J, Boyko AR, Parker HG, Lee C, Tadigotla V, Siepel A, Bustamante CD, Harkins TT, Nelson SF, Marques-Bonet T, Ostrander EA, Wayne RK, <em>Novembre J</em>.
   date: 2016
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26943675
@@ -255,7 +261,7 @@
     issuepage: 12\:e1005851
 
 - title: Conflations of short IBD blocks can bias inferred length of IBD.
-  authors: Chiang CWK, Ralph P, Novembre J.
+  authors: Chiang CWK, Ralph P, <em>Novembre J</em>.
   date: 2016
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26935417
@@ -278,7 +284,7 @@
     issuepage: 48\:94-100
 
 - title: Height-reducing variants and selection for short stature on the island of Sardinia.
-  authors: Zoledziewska M, Sidore C, Chiang CWK, Sanna S, Mulas A, Steri M, Busonero F, Marcus JH, Marongiu M, Maschio A, Ortega Del Vecchyo D, Floris M, Meloni A, Delitala A, Concas MP, Murgia F, Biino G, Vaccargiu S, Nagaraja R, Lohmueller KE, UK10K consortium, Timpson NJ, Soranzo N, Tachmazidou I Dedoussis G, Zeggini E, The Understanding Society Scientific Group, Uzzau S, Jones C, Lyons R, Angius A, Abecasis GR, Novembre J, Schlessinger D, Cucca F.
+  authors: Zoledziewska M, Sidore C, Chiang CWK, Sanna S, Mulas A, Steri M, Busonero F, Marcus JH, Marongiu M, Maschio A, Ortega Del Vecchyo D, Floris M, Meloni A, Delitala A, Concas MP, Murgia F, Biino G, Vaccargiu S, Nagaraja R, Lohmueller KE, UK10K consortium, Timpson NJ, Soranzo N, Tachmazidou I Dedoussis G, Zeggini E, The Understanding Society Scientific Group, Uzzau S, Jones C, Lyons R, Angius A, Abecasis GR, <em>Novembre J</em>, Schlessinger D, Cucca F.
   date: 2015
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26366551
@@ -286,7 +292,7 @@
     issuepage: 47\:1352-6
 
 - title: Human Evolution - ancient DNA steps into the language debate.
-  authors: Novembre J.
+  authors: <em>Novembre J</em>.
   date: 2015
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/26062506
@@ -294,9 +300,9 @@
     issuepage: 11\:164-165
 
 
-- title: Power analysis of artificial selection experiments using efficient whole genome simulation of quantitative traits
+- title: Power analysis of artificial selection experiments using efficient whole genome simulation of quantitative traits.
   authors:
-    Kessner D, Novembre J.
+    Kessner D, <em>Novembre J</em>.
   date: 2015
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/25672748
@@ -304,9 +310,9 @@
     issuepage: 199\:991-1005
 
 
-- title: Fast and accurate site frequency spectrum estimation from low coverage sequence data
+- title: Fast and accurate site frequency spectrum estimation from low coverage sequence data.
   authors:
-    Han E, Sinsheimer JS, Novembre J
+    Han E, Sinsheimer JS, <em>Novembre J</em>.
   date: 2015
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/25359894
@@ -314,48 +320,48 @@
     issuepage: 31\:720-7
 
 
-- title: Spatial localization of recent ancestors for admixed individuals
-  authors: Yang WY, Platt A, Chiang CW, Eskin E, Novembre J, Pasaniuc B
+- title: Spatial localization of recent ancestors for admixed individuals.
+  authors: Yang WY, Platt A, Chiang CW, Eskin E, <em>Novembre J</em>, Pasaniuc B.
   date: 2014
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/25371484
     journal: G3
     issuepage: 4\:2505-18
 
-- title: Demographic events and evolutionary forces shaping European genetic diversity
-  authors: Veeramah KR, Novembre J.
+- title: Demographic events and evolutionary forces shaping European genetic diversity.
+  authors: Veeramah KR, <em>Novembre J</em>.
   date: 2014
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/25059709
     journal: Cold Spring Harb Perspect Biol
     issuepage: 6(9)\:a008516
 
-- title: Variations on a Common STRUCTURE - New Algorithms for a Valuable Model
-  authors: Novembre, J
+- title: Variations on a Common STRUCTURE - New Algorithms for a Valuable Model.
+  authors: <em>Novembre, J</em>.
   date: 2014
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/25024035
     journal: Genetics
     issuepage: 197\:809-811
 
-- title: Derived immune and ancestral pigmentation alleles in a 7,000-year-old Mesolithic European
-  authors: Olalde I, Allentoft ME, Sánchez-Quinto F, Santpere G, Chiang CW, Degiorgio M, Prado-Martinez J, Rodríguez JA, Rasmussen S, Quilez J, Ramírez O, Marigorta UM, Fernández-Callejo M, Prada ME, Encinas JM, Nielsen R, Netea MG, Novembre J, Sturm RA, Sabeti P, Marquès-Bonet T, Navarro A, Willerslev E, Lalueza-Fox C.
+- title: Derived immune and ancestral pigmentation alleles in a 7,000-year-old Mesolithic European.
+  authors: Olalde I, Allentoft ME, Sánchez-Quinto F, Santpere G, Chiang CW, Degiorgio M, Prado-Martinez J, Rodríguez JA, Rasmussen S, Quilez J, Ramírez O, Marigorta UM, Fernández-Callejo M, Prada ME, Encinas JM, Nielsen R, Netea MG, <em>Novembre J</em>, Sturm RA, Sabeti P, Marquès-Bonet T, Navarro A, Willerslev E, Lalueza-Fox C.
   date: 2014
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/24463515
     journal: Nature
     issuepage: 507(7491):225-8
 
-- title: Genome sequencing highlights the dynamic early history of dogs
-  authors: Freedman AH, Gronau I, Schweizer RM, Ortega-Del Vecchyo D, Han E, Silva PM, Galaverni M, Fan Z, Marx P, Lorente-Galdos B, Beale H, Ramirez O, Hormozdiari F, Alkan C, Vilà C, Squire K, Geffen E, Kusak J, Boyko AR, Parker HG, Lee C, Tadigotla V, Siepel A, Bustamante CD, Harkins TT, Nelson SF, Ostrander EA, Marques-Bonet T, Wayne RK, Novembre J.
+- title: Genome sequencing highlights the dynamic early history of dogs.
+  authors: Freedman AH, Gronau I, Schweizer RM, Ortega-Del Vecchyo D, Han E, Silva PM, Galaverni M, Fan Z, Marx P, Lorente-Galdos B, Beale H, Ramirez O, Hormozdiari F, Alkan C, Vilà C, Squire K, Geffen E, Kusak J, Boyko AR, Parker HG, Lee C, Tadigotla V, Siepel A, Bustamante CD, Harkins TT, Nelson SF, Ostrander EA, Marques-Bonet T, Wayne RK, <em>Novembre J</em>.
   date: 2014
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/24453982
     journal: PLoS Genetics
     issuepage: 10\:e1004016
 
-- title: Analysis of rare variant population structure in Europeans explains differential stratification of gene-based tests
-  authors: Zawistowski M, Reppell M, Wegmann D, St Jean PL, Ehm MG, Nelson MR, Novembre J, Zöllner S.
+- title: Analysis of rare variant population structure in Europeans explains differential stratification of gene-based tests.
+  authors: Zawistowski M, Reppell M, Wegmann D, St Jean PL, Ehm MG, Nelson MR, <em>Novembre J</em>, Zöllner S.
   date: 2014
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/24398795
@@ -364,23 +370,23 @@
 
 
 - title: forqs - forward-in-time simulation of recombination, quantitative traits and selection.
-  authors: Kessner D, Novembre J.
+  authors: Kessner D, <em>Novembre J</em>.
   date: 2013
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/24336146
     journal: Bioinformatics
     issuepage: 30(4)\:576-7
 
-- title: Characterizing bias in population genetic inferences from low coverage sequencing data
-  authors: Han E, Sinsheimer JS, Novembre J.
+- title: Characterizing bias in population genetic inferences from low coverage sequencing data.
+  authors: Han E, Sinsheimer JS, <em>Novembre J</em>.
   date: 2013
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/24288159
     journal: Molecular Biology and Evolution
     issuepae: 31(5)\:720-7
 
-- title: Novel statistical methods for integrating genetic and stable isotope data to infer individual-level migratory connectivity
-  authors: Rundel CW, Wunder MB, Alvarado AH, Ruegg KC, Harrigan R, Schuh A, Kelly JF, Siegel RB, Desante DF, Smith TB, Novembre J.
+- title: Novel statistical methods for integrating genetic and stable isotope data to infer individual-level migratory connectivity.
+  authors: Rundel CW, Wunder MB, Alvarado AH, Ruegg KC, Harrigan R, Schuh A, Kelly JF, Siegel RB, Desante DF, Smith TB, <em>Novembre J</em>.
   date: 2013
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/23906339
@@ -389,7 +395,7 @@
 
 
 - title: Maximum Likelihood Estimation of Frequencies of Known Haplotypes from Pooled Sequence Data.
-  authors: Kessner D, Turner TL, Novembre J.
+  authors: Kessner D, Turner TL, <em>Novembre J</em>.
   date: 2013
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/23364324
@@ -406,7 +412,7 @@
 
 - title: A model-based approach for analysis of spatial structure in genetic data.
   authors:
-    Yang WY, Novembre J, Eskin E, Halperin E.
+    Yang WY, <em>Novembre J</em>, Eskin E, Halperin E.
   data: 2012
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/22610118
@@ -416,7 +422,7 @@
 
 - title: Genetic variation in the Sorbs of eastern Germany in the context of broader European genetic diversity.
   authors:
-    Veeramah KR, Tönjes A, Kovacs P, Gross A, Wegmann D, Geary P, Gasperikova D, Klimes I, Scholz M, Novembre J, Stumvoll M.
+    Veeramah KR, Tönjes A, Kovacs P, Gross A, Wegmann D, Geary P, Gasperikova D, Klimes I, Scholz M, <em>Novembre J</em>, Stumvoll M.
   date: 2011
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/21559053
@@ -425,7 +431,7 @@
 
 
 - title: Perspectives on human population structure at the cusp of the sequencing era.
-  authors: Novembre J, Ramachandran S.
+  authors: <em>Novembre J</em>, Ramachandran S.
   date: 2011
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/21801023
@@ -433,7 +439,7 @@
     issuepage: 12\:245-74
 
 - title: Recombination rates in admixed individuals identified by ancestry-based inference.
-  authors: Wegmann D, Kessner DE, Veeramah KR, Mathias RA, Nicolae DL, Yanek LR, Sun YV, Torgerson DG, Rafaels N, Mosley T, Becker LC, Ruczinski I, Beaty TH, Kardia SL, Meyers DA, Barnes KC, Becker DM, Freimer NB, Novembre J
+  authors: Wegmann D, Kessner DE, Veeramah KR, Mathias RA, Nicolae DL, Yanek LR, Sun YV, Torgerson DG, Rafaels N, Mosley T, Becker LC, Ruczinski I, Beaty TH, Kardia SL, Meyers DA, Barnes KC, Becker DM, Freimer NB, <em>Novembre J</em>.
   date: 2011
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/21775992
@@ -442,7 +448,7 @@
 
 
 - title: A genome-wide perspective on the evolutionary history of enigmatic wolf-like canids.
-  authors: vonHoldt BM, Pollinger JP, Earl DA, Knowles JC, Boyko AR, Parker H, Geffen E, Pilot M, Jedrzejewski W, Jedrzejewska B, Sidorovich V, Greco C, Randi E, Musiani M, Kays R, Bustamante CD, Ostrander EA,  Novembre J, Wayne RK.
+  authors: vonHoldt BM, Pollinger JP, Earl DA, Knowles JC, Boyko AR, Parker H, Geffen E, Pilot M, Jedrzejewski W, Jedrzejewska B, Sidorovich V, Greco C, Randi E, Musiani M, Kays R, Bustamante CD, Ostrander EA,  <em>Novembre J</em>, Wayne RK.
   date: 2011
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/21566151
@@ -450,7 +456,7 @@
     issuepage: 21\:1294-305
 
 - title: Principal component analysis under population genetic models of range expansion and admixture.
-  authors: François O, Currat M, Ray N, Han E, Excoffier L, Novembre J.
+  authors: François O, Currat M, Ray N, Han E, Excoffier L, <em>Novembre J</em>.
   date: 2010
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/20097660
@@ -458,7 +464,7 @@
     issuepage: 27\:1257-68
 
 - title: Genome-wide SNP and haplotype analyses reveal a rich history underlying dog domestication.
-  authors: vonholdt BM, Pollinger JP, Lohmueller KE, Han E, Parker HG, Quignon P, Degenhardt JD, Boyko AR, Earl DA, Auton A, Reynolds A, Bryc K, Brisbin A, Knowles JC, Mosher DS, Spady TC, Elkahloun A, Geffen E, Pilot M, Jedrzejewski W, Greco C, Randi E, Bannasch D, Wilton A, Shearman J, Musiani M, Cargill M, Jones PG, Qian Z, Huang W, Ding ZL, Zhang YP, Bustamante CD, Ostrander EA, Novembre J, Wayne RK
+  authors: vonHoldt BM, Pollinger JP, Lohmueller KE, Han E, Parker HG, Quignon P, Degenhardt JD, Boyko AR, Earl DA, Auton A, Reynolds A, Bryc K, Brisbin A, Knowles JC, Mosher DS, Spady TC, Elkahloun A, Geffen E, Pilot M, Jedrzejewski W, Greco C, Randi E, Bannasch D, Wilton A, Shearman J, Musiani M, Cargill M, Jones PG, Qian Z, Huang W, Ding ZL, Zhang YP, Bustamante CD, Ostrander EA, <em>Novembre J</em>, Wayne RK.
   date: 2010
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/20237475
@@ -466,7 +472,7 @@
     issuepage: 464\:898-902
 
 - title: Likelihood-based inference in isolation-by-distance models using the spatial distribution of low-frequency alleles.
-  authors: Novembre J, Slatkin M
+  authors: <em>Novembre J</em>, Slatkin M.
   date: 2009
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19624728
@@ -474,7 +480,7 @@
     issuepage: 63\:2914-25
 
 - title: Spatial patterns of variation due to natural selection in humans.
-  authors:  Novembre J, Di Rienzo A
+  authors:  <em>Novembre J</em>, Di Rienzo A.
   date: 2009
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19823195
@@ -482,7 +488,7 @@
     issuepage: 10\:745-55
 
 - title: Fast model-based estimation of ancestry in unrelated individuals.
-  authors: Alexander DH, Novembre J, Lange K
+  authors: Alexander DH, <em>Novembre J</em>, Lange K.
   date: 2009
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19648217
@@ -490,7 +496,7 @@
     issuepage: 19\:1655-64
 
 - title: The role of geography in human adaptation.
-  authors: Coop G, Pickrell JK, Novembre J, Kudaravalli S, Li J, Absher D, Myers RM, Cavalli-Sforza LL, Feldman MW, Pritchard JK
+  authors: Coop G, Pickrell JK, <em>Novembre J</em>, Kudaravalli S, Li J, Absher D, Myers RM, Cavalli-Sforza LL, Feldman MW, Pritchard JK.
   date: 2009
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19503611
@@ -498,7 +504,7 @@
     issuepage: 5\:e1000500
 
 - title: Signals of recent positive selection in a worldwide sample of human populations.
-  authors: Pickrell JK, Coop G, Novembre J, Kudaravalli S, Li JZ, Absher D, Srinivasan BS, Barsh GS, Myers RM, Feldman MW, Pritchard JK
+  authors: Pickrell JK, Coop G, <em>Novembre J</em>, Kudaravalli S, Li JZ, Absher D, Srinivasan BS, Barsh GS, Myers RM, Feldman MW, Pritchard JK.
   date: 2009
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19307593
@@ -506,7 +512,7 @@
     issuepage: 19\:826-37
 
 - title: Global distribution of genomic diversity underscores rich complex history of continental human populations.
-  authors: Auton A, Bryc K, Boyko AR, Lohmueller KE, Novembre J, Reynolds A, Indap A, Wright MH, Degenhardt JD, Gutenkunst RN, King KS, Nelson MR, Bustamante CD
+  authors: Auton A, Bryc K, Boyko AR, Lohmueller KE, <em>Novembre J</em>, Reynolds A, Indap A, Wright MH, Degenhardt JD, Gutenkunst RN, King KS, Nelson MR, Bustamante CD.
   date: 2009
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/19218534
@@ -515,7 +521,7 @@
 
 - title: Genes mirror geography within Europe.
   authors:
-    Novembre J, Johnson T, Bryc K, Kutalik Z, Boyko AR, Auton A, Indap A, King KS, Bergmann S, Nelson MR, Stephens M, Bustamante CD
+    <em>Novembre J</em>, Johnson T, Bryc K, Kutalik Z, Boyko AR, Auton A, Indap A, King KS, Bergmann S, Nelson MR, Stephens M, Bustamante CD.
   date: 2008
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/18758442
@@ -525,7 +531,7 @@
 
 - title: The Population Reference Sample, POPRES -  a resource for population, disease, and pharmacological genetics research.
   authors:
-      Nelson MR, Bryc K, King KS, Indap A, Boyko AR, Novembre J, Briley LP, Maruyama Y, Waterworth DM, Waeber G, Vollenweider P, Oksenberg JR, Hauser SL, Stirnadel HA, Kooner JS, Chambers JC, Jones B, Mooser V, Bustamante CD, Roses AD, Burns DK, Ehm MG, Lai EH
+      Nelson MR, Bryc K, King KS, Indap A, Boyko AR, <em>Novembre J</em>, Briley LP, Maruyama Y, Waterworth DM, Waeber G, Vollenweider P, Oksenberg JR, Hauser SL, Stirnadel HA, Kooner JS, Chambers JC, Jones B, Mooser V, Bustamante CD, Roses AD, Burns DK, Ehm MG, Lai EH.
   date: 2008
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/18760391
@@ -535,7 +541,7 @@
 
 - title: Interpreting principal component analyses of spatial population genetic variation.
   authors:
-    Novembre J, Stephens M
+    <em>Novembre J</em>, Stephens M.
   date: 2008
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/18425127
@@ -544,7 +550,7 @@
 
 - title : Ascertainment bias in spatially structured populations - A case study in the eastern fence lizard
   authors:
-    Rosenblum EB, Novembre J
+    Rosenblum EB, <em>Novembre J</em>.
   date: 2007
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/17611259
@@ -553,7 +559,7 @@
 
 - title: The geographic spread of the CCR5 Delta32 HIV-resistance allele.
   authors:
-    Novembre J, Galvani AP, Slatkin
+    <em>Novembre J</em>, Galvani AP, Slatkin M.
   date: 2005
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/16216086
@@ -562,7 +568,7 @@
 
 - title: Finding haplotype block boundaries by using the minimum-description-length principle.
   authors:
-    Anderson EC, <i>Novembre J</i>
+    Anderson EC, <i>Novembre J</i>.
   date: 2003
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/12858289
@@ -571,7 +577,7 @@
 
 - title: Accounting for background nucleotide composition when measuring codon usage bias.
   authors:
-    <i>Novembre J</i>
+    <i>Novembre J</i>.
   date: 2002
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/12140252
@@ -581,7 +587,7 @@
 - title: SIMCOAL- a general coalescent program for the simulation of molecular data in interconnected populations with arbitrary demography.
   date: 2000
   authors:
-    Excoffier L, Novembre J, Schneider S
+    Excoffier L, Novembre J, Schneider S.
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/11218093
     journal: The Journal of heredity
