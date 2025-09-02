@@ -26,6 +26,10 @@ permalink: /team/
 
 # Alumni
  After more than ten years now as a lab, we have an even spread of alumni that have gone into academics and industry. Thus far, geographically our alumni can be found in the United States, Mexico, Canada, Switzerland, and Germany.  While we work in a university setting and train ourselves in the practice of research and teaching, this prepares our alumni for a broad set of careers.
+- [Luke Anderson-Trocmé](https://lukeandersontrocme.github.io/): Postdoctoral fellow, 2023-2025. Assistant Professor, Université de Montréal.
+- [Maggie Steiner](https://maggiesteiner.github.io/): PhD student in Human Genetics, 2025. Consultant, BCG.
+- [Vivaswat Shastry](https://vivaswats.github.io/1_about.html): PhD student in the Genetics, Genomics, and Systems Biology Program, 2025. Postdoctoral researcher, University of Chicago.
+- [Xinyi Li](https://scholar.google.com/citations?user=P2QcsnAAAAAJ&hl=en): PhD student in the Genetics, Genomics, and Systems Biology Program, 2025. Postdoctoral scholar, Stanford University.
 - [Hannah Moots](https://sites.google.com/view/hannah-moots/home): Postdoctoral Fellow, 2021-2023. Postdoctoral Researcher, Centre for Palaeogenetics in Stockholm. 
 - [Heather Skeen](https://scholar.google.com/citations?user=h58BltkAAAAJ&hl=en): PhD student in the Committee on Evolutionary Biology, 2022.  Postdoctoral fellow, Universisty of Conneticut. 
 - [Mashaal Sohail](https://www.sohaillab.com): Chicago Fellow, 2019-2021.  Associate Professsor, UNAM. 

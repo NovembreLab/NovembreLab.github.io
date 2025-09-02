@@ -2,11 +2,6 @@
   photo: john-novembre.png
   info: Professor
   blurb: "I got my start in this field through a combination of enjoying computer programming as a hobby and thinking about evolution as one of the world's most fascinating natural processes.  Now, my main research tackles statistical and theoretical problems to help enable discoveries about evolutionary processes and the nature of disease variation. Much of that work is in the context of human genetic variation, which is doubly fascinating because of the connections to fields like linguistics, archaeology, and history.  For my training, I earned my undergrad degree in biochemistry at the Colorado College, studied for my PhD in Integrative Biology (with a designated emphasis in Computational Biology & Genomics) at UC-Berkeley under Montgomery Slatkin, and did a  postdoc in Human Genetics at Chicago with Matthew Stephens.  My first faculty position was in the Ecology and Evolutionary Biology Department at UCLA and then I returned to the University of Chicago in 2013.  Outside of my work I enjoy travel, music, and a variety of different outdoor sports."
-
-- name: Luke Anderson-Trocmé
-  photo: landersontrocme.jpg
-  info: Postdoctoral fellow
-  blurb: "Luke is interested in visualizing the spatial distribution of genetic variation. His PhD work included the analysis of genetic, genealogical and geographic data from Quebec."
  
 - name: Carla Hoge
   photo: Carla_headshot.jpg
@@ -18,11 +13,6 @@
   info: PhD Student in the Human Genetics Program
   blurb: "Marida is interested in studying how genetics and the environment interact to create geographic patterns of variation in complex traits - and the implications of this on GWAS. Before coming to Chicago, she earned an MSc in Bioinformatics from the University of Copenhagen, where she was exploring the genetics of dietary adaptation in the Stone Age, in the Racimo lab. (When not at her desk, Marida can be found painting portraits and learning to dance the Electric Boogaloo.)"
 
-- name: Xinyi Li
-  photo: xinyi.jpg
-  info: PhD Student in the Genetics, Genomics and Systems Biology Program
-  blurb: "Xinyi is interested in studying natural selection and the evolution of complex traits to increase our understanding on disease mechanism, especially immune traits. Prior to joining the lab, Xinyi worked on statistical method development for estimating disease heritability in admixed populations."
-
 - name: Sherif Negm
   photo: sherif.jpg
   info: PhD Student in the Human Genetics Program
@@ -33,17 +23,7 @@
   info: PhD Student in the Biophysics Program
   blurb: "Ahmed is broadly interested in understanding how the history of the ancestors of a population affects its observed genetic variation, and how this history can be understood from such observation. He is particulary interested in building and sharing a more realistic understanding of the relationship between individuals in a population, and between the ancestors of these individuals."
 
-- name: Vivaswat Shastry
-  photo: viv.jpg
-  info: PhD Student in the Genetics, Genomics and Systems Biology Program
-  blurb: "Vivaswat is broadly interested in developing methods for use by empirical population geneticists. In the lab, he is currently extending FEEMS to incorporate the effects of long-range admixture events. He is co-advised by Jeremy Berg. Outside of lab, he enjoys writing fiction and making people laugh."
-
 - name: Hao Shen
   photo: hshen.jpg
   info: Postdoctoral fellow
   blurb: "Hao's expertise is in theoretical population genetics and statistical genetics.  His PhD work included an analysis of causal inference in the presence of direct and indirect genetics effects.  For his postdoctoral research, he will be investigating models of time-varying migration rate in spatial population genetics."
-
-- name: Maggie Steiner
-  photo: msteiner.jpg
-  info: PhD Student in the Human Genetics Program
-  blurb: "Maggie is interested in studying spatial processes in evolution and impacts on human disease traits.  Her current research focuses on the impact of geographic sampling and dispersal on rare variant ascertainment and models for the spatial spread of adaptive alleles. Prior to joining the lab, she graduated from George Washington University with a BS in Mathematics and studied evolutionary genomics in retroviruses."

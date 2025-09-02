@@ -1,9 +1,29 @@
-- authors: <em>Steiner MC</em>, <em>Rice DP</em>, <em>Biddanda A</em>, <em>Ianni-Ravn MK</em>, <em>Porras C</em>, & <em>Novembre, J</em>.
+- authors: <em>Shastry V</em>, Musiani M, <em>Novembre J</em>.
   date: 2030
+  title: Jointly representing long-range genetic similarity and spatially heterogeneous isolation-by-distance.
+  link: 
+    url: https://www.biorxiv.org/content/10.1101/2025.02.10.637386v2
+    journal: bioRxiv
+
+- authors: <em>Shen H</em> and <em>Novembre J</em>.
+  date: 2030
+  title: Fine-Resolution Asymmetric Migration Estimation.
+  link: 
+    url: https://www.biorxiv.org/content/10.1101/2025.05.29.656894v1
+    journal: bioRxiv
+
+- authors: <em>Steiner MC</em>, <em>Rice DP</em>, <em>Biddanda A</em>, <em>Ianni-Ravn MK</em>, <em>Porras C</em>, & <em>Novembre, J</em>.
+  date: 2025
   title: Study design and the sampling of deleterious rare variants in biobank-scale datasets.
   link: 
-    url: https://www.biorxiv.org/content/10.1101/2024.12.02.626424v1
-    journal: bioRxiv
+    url: https://www.pnas.org/doi/10.1073/pnas.2425196122
+    journal: Proceedings of the National Academy of Sciences, 122(23), e2425196122
+- authors: <em>Steiner MC</em>, <em>Rice DP</em>, <em>Biddanda A</em>, <em>Ianni-Ravn MK</em>, <em>Porras C</em>, & <em>Novembre, J</em>.
+  date: 2025
+  title: Study design and the sampling of deleterious rare variants in biobank-scale datasets.
+  link: 
+    url: https://www.pnas.org/doi/10.1073/pnas.2425196122
+    journal: Proceedings of the National Academy of Sciences, 122(23), e2425196122
 
 - authors: NASEM Committee
   date: 2023
@@ -47,12 +67,12 @@
     url: https://academic.oup.com/genetics/article/224/2/iyad070/7131138
     journal: Genetics, 224(2), iyad070.
        
-- title: Distinguishing multiple-merger from Kingman coalescence using two-site frequency spectra.
-  authors: <em>Rice DP</em>, <em>Novembre J</em>, Desai MM.
-  date: 2030
+- title: Detecting deviations from Kingman coalescence using 2-site frequency spectra.
+  authors: Fenton E, <em>Rice DP</em>, <em>Novembre J</em>, Desai MM.
+  date: 2025
   link:
-    url: https://doi.org/10.1101/461517
-    journal: bioRxiv
+    url: https://doi-org/10.1093/genetics/iyaf023
+    journal: Genetics, 229(4), iyaf023
        
 - title: Population genetic models for the spatial spread of adaptive variants- A review in light of SARS-CoV-2 evolution.
   authors: <em>Steiner MC</em>, <em>Novembre J</em>.
