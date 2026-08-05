@@ -26,6 +26,7 @@ permalink: /team/
 
 # Alumni
  After more than ten years now as a lab, we have an even spread of alumni that have gone into academics and industry. Thus far, geographically our alumni can be found in the United States, Mexico, Canada, Switzerland, and Germany.  While we work in a university setting and train ourselves in the practice of research and teaching, this prepares our alumni for a broad set of careers.
+- [Hao Shen](https://scholar.google.com/citations?user=l1_-0LwAAAAJ&hl=en): Postdoctoral fellow, 2022-2026. Assistant Professor, University of Copenhagen.
 - [Luke Anderson-Trocmé](https://lukeandersontrocme.github.io/): Postdoctoral fellow, 2023-2025. Assistant Professor, Université de Montréal.
 - [Maggie Steiner](https://maggiesteiner.github.io/): PhD student in Human Genetics, 2025. Consultant, BCG.
 - [Vivaswat Shastry](https://vivaswats.github.io/1_about.html): PhD student in the Genetics, Genomics, and Systems Biology Program, 2025. Postdoctoral researcher, University of Chicago.

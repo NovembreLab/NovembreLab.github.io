@@ -1,16 +1,16 @@
-- authors: <em>Shastry V</em>, Musiani M, <em>Novembre J</em>.
-  date: 2030
-  title: Jointly representing long-range genetic similarity and spatially heterogeneous isolation-by-distance.
-  link: 
-    url: https://www.biorxiv.org/content/10.1101/2025.02.10.637386v2
-    journal: bioRxiv
-
 - authors: <em>Shen H</em> and <em>Novembre J</em>.
   date: 2030
-  title: Fine-Resolution Asymmetric Migration Estimation.
+  title: When migration leaves a clean trace- Decoupling migration from coalescence in the structured serial coalescent
   link: 
-    url: https://www.biorxiv.org/content/10.1101/2025.05.29.656894v1
-    journal: bioRxiv
+    url: https://doi.org/10.1101/2025.10.10.681523
+    journal: bioRxiv 
+
+- authors: <em>Shen H</em> and <em>Novembre J</em>.
+  date: 2026
+  title: FRAME, Fine-Resolution Asymmetric Migration Estimation.
+  link: 
+    url: https://www.nature.com/articles/s41467-026-74129-2
+    journal: Nature Communications
 
 - authors: <em>Steiner MC</em>, <em>Rice DP</em>, <em>Biddanda A</em>, <em>Ianni-Ravn MK</em>, <em>Porras C</em>, & <em>Novembre, J</em>.
   date: 2025
@@ -18,6 +18,13 @@
   link: 
     url: https://www.pnas.org/doi/10.1073/pnas.2425196122
     journal: Proceedings of the National Academy of Sciences, 122(23), e2425196122
+
+- authors: <em>Shastry V</em>, Musiani M, <em>Novembre J</em>.
+  date: 2025
+  title: Jointly representing long-range genetic similarity and spatially heterogeneous isolation-by-distance.
+  link: 
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011612
+    journal: PLoS Genetics,  21(9), e1011612
 
 - authors: NASEM Committee
   date: 2023
@@ -33,7 +40,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/37821706/
     journal: Nature, 622(7984), 775-783.
  
-- authors: <em>Liu CC</em>, Witonsky D, Gosling A, Lee JH, <em>Ringbauer H<e/m>, Hagan R, Patel N, Stahl R, <em>Novembre J</em>, Aldenderfer M, Warriner C, Di Rienz A, Jeong C.
+- authors: <em>Liu CC</em>, Witonsky D, Gosling A, Lee JH, <em>Ringbauer H</em>, Hagan R, Patel N, Stahl R, <em>Novembre J</em>, Aldenderfer M, Warriner C, Di Rienz A, Jeong C.
   date: 2022
   title: Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors.
   link:
@@ -123,7 +130,7 @@
     software: https://github.com/aabiddanda/geovar
 
 - title: Genetic history from the Middle Neolithic to present on the Mediterranean island of Sardinia.
-  authors: <em>Marcus JH<\em>, Posth C, <em>Ringbauer H<\em>, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, <em>Chiang CWK<\em>, <em>Al-Asadi H<\em>, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, <em>Novembre J</em>.
+  authors: <em>Marcus JH</em>, Posth C, <em>Ringbauer H</em>, Lai L, Skeates R, Sidore C, Beckett J, Furtwängler A ,Olivieri A, <em>Chiang CWK</em>, <em>Al-Asadi H</em>, Dey KK, Joseph TA, Der Sarkissian C, Radzevičiūtė R, Gradoli MG, Haak W, Reich D, Schlessinger D, Cucca F, Krause J, <em>Novembre J</em>.
   date: 2020
   link:
     url:  https://www.nature.com/articles/s41467-020-14523-6
@@ -131,7 +138,7 @@
     issuepage: 11\:939
 
 - title: Exploring Population Structure with Admixture Models and Principal Component Analysis.
-  authors: <em>Liu CC<\em>, Shringarpure S, Lange K, <em>Novembre J</em>.
+  authors: <em>Liu CC</em>, Shringarpure S, Lange K, <em>Novembre J</em>.
   date: 2020
   link:
       url: https://link.springer.com/protocol/10.1007\%2F978-1-0716-0199-0_4
@@ -139,7 +146,7 @@
       issuepage: pp 67-86
 
 - title: Genetic landscapes reveal how human genetic diversity aligns with geography.
-  authors: <em>Peter BM<\em>, Petkova D, <em>Novembre J</em>.
+  authors: <em>Peter BM</em>, Petkova D, <em>Novembre J</em>.
   date: 2020
   link:
     url: https://doi.org/10.1093/molbev/msz280
@@ -147,7 +154,7 @@
     issuepage: 4\:943–951
 
 - title: De novo mutation rate estimation in wolves of known pedigree.
-  authors: <em>Koch E<\em>, Schweizer RM, Schweizer TM, Stahler DR, Smith DW, Wayne RK, <em>Novembre J</em>.
+  authors: <em>Koch E</em>, Schweizer RM, Schweizer TM, Stahler DR, Smith DW, Wayne RK, <em>Novembre J</em>.
   date: 2019
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/31297530/
@@ -155,7 +162,7 @@
     issuepage: 36(11)\:2536-2547
 
 - title: Estimating recent migration and population-size surfaces.
-  authors: <em>Al-Asadi H<\em>, Petkova D, Stephens M, <em>Novembre J</em>.
+  authors: <em>Al-Asadi H</em>, Petkova D, Stephens M, <em>Novembre J</em>.
   date: 2019
   link:
     url: https://doi.org/10.1371/journal.pgen.1007908
@@ -163,7 +170,7 @@
     issuepage: 15(1)\:e1007908
 
 - title: The effects of demography and genetics on the neutral distribution of quantitative traits.
-  authors: <em>Koch EM.<\em>
+  authors: <em>Koch EM.</em>
   date: 2019
   link:
     url: https://doi.org/10.1534/genetics.118.301839

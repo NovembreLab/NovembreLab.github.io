@@ -31,6 +31,18 @@ Italics indicate current/former lab members.  * indicates authors contributed eq
  {% endif %}
 {% endfor %}
 
+## 2026
+
+{% for publi in site.data.publist %}
+ {% if publi.date == 2026 %}
+
+ <b>{{ publi.title }}</b> <br/>
+ {{ publi.authors }}<br/>
+ <a href="{{ publi.link.url }}">\[ {{ publi.link.journal }} {{publi.link.issuepage}} \]</a>
+
+ {% endif %}
+{% endfor %}
+
 ## 2025
 
 {% for publi in site.data.publist %}
